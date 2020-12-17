@@ -1,0 +1,16 @@
+find data/JSTORArabic-ground-truth -name '*.gt.txt' | xargs -I{} sh -c "cat {}; echo ''" > "data/JSTORArabic/all-gt"
+combine_tessdata -u /home/ubuntu/tessdata_best/ara.traineddata  data/ara/JSTORArabic
+Extracting tessdata components from /home/ubuntu/tessdata_best/ara.traineddata
+Wrote data/ara/JSTORArabic.config
+Wrote data/ara/JSTORArabic.lstm
+Wrote data/ara/JSTORArabic.lstm-punc-dawg
+Wrote data/ara/JSTORArabic.lstm-word-dawg
+Wrote data/ara/JSTORArabic.lstm-number-dawg
+Wrote data/ara/JSTORArabic.lstm-unicharset
+Wrote data/ara/JSTORArabic.lstm-recoder
+Wrote data/ara/JSTORArabic.version
+unicharset_extractor --output_unicharset "data/JSTORArabic/my.unicharset" --norm_mode 3 "data/JSTORArabic/all-gt"
+merge_unicharsets data/ara/JSTORArabic.lstm-unicharset data/JSTORArabic/my.unicharset  "data/JSTORArabic/unicharset"
+Loaded unicharset of size 85 from file data/ara/JSTORArabic.lstm-unicharset
+Loaded unicharset of size 99 from file data/JSTORArabic/my.unicharset
+Wrote unicharset file data/JSTORArabic/unicharset.
