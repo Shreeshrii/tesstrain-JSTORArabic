@@ -28,23 +28,43 @@ rm -v $(find . -size 0|sed s/.gt.txt/.*/)
 # The heuristics here assumes that such images have a 3 digit width and a 4 digit height.
 rm -v $( file *.png|grep ", ... x ....,"|sed s/png/*/)
 
-# Replace EXTENDED ARABIC-INDIC DIGITs by ARABIC-INDIC DIGITs
-for t in *.txt; do sed -i -f ../../fixpersiannumbers.sed $t ; done
+# Replace Farsi numbers by EAN - This is needed because of wrong transcription.
+sed -i -f ../../fixpersiannumbers.sed *.gt.txt
 
-# Replace Western DIGITs by ARABIC-INDIC DIGITs
-for t in *.txt; do sed -i -f ../../fixwesternnumbers.sed $t ; done
+# Replace Western Arabic Numbers by EAN - This is needed because of wrong transcription.
+sed -i -f ../../fixwesternnumbers.sed *.gt.txt
+
+# Remove RLM and LRM
+sed -i -e 's/‎//g' *.gt.txt
+sed -i -e 's/‏//g' *.gt.txt
+
+# REMOVE Non-Arabic LOW FREQ char lines
+rm -v $(grep % *.txt|sed s/gt.txt.*$/*/)
+rm -v $(grep √ *.txt|sed s/gt.txt.*$/*/)
+rm -v $(grep ❊ *.txt|sed s/gt.txt.*$/*/)
+rm -v $(grep × *.txt|sed s/gt.txt.*$/*/)
+rm -v $(grep — *.txt|sed s/gt.txt.*$/*/)
+rm -v $(grep ٪ *.txt|sed s/gt.txt.*$/*/)
+rm -v $(grep = *.txt|sed s/gt.txt.*$/*/)
+rm -v $(grep ‘ *.txt|sed s/gt.txt.*$/*/)
+rm -v $(grep '`' *.txt|sed s/gt.txt.*$/*/)
+
+# Remove space before Arabic Comma
+sed -i -e 's/ ،/،/g' *.gt.txt
+
+# Remove old box and lstmf files
+rm *.box
+rm *.lstmf
 
 cd ../..
 rm -rf data/JSTORArabic
 
 #Create unicharset.
-make LANG_TYPE=RTL MODEL_NAME=JSTORArabic PSM=13 START_MODEL=ara TESSDATA=$HOME/tessdata_best MAX_ITERATIONS=9999999 DEBUG_INTERVAL=-1 unicharset
+nohup make LANG_TYPE=RTL MODEL_NAME=JSTORArabic PSM=13 START_MODEL=ara TESSDATA=$HOME/tessdata_best EPOCHS=100 RATIO_TRAIN=0.80 DEBUG_INTERVAL=-1 unicharset > data/JSTORArabic.log &
+tail -f  data/JSTORArabic.log
 
-# After above command completes...
-# Merge unicharsets.
-merge_unicharsets data/JSTORArabic/unicharset fixara.unicharset  data/JSTORArabic/my.unicharset
-cp data/JSTORArabic/my.unicharset data/JSTORArabic/unicharset
-
-
-python count_chars.py data/JSTORArabic/all-gt > data/JSTORArabic/all-gt-chars.log
+python count_chars.py data/JSTORArabic/all-gt  | sort -n -r > data/JSTORArabic/all-gt-chars.log
 #create_dictdata -i data/JSTORArabic/all-gt -l all-gt -d data/JSTORArabic
+
+nohup make LANG_TYPE=RTL MODEL_NAME=JSTORArabic PSM=13 START_MODEL=ara TESSDATA=$HOME/tessdata_best EPOCHS=100 RATIO_TRAIN=0.80 DEBUG_INTERVAL=-1 lists >> data/JSTORArabic.log &
+tail -f  data/JSTORArabic.log

@@ -1,0 +1,45 @@
+make -C ../ traineddata MODEL_NAME=JSTORArabic
+make[1]: Entering directory '/home/ubuntu/tesstrain-JSTORArabic'
+make[1]: Nothing to be done for 'traineddata'.
+make[1]: Leaving directory '/home/ubuntu/tesstrain-JSTORArabic'
+OMP_THREAD_LIMIT=1 lstmeval  \
+	--verbosity=0 \
+	--model ../data/JSTORArabic/tessdata_fast/JSTORArabic_8.319_6240_8100.traineddata \
+	--eval_listfile tmp-JSTORArabic-validate-list.validate    > ../data/JSTORArabic/tessdata_fast/JSTORArabic_8.319_6240_8100.validate.log 2>&1
+OMP_THREAD_LIMIT=1 lstmeval  \
+	--verbosity=0 \
+	--model ../data/JSTORArabic/tessdata_fast/JSTORArabic_7.596_6481_8500.traineddata \
+	--eval_listfile tmp-JSTORArabic-validate-list.validate    > ../data/JSTORArabic/tessdata_fast/JSTORArabic_7.596_6481_8500.validate.log 2>&1
+OMP_THREAD_LIMIT=1 lstmeval  \
+	--verbosity=0 \
+	--model ../data/JSTORArabic/tessdata_fast/JSTORArabic_7.283_7155_9600.traineddata \
+	--eval_listfile tmp-JSTORArabic-validate-list.validate    > ../data/JSTORArabic/tessdata_fast/JSTORArabic_7.283_7155_9600.validate.log 2>&1
+OMP_THREAD_LIMIT=1 lstmeval  \
+	--verbosity=0 \
+	--model ../data/JSTORArabic/tessdata_fast/JSTORArabic_6.19_7619_10300.traineddata \
+	--eval_listfile tmp-JSTORArabic-validate-list.validate    > ../data/JSTORArabic/tessdata_fast/JSTORArabic_6.19_7619_10300.validate.log 2>&1
+OMP_THREAD_LIMIT=1 lstmeval  \
+	--verbosity=0 \
+	--model ../data/JSTORArabic/tessdata_fast/JSTORArabic_5.638_7871_10700.traineddata \
+	--eval_listfile tmp-JSTORArabic-validate-list.validate    > ../data/JSTORArabic/tessdata_fast/JSTORArabic_5.638_7871_10700.validate.log 2>&1
+OMP_THREAD_LIMIT=1 lstmeval  \
+	--verbosity=0 \
+	--model ../data/JSTORArabic/tessdata_fast/JSTORArabic_5.407_8057_11000.traineddata \
+	--eval_listfile tmp-JSTORArabic-validate-list.validate    > ../data/JSTORArabic/tessdata_fast/JSTORArabic_5.407_8057_11000.validate.log 2>&1
+OMP_THREAD_LIMIT=1 lstmeval  \
+	--verbosity=0 \
+	--model ../data/JSTORArabic/tessdata_fast/JSTORArabic_5.215_8125_11100.traineddata \
+	--eval_listfile tmp-JSTORArabic-validate-list.validate    > ../data/JSTORArabic/tessdata_fast/JSTORArabic_5.215_8125_11100.validate.log 2>&1
+OMP_THREAD_LIMIT=1 lstmeval  \
+	--verbosity=0 \
+	--model ../data/JSTORArabic/tessdata_fast/JSTORArabic_4.967_8185_11200.traineddata \
+	--eval_listfile tmp-JSTORArabic-validate-list.validate    > ../data/JSTORArabic/tessdata_fast/JSTORArabic_4.967_8185_11200.validate.log 2>&1
+python plot-eval-validate-cer.py -m JSTORArabic  -v validate
+Traceback (most recent call last):
+  File "plot-eval-validate-cer.py", line 108, in <module>
+    splinee = UnivariateSpline(ex, e)
+  File "/home/ubuntu/miniforge3/lib/python3.7/site-packages/scipy/interpolate/fitpack2.py", line 177, in __init__
+    xe=bbox[1], s=s)
+dfitpack.error: (m>k) failed for hidden m: fpcurf0:m=2
+Makefile:126: recipe for target '../data/JSTORArabic/plot/JSTORArabic-validate-cer.tsv' failed
+make: *** [../data/JSTORArabic/plot/JSTORArabic-validate-cer.tsv] Error 1

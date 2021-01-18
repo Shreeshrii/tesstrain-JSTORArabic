@@ -6,6 +6,7 @@ import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
+from scipy.interpolate import UnivariateSpline
 
 arg_parser = argparse.ArgumentParser(
     '''Creates plot from Training and Evaluation Character Error Rates''')
@@ -18,21 +19,27 @@ arg_parser.add_argument('-v', '--validatelist', nargs='?', metavar='VALIDATELIST
 
 args = arg_parser.parse_args()
 
-tsvfile = "../data/" + args.model + "/plot/" + args.model + "-" + args.validatelist + "-cer.tsv"
+ytsvfile = "tmp-" + args.model + "-" + args.validatelist + "-iteration.tsv"
+ctsvfile = "tmp-" + args.model + "-" + args.validatelist + "-checkpoint.tsv"
+etsvfile = "tmp-" + args.model + "-" + args.validatelist + "-eval.tsv"
+vtsvfile = "tmp-" + args.model + "-" + args.validatelist + "-validate.tsv"
 plotfile = "../data/" + args.model + "/plot/" + args.model + "-" + args.validatelist + "-cer.png"
 
-dataframe = pd.read_csv(tsvfile,sep='\t', encoding='utf-8')
-dataframe['TrainingIteration'] = dataframe['TrainingIteration'].fillna(-2)
-dataframe['TrainingIteration'] = dataframe['TrainingIteration'].astype(int)
-dataframe['TrainingIteration'] = dataframe['TrainingIteration'].astype(str)
-dataframe['TrainingIteration'] = dataframe['TrainingIteration'].replace('-2', np.nan)
+ydf = pd.read_csv(ytsvfile,sep='\t', encoding='utf-8')
+cdf = pd.read_csv(ctsvfile,sep='\t', encoding='utf-8')
+edf = pd.read_csv(etsvfile,sep='\t', encoding='utf-8')
+vdf = pd.read_csv(vtsvfile,sep='\t', encoding='utf-8')
 
-t = dataframe['TrainingIteration']
-x = dataframe['LearningIteration']
-y = dataframe.IterationCER
-c = dataframe.CheckpointCER
-e = dataframe.EvalCER
-v = dataframe.ValidationCER
+t = ydf['TrainingIteration']
+x = ydf['LearningIteration']
+y = ydf['IterationCER']
+
+c = cdf['CheckpointCER']
+cx = cdf['LearningIteration']
+e = edf['EvalCER']
+ex = edf['LearningIteration']
+v = vdf['ValidationCER']
+vx = vdf['LearningIteration']
 
 trainlistfile = "../data/" + args.model + "/list.train"
 evalistfile = "../data/" + args.model + "/list.eval"
@@ -42,7 +49,7 @@ trainlistlinecount = len(open(trainlistfile).readlines(  ))
 evallistlinecount = len(open(evalistfile).readlines(  ))
 validatelistlinecount = len(open(validatelistfile).readlines(  ))
 
-maxticks=5
+maxticks=10
 
 def annot_min(boxcolor, xpos, ypos, x,y):
     xmin = x[np.argmin(y)]
@@ -67,28 +74,48 @@ ax1.locator_params(axis='x', nbins=maxticks)  # limit ticks on x-axis
 ax1.grid(True)
 
 ax1.plot(x, y, 'teal', alpha=0.7, label='CER every 100 Training Iterations', linewidth=0.5)
+
 if not c.dropna().empty: # not NaN or empty
-	ax1.scatter(x, c, c='teal', s=10,
+	ax1.scatter(cx, c, c='teal', s=10,
     label='Checkpoints CER  from lstmtraining (list.train - ' +
     str(trainlistlinecount) +' lines)', alpha=0.7)
-	annot_min('teal',-0,-30,x,c)
+	annot_min('teal',-0,-30,cx,c)
 
 if not e.dropna().empty: # not NaN or empty
-#	ax1.plot(x, e, 'magenta', alpha=0.5)
-	ax1.scatter(x, e, c='magenta', s=10,
+#	ax1.plot(ex, e, 'magenta', linestyle="dotted")
+	ax1.scatter(ex, e, c='magenta', s=10,
     label='Evaluation CER from lstmtraining (list.eval - ' +
     str(evallistlinecount) +' lines)', alpha=0.7)
-	annot_min('magenta',-0,30,x,e)
+	annot_min('magenta',-0,30,ex,e)
 
 if not v.dropna().empty: # not NaN or empty
-#	ax1.plot(x, v, 'red', alpha=0.5)
-	ax1.scatter(x, v, c='red', s=10,
+#	ax1.plot(vx, v, 'maroon', linestyle='dotted')
+	ax1.scatter(vx, v, c='maroon', s=10,
     label='Validation CER from lstmeval (list.'  + args.validatelist +
     ' - ' + str(validatelistlinecount) +' lines)', alpha=0.7)
-	annot_min('red',-0,60,x,v)
+	annot_min('maroon',-0,60,vx,v)
 
 ax1.set_xlim([0,None])
 ax1.set_ylim([-0.5,None])
+
+# Best fit curve for training data using spline
+spliney = UnivariateSpline(x, y)
+yxs = np.linspace(x.min(), x.max(), 1000)
+ysy = spliney(yxs)
+ax1.plot(yxs, ysy, 'teal')
+# Best fit curve for eval data using spline
+if not e.dropna().empty: # not NaN or empty
+	splinee = UnivariateSpline(ex, e)
+	exs = np.linspace(ex.min(), ex.max(), 50)
+	ese = splinee(exs)
+	ax1.plot(exs, ese, 'magenta')
+# Best fit curve for validation data using spline
+if not v.dropna().empty: # not NaN or empty
+	splinev = UnivariateSpline(vx, v)
+	vxs = np.linspace(vx.min(), vx.max(), 50)
+	vsv = splinev(vxs)
+	ax1.plot(vxs, vsv, 'maroon')
+
 plt.title(label=PlotTitle)
 plt.legend(loc='upper right')
 
