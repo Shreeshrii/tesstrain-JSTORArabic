@@ -22,3 +22,6 @@ plot/*.LOG
 plot/ocrd*
 data/*/checkpoints
 data/*/checkpoints/*
+data/*/tessdata_fast
+data/*/tessdata_best
+data/JSTORArabic/checkpoints/JSTORArabic_checkpoint

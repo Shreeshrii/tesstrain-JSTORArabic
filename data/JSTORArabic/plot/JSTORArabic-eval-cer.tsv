@@ -1,0 +1,28 @@
+Name	CheckpointCER	LearningIteration	TrainingIteration	EvalCER	IterationCER	ValidationCER
+		94	100		35.281	
+		189	200		25.923	
+		279	300		24.001	
+		370	400		21.755	
+		459	500		21.311	
+		549	600		20.47	
+		638	700		20.628	
+		726	800		19.722	
+		821	900		19.001	
+		902	1000		19.179	
+		989	1100		17.638	
+		1083	1200		18.102	
+		1176	1300		17.215	
+		1268	1400		17.19	
+		1351	1500		16.973	
+Name	CheckpointCER	LearningIteration	TrainingIteration	EvalCER	IterationCER	ValidationCER
+JSTORArabic	35.281	94	100			
+JSTORArabic	25.923	189	200			
+JSTORArabic	24.001	279	300			
+JSTORArabic	21.755	370	400			
+JSTORArabic	20.47	549	600			
+JSTORArabic	19.722	726	800			
+JSTORArabic	19.001	821	900			
+JSTORArabic	17.638	989	1100			
+JSTORArabic	16.973	1351	1500			
+Name	CheckpointCER	LearningIteration	TrainingIteration	EvalCER	IterationCER	ValidationCER
+Name	CheckpointCER	LearningIteration	TrainingIteration	EvalCER	IterationCER	ValidationCER
