@@ -3037,3 +3037,1931 @@ Iteration 547: BEST OCR TEXT : . ةيرعشالا ةيرظنلا يف روطتل
 File data/JSTORArabic-ground-truth/7bd999ab-841a-40b7-a2da-68f1fedbda4b.lstmf line 0 :
 Mean rms=1.906%, delta=5.54%, train=20.705%(34.52%), skip ratio=0%
 Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/1a45660f-4ea1-4887-b577-af021dd5e6e5.lstmf
+Iteration 548: GROUND  TRUTH : ٠،٥٩ ١،٩٦ يفاضالا لمعلا لدب
+Iteration 548: ALIGNED TRUTH : ٠٠٠٠٠،،،،،،،،،،،،،،،،،٥٥٥٥٥٥٥٥٥٥٥٥٥٩٩٩٩٥٩١٩٩٩٩ ١١١١،،،،،،٩٩٩٩٩٩٩٩٩٦٦٦٦٦٦٦٦٦ يفاضالا لمعلا لدب
+Iteration 548: BEST OCR TEXT : ..   رجللا                                يفاضالا لمعلا لدب
+File data/JSTORArabic-ground-truth/b6c9b049-bc8c-489b-87f2-1dc4f5cf59e0.lstmf line 0 :
+Mean rms=1.91%, delta=5.537%, train=20.991%(34.53%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/a2f94244-5634-421c-8bb5-89ca4254038d.lstmf
+Iteration 549: GROUND  TRUTH : ابيلس تئجف اهاير كتدهأف ايفاغ كنم تکرح یمیلس نظا
+Iteration 549: BEST OCR TEXT : اببلس تئجف اهاير كتدهاف  ايفاغ كنم تكرح ىميلس نظا
+File data/JSTORArabic-ground-truth/d8f40db8-7ccb-43ca-ab97-074179d6b1bd.lstmf line 0 :
+Mean rms=1.911%, delta=5.543%, train=20.987%(34.548%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/76044e89-cf96-476f-a083-3617a218e912.lstmf
+Iteration 550: GROUND  TRUTH : . ديؤم رازن ،مظعلا
+Iteration 550: BEST OCR TEXT : . ديؤم رازن  مظعلا
+File data/JSTORArabic-ground-truth/5cd8b6fb-fa00-47f3-9d57-64655998a1cd.lstmf line 0 :
+Mean rms=1.91%, delta=5.537%, train=20.969%(34.531%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/15fc3019-18ee-4484-b947-c9646ef142e7.lstmf
+Iteration 551: GROUND  TRUTH : ةلادعلا ةلكشمو ةيطارقميدلا
+Iteration 551: BEST OCR TEXT : ةلامهلا اكشمر يطا رقحبملا
+File data/JSTORArabic-ground-truth/608a82cd-003b-488c-878c-bad274e4979e.lstmf line 0 :
+Mean rms=1.913%, delta=5.559%, train=21.035%(34.65%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/b4253dab-8a7e-4fd6-bf64-c4f4df2c031f.lstmf
+Iteration 552: GROUND  TRUTH : لجرلا نإ بهذ : زوجي ال نكلو . بهذ لجرلا نإ : نراق)
+Iteration 552: BEST OCR TEXT : لجرلا نإ بهذ :زوجي ال نكلو . بهذ لجرلا نإ :نراق(
+File data/JSTORArabic-ground-truth/431eae71-1c7f-48b3-b767-a10c84ef738a.lstmf line 0 :
+Mean rms=1.912%, delta=5.553%, train=21.012%(34.643%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/587c8585-993b-4500-9230-161049a4f882.lstmf
+Iteration 553: GROUND  TRUTH : ىلا يومالا رصعلا نم يلطملا ريغ يبرعلا فزخلا ةعانص روطتل قيقد ثحب وهو
+File data/JSTORArabic-ground-truth/f3da0f75-763b-42e3-90a2-06873296a556.lstmf line 0 (Perfect):
+Mean rms=1.91%, delta=5.543%, train=20.974%(34.58%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/12a837a5-b307-4d6c-a9a2-b86eb605e920.lstmf
+Iteration 554: GROUND  TRUTH : . ومورحب مساب صخش دوجو اضيا دعبتسن انكل . ءاهب هریدقت نكمي حضاو
+Iteration 554: BEST OCR TEXT : . ومورحب مساب صخش دوجو اضيا دعبتسن انكل . ءاهب هريدقت نكمي حضاو
+File data/JSTORArabic-ground-truth/cd7bf887-581a-4dc5-bc45-c6899e001f79.lstmf line 0 :
+Mean rms=1.908%, delta=5.535%, train=20.942%(34.532%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/6dfadad5-a567-4331-ad68-db4e9cf4189f.lstmf
+Iteration 555: GROUND  TRUTH : ام لکو ،مالسالاو ةيحيسملا نيب ةقالعلا ةلكشمب انمحقي ام لك انجهانم نمو
+Iteration 555: BEST OCR TEXT : اهم لكو مالسالاو ةيحيسملا نيب ةقالعلا ةلكشمب انمحقي ام لك انجهانم نمو
+File data/JSTORArabic-ground-truth/37a33fe7-6f44-4e37-9efa-80286f0dc52e.lstmf line 0 :
+Mean rms=1.907%, delta=5.53%, train=20.914%(34.514%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/add64911-60c5-4a94-b642-1bc52eeac857.lstmf
+Iteration 556: GROUND  TRUTH : تنمسالا - ٧ ةريبلا ةعانص - ٦ ةيذحالا ةعانص - ٥ دولجلا ةغابد - ٤ جسنلاو
+Iteration 556: BEST OCR TEXT : تنمسالا -  ةريبلا ةعانص -  ةيذحالا ةعانص - و دولجلا ةغابد -  جسنلاو
+File data/JSTORArabic-ground-truth/1a45660f-4ea1-4887-b577-af021dd5e6e5.lstmf line 0 :
+Mean rms=1.906%, delta=5.523%, train=20.89%(34.497%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/2463080e-2118-4159-b9df-cc63a4f0d38c.lstmf
+Iteration 557: GROUND  TRUTH : اذه . ةيرذ ةيملاع ًابرح لمشيف امهقاطن عاستا نم ًافوخ نيتيديلقتلا نيتيلحملا نيبرحلا
+Iteration 557: ALIGNED TRUTH : اذه . ةيرذ ةيملاع ًابرح لمشيف اهقاطن عاستا نم ًافوخ نيتيديلقتلا نيتيلحملا نيبرحلا
+Iteration 557: BEST OCR TEXT : اذه . ةيرذ ةيملاع ًابرح لمشيف اهقاطن عاستا نم ًافوخ نيتيديلقتلا نيتيلحملا نيبرحلا
+File data/JSTORArabic-ground-truth/a2f94244-5634-421c-8bb5-89ca4254038d.lstmf line 0 (Perfect):
+Mean rms=1.904%, delta=5.514%, train=20.854%(34.449%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/015eb3a6-b4c0-43d0-9599-f83433feaf75.lstmf
+Iteration 558: GROUND  TRUTH : ليخبلا لصف اهولتي
+File data/JSTORArabic-ground-truth/76044e89-cf96-476f-a083-3617a218e912.lstmf line 0 (Perfect):
+Mean rms=1.901%, delta=5.504%, train=20.817%(34.388%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/cd49e749-042e-46f9-9903-b6b83527c7f8.lstmf
+Iteration 559: GROUND  TRUTH : فقوتي مل رمعتسملا دض اهداهج يف ةيبرعلا راطقالا هيف تعفدنا يذلا هاجتالا اذه نا
+Iteration 559: BEST OCR TEXT : فقوتي مل رعتسملا دض اهداهج يف ةيبرعلا راطقالا هيف تعفدنا يذلا هاجتالا اذه نا
+File data/JSTORArabic-ground-truth/15fc3019-18ee-4484-b947-c9646ef142e7.lstmf line 0 :
+Mean rms=1.899%, delta=5.494%, train=20.782%(34.339%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/b21054f9-8b74-49a3-855b-6622df9d526b.lstmf
+Iteration 560: GROUND  TRUTH : لوانتی بکرم رما - اهديدحت ةبوعص عم - ةيناسنالا ةداعسلا نال ،الك ? هريغ
+Iteration 560: BEST OCR TEXT : لوانتي بكر م يما - اهديدحت ةبوعص عم -- ةيناسنالا ةداعسلا نال الك ( هويغ
+File data/JSTORArabic-ground-truth/b4253dab-8a7e-4fd6-bf64-c4f4df2c031f.lstmf line 0 :
+Mean rms=1.9%, delta=5.495%, train=20.778%(34.367%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/c1ae5d2a-02c6-4075-9344-b27e368bc9f1.lstmf
+Iteration 561: GROUND  TRUTH : ددع بیترت بیترت بیترت بیترت
+Iteration 561: ALIGNED TRUTH : ددع  بیترتتتتتتتتتتتتتتتتتت بیترت  بیترتتتتتتتتتتت بییترت
+Iteration 561: BEST OCR TEXT : ددع  بينر  بيرت ------ بير  ابينرت
+File data/JSTORArabic-ground-truth/587c8585-993b-4500-9230-161049a4f882.lstmf line 0 :
+Mean rms=1.903%, delta=5.514%, train=20.919%(34.448%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/3302d1e8-f818-43be-a94f-dbca325110de.lstmf
+Iteration 562: GROUND  TRUTH : نرقلا يف قرلل ايجولونكتلا يف ةيعانصلا ةروثلا هتلعف ام نيرشعلا نرقلا ىف برحلل
+Iteration 562: BEST OCR TEXT : نرقلا يف قرال ايجولونكتلا يف ةيعانصلا ةروثلا هتلعف ام نيرشعلا نرقلا يف برحلل
+File data/JSTORArabic-ground-truth/12a837a5-b307-4d6c-a9a2-b86eb605e920.lstmf line 0 :
+Mean rms=1.902%, delta=5.508%, train=20.891%(34.414%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/8e3df3c2-675f-4022-b24a-6113264a0227.lstmf
+Iteration 563: GROUND  TRUTH : (عجارم) ردنكسإ ميهاربإ ،ميهاربإ
+Iteration 563: BEST OCR TEXT : )عجارم( ردنكسإ ميهاربإ ميهاربإ
+File data/JSTORArabic-ground-truth/6dfadad5-a567-4331-ad68-db4e9cf4189f.lstmf line 0 :
+Mean rms=1.902%, delta=5.512%, train=20.86%(34.442%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/c272bf83-f5cd-4201-8dc8-28c1389f5361.lstmf
+Iteration 564: GROUND  TRUTH : . دشار ،يواربلا
+Iteration 564: ALIGNED TRUTH : . دشار ،،يواربلا
+Iteration 564: BEST OCR TEXT : . دبلار  يواربلا
+File data/JSTORArabic-ground-truth/add64911-60c5-4a94-b642-1bc52eeac857.lstmf line 0 :
+Mean rms=1.904%, delta=5.519%, train=20.882%(34.499%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/4198538b-abb5-4fa3-839d-d60a517851d5.lstmf
+Iteration 565: GROUND  TRUTH : . يملعلا ىوتسملا ىلا ةلديصلا نفب يشمتلاو ةيملعلا مهتادوهجم راهظال ةلدايصلا
+Iteration 565: BEST OCR TEXT : . يملعلا ىوتسملا ىلا ةلديصلا نفب يشمتلاو ةيماعلا مهتادوهجم رابهظال ةلدايصلا
+File data/JSTORArabic-ground-truth/2463080e-2118-4159-b9df-cc63a4f0d38c.lstmf line 0 :
+Mean rms=1.902%, delta=5.513%, train=20.853%(34.47%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/d6adbc63-9299-4d74-a90b-de6ba152fe8c.lstmf
+Iteration 566: GROUND  TRUTH : . ص ١٠٤ . ١٩٥٧ ،. . ن . ال ،سنوت . ةثلاثلا ةعبطلا . ءامدلا يداو
+Iteration 566: ALIGNED TRUTH : . ص ١٠٤٤ . ١٩٩٥٥٥٧ ،. . ن . ال ،سنوت . ةثلاثلا ةعبطلا . ءامدلا يداو
+Iteration 566: BEST OCR TEXT : .ص ١٠١ ١ .١خم . .ن .ال ؟ سنوت . ةثلاثلا ةعبطلا .. ءامدلا يداو
+File data/JSTORArabic-ground-truth/015eb3a6-b4c0-43d0-9599-f83433feaf75.lstmf line 0 :
+Mean rms=1.904%, delta=5.515%, train=20.855%(34.523%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/2d61ffc1-dfc5-407c-aa78-4cd6d7c5c61f.lstmf
+Iteration 567: GROUND  TRUTH : . لقنلا لئاسو نم ىرخا ةليسو ةيأ
+Iteration 567: BEST OCR TEXT :  لقنلا لئاسو نم ىرخا ةليسو ةيأ
+File data/JSTORArabic-ground-truth/cd49e749-042e-46f9-9903-b6b83527c7f8.lstmf line 0 :
+Mean rms=1.902%, delta=5.508%, train=20.824%(34.488%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/b0eb9ae3-5f39-47db-934e-46d41d7cd602.lstmf
+Iteration 568: GROUND  TRUTH : ةلسلسو ،ةيفاقثلاو ةيملعلا ةيزيلكنالا تالجملا نم ديدعلا لمشت ةعلاطم ةفرغو ةديج
+Iteration 568: BEST OCR TEXT : لسلسو ةيفاقثلاو ةيماعلاتيزيلكنالا تالجملانم ديدعلا لمشت ةعلاطم ةفرغو ةديج
+File data/JSTORArabic-ground-truth/b21054f9-8b74-49a3-855b-6622df9d526b.lstmf line 0 :
+Mean rms=1.901%, delta=5.505%, train=20.806%(34.523%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/7b978ac2-0a5b-4135-a1a7-64ec02832409.lstmf
+Iteration 569: GROUND  TRUTH : . ديجملا دبع ،نولج نب
+Iteration 569: ALIGNED TRUTH : . ديجملا دبع ،،نولج نب
+Iteration 569: BEST OCR TEXT : . ديجملا دبع  نولج ن
+File data/JSTORArabic-ground-truth/c1ae5d2a-02c6-4075-9344-b27e368bc9f1.lstmf line 0 :
+Mean rms=1.902%, delta=5.509%, train=20.794%(34.533%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/90c0d005-24bb-42ec-ac77-b94b94ec7244.lstmf
+Iteration 570: GROUND  TRUTH : . ص ٣٤٣ . ١٩٦٥ ،ةماعلا ةيرصملا
+Iteration 570: ALIGNED TRUTH : .  ص ٣٣٤٤٣٣ . ١٩٩٦٥ ،،ةماعلا ةيرصملا
+Iteration 570: BEST OCR TEXT : .ص ! ١ ١١١  ةماعلا ةيرصملا
+File data/JSTORArabic-ground-truth/3302d1e8-f818-43be-a94f-dbca325110de.lstmf line 0 :
+Mean rms=1.904%, delta=5.517%, train=20.828%(34.622%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/72ffeaa2-eccc-4955-aaca-7d3bcd068146.lstmf
+Iteration 571: GROUND  TRUTH : . ص ١٦٤ . ١٩٦٤ ،ةراضحلا راد ،توريب . ةينثو فوهك
+Iteration 571: ALIGNED TRUTH : . ص ١٦٦٤٤ . ١٩٩٦٦٤ ،ةراضحلا راد ،توريب . ةينثو فوهك
+Iteration 571: BEST OCR TEXT : . ص ١١ .١   ةراضحلا راد  توربب . ةينثو فوهك
+File data/JSTORArabic-ground-truth/8e3df3c2-675f-4022-b24a-6113264a0227.lstmf line 0 :
+Mean rms=1.905%, delta=5.519%, train=20.836%(34.641%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/e874c5a7-dd9e-4309-a643-4c7c2d32a788.lstmf
+Iteration 572: GROUND  TRUTH : خيراتلا ىعو ام ردصملا اذه بناج یلا يل ناک مث ... حضاو رثا نم هيف تکرت
+Iteration 572: ALIGNED TRUTH : خيراتلا ىعو ام ردصملا اذه بناج یلا يل ناک مث ... حضاو رثا نم هيف تککرت
+Iteration 572: BEST OCR TEXT : خيراتلا ىعو ام ردصملا اذه بناج ىلا يل ناك مث ... حضاو رثا نم هيف تكرت
+File data/JSTORArabic-ground-truth/c272bf83-f5cd-4201-8dc8-28c1389f5361.lstmf line 0 :
+Mean rms=1.904%, delta=5.518%, train=20.815%(34.614%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/2b8582fb-a5ca-4433-a21d-4f2436e57a3b.lstmf
+Iteration 573: GROUND  TRUTH : تمدق ضارا ىلع نوينانبللا اهأشنا يتلا عرازملا نكت مل ،اينيغ يفو . ةثيدحلا
+Iteration 573: BEST OCR TEXT : تمدق ضارا ىلع نوينانبللا اهأشنا يتلا عرازملا نكت مل / اينيغ يفو . ةثيدحلا
+File data/JSTORArabic-ground-truth/4198538b-abb5-4fa3-839d-d60a517851d5.lstmf line 0 :
+Mean rms=1.903%, delta=5.509%, train=20.786%(34.567%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/7b202747-cfae-4a4d-b26a-36d2208150b7.lstmf
+Iteration 574: GROUND  TRUTH : . حارتقالا اذه ىلع
+File data/JSTORArabic-ground-truth/d6adbc63-9299-4d74-a90b-de6ba152fe8c.lstmf line 0 (Perfect):
+Mean rms=1.9%, delta=5.499%, train=20.75%(34.507%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/b4d04651-1fc8-45c9-bd35-88b0fb6609b7.lstmf
+Iteration 575: GROUND  TRUTH : . يلع نسحلا وبا ،ينسحلا
+Iteration 575: ALIGNED TRUTH : . يلع نسحلا وبا ،،ينسحلا
+Iteration 575: BEST OCR TEXT : ٠ يلع نسحلا وبا . ينسحلا
+File data/JSTORArabic-ground-truth/2d61ffc1-dfc5-407c-aa78-4cd6d7c5c61f.lstmf line 0 :
+Mean rms=1.901%, delta=5.5%, train=20.736%(34.481%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/d132bf8b-39e2-4b23-a767-3b736a1bdd45.lstmf
+Iteration 576: GROUND  TRUTH : . (رعشلا) باتكل يودب روتكدلا ةعبط نم ١٥٤ ص ،ءارعشلا ةعانص نيناوق يف ةلاسر : يبارافلا ٢٤
+Iteration 576: ALIGNED TRUTH : . (رعشلا) باتكل يودب روتكدلا ةعبط نم ١٥٤ ص ،،ءارعشلا ةعانص نيناوق يف ةلاسر : يبارافلا ٢٤
+Iteration 576: BEST OCR TEXT : . ) رعشلا ( باتكل يودب روتكدلا ةعبط نم ١9 4 ص  ءارعشلا ةعانص نيناوق يف ةلاسر : يبارافلا 
+File data/JSTORArabic-ground-truth/b0eb9ae3-5f39-47db-934e-46d41d7cd602.lstmf line 0 :
+Mean rms=1.901%, delta=5.499%, train=20.722%(34.462%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/7c6591cb-8d43-4268-affa-01d59e94cf04.lstmf
+Iteration 577: GROUND  TRUTH : ةعانص - ٦ قرولا ةعانص - ٥ لوحكلا ريطقت ةعانص - ٤ - بوبحلا
+Iteration 577: BEST OCR TEXT : ةءانص - + قرولا ةعانص --  لوعلا ريطقت ةعانص - - بوبجلا
+File data/JSTORArabic-ground-truth/7b978ac2-0a5b-4135-a1a7-64ec02832409.lstmf line 0 :
+Mean rms=1.901%, delta=5.497%, train=20.72%(34.489%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/dae241e2-2dcd-4db5-841d-3ae5d805786f.lstmf
+Iteration 578: GROUND  TRUTH : اذهو . نيفظوملا ناويد ىلا تلقتنا يتلا تايحالصلا غلبم ىلا انرظن اذا ،ًاريبك
+Iteration 578: BEST OCR TEXT : اذهو . نيفظوملا ناويد ىلا تلقتنا يتلا تايحالصلا غلبم ىلا انرظن اذا  ًاريبك
+File data/JSTORArabic-ground-truth/90c0d005-24bb-42ec-ac77-b94b94ec7244.lstmf line 0 :
+Mean rms=1.899%, delta=5.49%, train=20.689%(34.443%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/de4f43cc-db49-4c76-9414-d9c7e18408a6.lstmf
+Iteration 579: GROUND  TRUTH : ١٠٥
+Iteration 579: ALIGNED TRUTH : ١٠٠٥٥
+Iteration 579: BEST OCR TEXT : ١١
+File data/JSTORArabic-ground-truth/72ffeaa2-eccc-4955-aaca-7d3bcd068146.lstmf line 0 :
+Mean rms=1.902%, delta=5.495%, train=20.825%(34.556%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/7251a461-9d9d-4778-b3bc-c9e8f9c23d4c.lstmf
+Iteration 580: GROUND  TRUTH : دعب ةينويهصلا ةيسوساجلا ةيضق يف مكحلا ةرهاقلا يف ايلعلا ةيركسعلا ةمكحملا تردصا ٥٥ - ١ - ٢٧
+Iteration 580: BEST OCR TEXT : دعب ةيلويبصلا ةيسوساجلا ةيضق يف محلا ةرهافلا يف ايلعلا ةيركسعلا ةمكحملا تردصا هه-١-
+File data/JSTORArabic-ground-truth/e874c5a7-dd9e-4309-a643-4c7c2d32a788.lstmf line 0 :
+Mean rms=1.902%, delta=5.493%, train=20.818%(34.577%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/8b57f09e-5b5c-4269-bcfb-effe3a1f1aff.lstmf
+Iteration 581: GROUND  TRUTH : هبتكو نيملعلا بر نيما ةنجلا ةمذب - ٢
+Iteration 581: BEST OCR TEXT : هبتك و نيملعلا بر نيما ةنجلا ةمذب - 
+File data/JSTORArabic-ground-truth/2b8582fb-a5ca-4433-a21d-4f2436e57a3b.lstmf line 0 :
+Mean rms=1.901%, delta=5.489%, train=20.792%(34.561%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/56839a4b-fbb0-4b6d-be13-b7db6591534d.lstmf
+Iteration 582: GROUND  TRUTH : ،ةيقيرفالا ةيويسالا ةقطنملا يف ةيداصتقالا تاقالعلا ةيمنتب ليجعتلا ةرورض رمتؤملا كردا دقل - ١
+Iteration 582: BEST OCR TEXT : ةيقيرفالا ةيويسالا ةقطنملا يف ةيداصتقالا تاقالعلا ةيمئنب ليجعتلا ةرورض رمتؤملا كردا دقل - ١
+File data/JSTORArabic-ground-truth/7b202747-cfae-4a4d-b26a-36d2208150b7.lstmf line 0 :
+Mean rms=1.9%, delta=5.483%, train=20.762%(34.526%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/efa1da23-5134-4102-9f71-fdb76f6f420d.lstmf
+Iteration 583: GROUND  TRUTH : يناجدلا ناهرب
+File data/JSTORArabic-ground-truth/b4d04651-1fc8-45c9-bd35-88b0fb6609b7.lstmf line 0 (Perfect):
+Mean rms=1.898%, delta=5.474%, train=20.726%(34.467%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/fe3ecc00-8470-454b-b353-d6db74711eb5.lstmf
+Iteration 584: GROUND  TRUTH : . لقاعلا نوكت نا زئاجلا نمو لصالا يف اذكه . ٣٤ ٣٠ رمزلا . ٣٣
+Iteration 584: ALIGNED TRUTH : . لقاعلا نوكت نا زئاجلا نمو لصالا يف اذكه .  ٣٤ ٣٣٤٤٤٤٤ ٣٠ رمزلا . ٣٣٣٣
+Iteration 584: BEST OCR TEXT : . لقاعلا توكت نا زئاجلا نمو لصالا يف اذكه .مم م. رمزلا .م
+File data/JSTORArabic-ground-truth/d132bf8b-39e2-4b23-a767-3b736a1bdd45.lstmf line 0 :
+Mean rms=1.899%, delta=5.473%, train=20.734%(34.477%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/d30d7b2f-8281-4757-859a-e026a36a47c8.lstmf
+Iteration 585: GROUND  TRUTH : كشو ىلع نالا نحنو . ةرم عوبسا لك يف دقعنت ةباطخلل ةيعمج ءاشنا ىلع اضيا انمزع اننا مث
+Iteration 585: BEST OCR TEXT : كشو ىلع نالا نحنو . ةرم عوبسا لك يف دقعنت ةباطخلل ةيعمج ءاشنا ىلع اضيا انمزع اننا م
+File data/JSTORArabic-ground-truth/7c6591cb-8d43-4268-affa-01d59e94cf04.lstmf line 0 :
+Mean rms=1.897%, delta=5.464%, train=20.7%(34.427%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/92d031b5-7218-4c28-be17-8834b30d5ebe.lstmf
+Iteration 586: GROUND  TRUTH : ناطلسلا ىمسف باقلالا لامعتسا يف زوجت ،ًاسماخ (ايرفعج) ًابهذم
+Iteration 586: BEST OCR TEXT : سناطلسلا ىمسف باقلالا لامعتسا يف زوجت ًاسماخ ) ايرفعج ( ًابهذم
+File data/JSTORArabic-ground-truth/dae241e2-2dcd-4db5-841d-3ae5d805786f.lstmf line 0 :
+Mean rms=1.897%, delta=5.464%, train=20.676%(34.425%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/35ba151a-0628-4baa-857d-48b91266b868.lstmf
+Iteration 587: GROUND  TRUTH : يذلا لجرلا ةقيقح ىلإ لوصولا يف حجني نأ اهتطساوب كلملل نكمي ةديدع قئارط ومح وبأ ضرع دقو
+File data/JSTORArabic-ground-truth/de4f43cc-db49-4c76-9414-d9c7e18408a6.lstmf line 0 (Perfect):
+Mean rms=1.894%, delta=5.455%, train=20.641%(34.367%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/a9d93c41-26ba-45a4-ab41-feae964075ed.lstmf
+Iteration 588: GROUND  TRUTH : بهذ يذلا دحلا ىلا بهذن نا نيرطضم انسل . يعماجلا جاهنملا ريرقت دنع رابتعالا
+File data/JSTORArabic-ground-truth/7251a461-9d9d-4778-b3bc-c9e8f9c23d4c.lstmf line 0 (Perfect):
+Mean rms=1.892%, delta=5.446%, train=20.606%(34.308%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/00d85749-a506-4690-8be1-97856b6c3edd.lstmf
+Iteration 589: GROUND  TRUTH : ثارتلا ءايحإ راد ،توريب ،نيفلؤملا مجعم ،ةلاحك اضر رمع رظنا . نآرقلا ريسفت : هفيناصت نم . ه ٥٥٠
+Iteration 589: BEST OCR TEXT : ثارتلا ءايحإ راد توريب .نيفلؤملا مجعم .ةلاحك اضر رمع رظنا .نارقلا ريسفت :هفيناصت نم .م ٠
+File data/JSTORArabic-ground-truth/8b57f09e-5b5c-4269-bcfb-effe3a1f1aff.lstmf line 0 :
+Mean rms=1.892%, delta=5.446%, train=20.597%(34.34%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/172b2dc1-b90a-48e0-b0e9-592ce8511d4a.lstmf
+Iteration 590: GROUND  TRUTH : . ليلخ رکاش ،راصن
+Iteration 590: BEST OCR TEXT : . ليلخ ركاش  راصن
+File data/JSTORArabic-ground-truth/56839a4b-fbb0-4b6d-be13-b7db6591534d.lstmf line 0 :
+Mean rms=1.893%, delta=5.454%, train=20.601%(34.366%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/8e4c64ac-7332-4545-8f27-3f67cf3360bb.lstmf
+Iteration 591: GROUND  TRUTH : ص )١٩٦٥( ٤و ٣/١٨ ج ٤١٩ - ٤٢١ .
+Iteration 591: ALIGNED TRUTH : ص )١٩٦٥( ٤و٣/١٨ ٤و ٣١٩ - ١- ٤٢١ ..
+Iteration 591: BEST OCR TEXT : .١ - ١١ص ١ت(  /١ ج
+File data/JSTORArabic-ground-truth/efa1da23-5134-4102-9f71-fdb76f6f420d.lstmf line 0 :
+Mean rms=1.897%, delta=5.468%, train=20.657%(34.439%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/91061190-d07c-441c-95e4-af1ab770daf7.lstmf
+Iteration 592: GROUND  TRUTH : نامالاو ةحارلا سوؤك اوفشر نيذلا اهديبع بیذهت مدقتو نونفلاو فراعملا راهشا
+Iteration 592: BEST OCR TEXT : نامالاو ةحارلا سوؤم اوفشر نيذلا اهديبع بيذهت مدقتو نونفلاو فراعملا راهشلا
+File data/JSTORArabic-ground-truth/fe3ecc00-8470-454b-b353-d6db74711eb5.lstmf line 0 :
+Mean rms=1.896%, delta=5.462%, train=20.634%(34.427%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/81648c16-02d9-49df-ac6b-cb408dcbf94c.lstmf
+Iteration 593: GROUND  TRUTH : او ،ةيئانثتسالا فورظلا نم صلختست نا نكمي ال ةيداصتقالا نيناوقلا نا
+Iteration 593: BEST OCR TEXT : او ةيئانثتسالا فورظلا نم صلختست نا نكمي ال ةيداصتقالا نيناوقلا نا
+File data/JSTORArabic-ground-truth/d30d7b2f-8281-4757-859a-e026a36a47c8.lstmf line 0 :
+Mean rms=1.894%, delta=5.454%, train=20.601%(34.385%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/0f91510b-d7b4-4e9c-b9a4-28a47bcd8d0d.lstmf
+Iteration 594: GROUND  TRUTH : وتالصنقلا تانامجرت دحأ يتاوللا هدمح يس ىلإ اهتيطعأ ينا يل لاقو . ةكحلا هديبو ىفطصم نب يلذاشلا وهو
+Iteration 594: BEST OCR TEXT : وتالصنةلا تانامجرت دحأ يناوللا هدمح يبم ىلإ اهتيطعأ ينا يل لاقو . ةكحلا هديبو ىفطصم نب يلذاشلا وهو
+File data/JSTORArabic-ground-truth/92d031b5-7218-4c28-be17-8834b30d5ebe.lstmf line 0 :
+Mean rms=1.893%, delta=5.449%, train=20.579%(34.355%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/f21af07f-f1d0-4f89-a8e7-9a0f60ad4880.lstmf
+Iteration 595: GROUND  TRUTH : ىنعملاب دورابلل اركذ دجي ال نوتراس نا ديب . ةداملا هذه ةيقنت نع (١٧) حامرلا
+Iteration 595: ALIGNED TRUTH : ىنعملاب دورابلل اركذ دجي ال نوتراس نا ديب . ةداملا هذه ةيقنت نع (١٧)) حامرلا
+Iteration 595: BEST OCR TEXT : ىنعملاب دورابلل اركذ دجي ال نوتراس نا ديب . ةداملا هذه ةيقنت نع '١١ حامرلا
+File data/JSTORArabic-ground-truth/35ba151a-0628-4baa-857d-48b91266b868.lstmf line 0 :
+Mean rms=1.892%, delta=5.442%, train=20.556%(34.308%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/8fd78c7f-b626-4ac6-a295-3b9b2337a71e.lstmf
+Iteration 596: GROUND  TRUTH : رخآلا ضعبلا اماو ،اهضعب رشن دقو ،سيسا لبجو ىواج يف صوصنلا هذه
+Iteration 596: BEST OCR TEXT : رخآلا ضعبلا اماو  اهضعب رشن دقو  سيسا لبجو ىواج يف صوصنلا هذه
+File data/JSTORArabic-ground-truth/a9d93c41-26ba-45a4-ab41-feae964075ed.lstmf line 0 :
+Mean rms=1.891%, delta=5.437%, train=20.532%(34.279%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/73a10a68-d176-498d-b723-ed431765e311.lstmf
+Iteration 597: GROUND  TRUTH : نوناقلا عورشم داعا وا باونلا سلجم هزاجا نوناق عورشم خويشلا سلجم ضفر اذا (٥)
+Iteration 597: BEST OCR TEXT : نوناقلا عورشم داعا وا باونلا سلجب هزاجا نوناق عورشم خويشلا سلجم ضفر اذا )(
+File data/JSTORArabic-ground-truth/00d85749-a506-4690-8be1-97856b6c3edd.lstmf line 0 :
+Mean rms=1.89%, delta=5.433%, train=20.505%(34.245%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/87bc48b7-8eab-46ce-9910-07953dc5d860.lstmf
+Iteration 598: GROUND  TRUTH : ريثك وشح اهيف ةحيحص ظافلأو ةميلس تاراشا ةيفوصلل» : ٢٦٧ : ١/٣ رئاصبلا يف نايح وبأ لاق (٢
+Iteration 598: ALIGNED TRUTH : ريثك وشح اهيف ةحيحص ظافلأو ةميلس تاراشا ةيفوصلل» : ٢٦٧٧٧ : ١/٣ رئاصبلا يف نايح وبأ لاق (٢
+Iteration 598: BEST OCR TEXT : ريثك وشح اهيف ةحيحص ظافلأو ةميلس تاراشا ةيفوصلل « : ١ : ١/ رئاصبلا يف نايح وبأ لاق )
+File data/JSTORArabic-ground-truth/172b2dc1-b90a-48e0-b0e9-592ce8511d4a.lstmf line 0 :
+Mean rms=1.89%, delta=5.431%, train=20.491%(34.225%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/c4888cd9-ca58-4138-ada1-1409df287b43.lstmf
+Iteration 599: GROUND  TRUTH : فدهلا قيقحت ىلا برقاو ةروكذملا سيياقملل ةيفوتسم نوكت تناك اهناف
+Iteration 599: BEST OCR TEXT : فدملا قيقحن ىلا برقاو ةروكذملا سيياقملل ةيفوتسم نوكت تناك اسهناف
+File data/JSTORArabic-ground-truth/8e4c64ac-7332-4545-8f27-3f67cf3360bb.lstmf line 0 :
+Mean rms=1.889%, delta=5.426%, train=20.47%(34.218%), skip ratio=0%
+2 Percent improvement time=270, best error was 24.001 @ 279
+At iteration 549/600/600, Mean rms=1.889%, delta=5.426%, char train=20.47%, word train=34.218%, skip ratio=0%,  New best char error = 20.47 wrote best model:data/JSTORArabic/checkpoints/JSTORArabic_20.47_549_600.checkpoint wrote checkpoint.
+
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/a6d0d5c5-92ac-40ee-96b4-21f9b6c58a12.lstmf
+Iteration 600: GROUND  TRUTH : . زعلاو ددؤسلا قيرط اندافحاو انئانبال مسرنو ،ماظعلا انفالسا هداش يذلا ميظعلا دجملا
+Iteration 600: BEST OCR TEXT : . زعلاو ددؤسلا قيرط اندافحاو انئانبال مسزوماظعلا انفالسا هداش يذلا يظعلا دجلا
+File data/JSTORArabic-ground-truth/91061190-d07c-441c-95e4-af1ab770daf7.lstmf line 0 :
+Mean rms=1.888%, delta=5.421%, train=20.451%(34.213%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/3de28c70-2b85-4d4f-bb1b-a20a40f5de22.lstmf
+Iteration 601: GROUND  TRUTH : . ثلاثلا
+Iteration 601: BEST OCR TEXT : . ثتلاثلا
+File data/JSTORArabic-ground-truth/81648c16-02d9-49df-ac6b-cb408dcbf94c.lstmf line 0 :
+Mean rms=1.888%, delta=5.415%, train=20.437%(34.239%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/d3fa1c02-1f9f-4a9d-be40-1cc2cda8cdc9.lstmf
+Iteration 602: GROUND  TRUTH : نوعقوتيو . ليئارسا ىلا مهترجه نوبلطيو نييفنم اکریما دوهي نوربتعی لیئارسا
+Iteration 602: BEST OCR TEXT : نوعقوتيو ليئاربما ىلا مهترجه نوبلطيو نييفنم اكريما دوهي نوربتعي ليئارسا
+File data/JSTORArabic-ground-truth/0f91510b-d7b4-4e9c-b9a4-28a47bcd8d0d.lstmf line 0 :
+Mean rms=1.889%, delta=5.417%, train=20.433%(34.242%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/4181504f-f36b-49b3-9052-2dc776bbbead.lstmf
+Iteration 603: GROUND  TRUTH : كلذ انعلطي ملف رشع نماثلا نرقلا لالخ ةيبرعلاو ةيكرتلا تافلؤملا يف ءاصقتسالا
+File data/JSTORArabic-ground-truth/f21af07f-f1d0-4f89-a8e7-9a0f60ad4880.lstmf line 0 (Perfect):
+Mean rms=1.887%, delta=5.408%, train=20.4%(34.186%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/84d38c5e-34b2-4f8f-a8c7-9b4458082a6d.lstmf
+Iteration 604: GROUND  TRUTH : روثأم ءاعد نم ءزج اذه
+File data/JSTORArabic-ground-truth/8fd78c7f-b626-4ac6-a295-3b9b2337a71e.lstmf line 0 (Perfect):
+Mean rms=1.884%, delta=5.4%, train=20.366%(34.129%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/901fbeea-5b61-4908-8dc7-de31afa595a8.lstmf
+Iteration 605: GROUND  TRUTH : . ٢٩٠ - ٢٧١ ص (١٩٥٤) ٣/٧ ج . يعامتجالا نامضلا
+Iteration 605: ALIGNED TRUTH : . ٢٢٩٠ - ٢٧٧١ ص ((١٩٥٤)) ٣/٧٧ ج . يعامتجالا نامضلا
+Iteration 605: BEST OCR TEXT : . - ١١ ص ١( // ج . يعامتجالا نامضلا
+File data/JSTORArabic-ground-truth/73a10a68-d176-498d-b723-ed431765e311.lstmf line 0 :
+Mean rms=1.886%, delta=5.402%, train=20.384%(34.133%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/43a28ddf-edf4-46ca-bdb0-e58dd3d3b5d9.lstmf
+Iteration 606: GROUND  TRUTH : . نيعرازملا روهمجب ةفرعملا هذه
+Iteration 606: BEST OCR TEXT : . نيعرازملا روهمجم ةفرعملا هذه
+File data/JSTORArabic-ground-truth/87bc48b7-8eab-46ce-9910-07953dc5d860.lstmf line 0 :
+Mean rms=1.884%, delta=5.397%, train=20.361%(34.11%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/b8b56b2f-42d9-4281-a06b-3c4b3f82a239.lstmf
+Iteration 607: GROUND  TRUTH : يضتقي ،رارقلا اذه لثم ىلا انلصوت اذاف . ميقلا ىلع مكح وا رايتخا ياب انمحقي
+Iteration 607: BEST OCR TEXT : يضتقي  رارقلا اذه لثم ىلا انلصوت اذاف . ميقلا ىلع كح وا رايتخا ياب انمحقي
+File data/JSTORArabic-ground-truth/c4888cd9-ca58-4138-ada1-1409df287b43.lstmf line 0 :
+Mean rms=1.883%, delta=5.39%, train=20.334%(34.075%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/99f32035-baf0-459c-b741-52ae38c367ce.lstmf
+Iteration 608: GROUND  TRUTH : ةيبرعلا ةيروهمجلا ىلع ءادتعا ةيقارعلا ةيروهمجلا ىلع ءادتعا لك ربتعي هناو ةيبرعلا
+Iteration 608: BEST OCR TEXT : ةيبرعلا ةيروهمجلا ىلع ءادتعا ةيقارعلا ةيروهمجا ىلع ءادتعا لكربتعي هناو ةيبوعلا
+File data/JSTORArabic-ground-truth/a6d0d5c5-92ac-40ee-96b4-21f9b6c58a12.lstmf line 0 :
+Mean rms=1.882%, delta=5.385%, train=20.309%(34.074%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/58ffe992-e86d-4116-a56c-f0968decc05f.lstmf
+Iteration 609: GROUND  TRUTH : . ةريبلا ةعانص - ١١ دولجلا غبد ةعاتص - ١٠
+Iteration 609: BEST OCR TEXT : . ةريبلا ةعانص - ١١ دولجلا غبد ةعانص - ٠
+File data/JSTORArabic-ground-truth/3de28c70-2b85-4d4f-bb1b-a20a40f5de22.lstmf line 0 :
+Mean rms=1.881%, delta=5.381%, train=20.288%(34.051%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/05a1fd62-9447-4dcd-a94f-7bcaacf8bbc2.lstmf
+Iteration 610: GROUND  TRUTH : ملف ىرخالا بوعشلا اما . ليئارساو هللا نيب ام ةيلزالا ةقالعلا يهو ،ةدحاو
+Iteration 610: BEST OCR TEXT : ف ىرخالا بوعشلا اما . ليئارماو هللا نيب ام ةيلزالا ةقالعلا يهو ةدحاو
+File data/JSTORArabic-ground-truth/d3fa1c02-1f9f-4a9d-be40-1cc2cda8cdc9.lstmf line 0 :
+Mean rms=1.881%, delta=5.375%, train=20.261%(34.033%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/c539077f-9c6d-46e9-a23b-99391184fbb9.lstmf
+Iteration 611: GROUND  TRUTH : ،عقاولا يف هلوصح نکميال رمأ يبلسلا ةدئافلا لدعم نا ةجحلا هذه ضقنيو
+Iteration 611: BEST OCR TEXT : عقاولا يف هلوصح نمكمي ال رما يبلسلا ةدئافلا لدعم نا ةجحلا هذه ضقنيو
+File data/JSTORArabic-ground-truth/4181504f-f36b-49b3-9052-2dc776bbbead.lstmf line 0 :
+Mean rms=1.88%, delta=5.372%, train=20.246%(34.018%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/d24ad9b2-5af7-43ab-a978-dc0daf150a9a.lstmf
+Iteration 612: GROUND  TRUTH : . امهل انراظتنا لوطي الا وجرنو . ءزجلا
+Iteration 612: BEST OCR TEXT : . امل انراظتنا لوطي الا وجرنو . ءزجلا
+File data/JSTORArabic-ground-truth/84d38c5e-34b2-4f8f-a8c7-9b4458082a6d.lstmf line 0 :
+Mean rms=1.879%, delta=5.365%, train=20.217%(33.983%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/40a01482-c53d-4446-a9b3-c6eb3761f5b8.lstmf
+Iteration 613: GROUND  TRUTH : . ةملعملا كل هتلاق ام ةيناث
+File data/JSTORArabic-ground-truth/901fbeea-5b61-4908-8dc7-de31afa595a8.lstmf line 0 (Perfect):
+Mean rms=1.876%, delta=5.357%, train=20.184%(33.928%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/24ca7205-2971-4595-8970-84280d4f744b.lstmf
+Iteration 614: GROUND  TRUTH : . ص ١٢٨ . ١٩٦٦ ،ةطبارلا ،ةكم . ةيلامشلا ايريجين ءارزو
+Iteration 614: ALIGNED TRUTH : . ص ١٢٢٢٨٨٨ . ١٩٦٦ ،،ةطبارلا ،،ةكم . ةيلامشلا ايريجين ءارزو
+Iteration 614: BEST OCR TEXT : . ص ١ . ١١١  ةطبارلا  ةكم . ةيلامشلا ايريجين ءارزو
+File data/JSTORArabic-ground-truth/43a28ddf-edf4-46ca-bdb0-e58dd3d3b5d9.lstmf line 0 :
+Mean rms=1.877%, delta=5.358%, train=20.185%(33.932%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/870358b4-1f19-43b1-a3cd-b4b55a79f497.lstmf
+Iteration 615: GROUND  TRUTH : . ەتدابعل ةيسيئرلا طوطخلا نيبتن نأ انيلع بعصي كلذك . ريسي ءيش اهنم انلصو يتلا
+Iteration 615: BEST OCR TEXT : . هتدابعل ةيسيئرلا طوطخلا نيبتن نا انيلع بعصي كلذك . ريسي ءيش اهنم انلصو ققلا
+File data/JSTORArabic-ground-truth/b8b56b2f-42d9-4281-a06b-3c4b3f82a239.lstmf line 0 :
+Mean rms=1.876%, delta=5.354%, train=20.169%(33.909%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/91945a5e-7b33-412c-9456-e432e3d96198.lstmf
+Iteration 616: GROUND  TRUTH : . اهراوسا ةمظع ما ةنيدملا طيحم لوط ةيحان نم ءاوس ،دعب اميف اهلثم ينبي نا
+Iteration 616: BEST OCR TEXT : .اهراوسا ةمظع ما ةنيدملا طيحم لوط ةيحان نم ءاوس دعب اهف اهلثم ينبي نا
+File data/JSTORArabic-ground-truth/99f32035-baf0-459c-b741-52ae38c367ce.lstmf line 0 :
+Mean rms=1.875%, delta=5.348%, train=20.148%(33.897%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/81f888cc-f8b5-4584-85d6-113ee84f87c8.lstmf
+Iteration 617: GROUND  TRUTH : دادعالا نم ةعبراو ةثالث ددعلاو ٤ + ٣ نم فلأتي هنال وا هتاذ ىلع الا مسقي ال
+Iteration 617: BEST OCR TEXT : هادعالا نم ةعبراو ةثالث ددعلاو  نم فلأتي هنال وا هتاذ ىلع الا مشقي ال
+File data/JSTORArabic-ground-truth/58ffe992-e86d-4116-a56c-f0968decc05f.lstmf line 0 :
+Mean rms=1.875%, delta=5.344%, train=20.135%(33.89%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/ad10f16a-ba78-4c4b-a0ac-e7d063f5469d.lstmf
+Iteration 618: GROUND  TRUTH : عمً ايشممت رئازجلا يف تايحالصلا ميظنت نوكيس ،ريصملا ريرقت قح لمتكي ىتحو - د
+Iteration 618: ALIGNED TRUTH : عمً ايشممت رئازجلا يف تايحالصلا ميظنت نوكيس ،،ريصملا ريرقت قح لمتكي ىتحو - د
+Iteration 618: BEST OCR TEXT : عم ًايشمتم رئازجلا يف تايحالصلا عظنت نوكيس ءريصملا ريرقت قح لمتكي ىتحو - د
+File data/JSTORArabic-ground-truth/05a1fd62-9447-4dcd-a94f-7bcaacf8bbc2.lstmf line 0 :
+Mean rms=1.874%, delta=5.342%, train=20.113%(33.882%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/66b48ce8-4e2f-4ec4-ad79-0af3558bd12c.lstmf
+Iteration 619: GROUND  TRUTH : نم ىلع يدتعي ثيحب ًايدسج ًارح نوكي نا ناسنالل نكمي ال هنا امك . ةيدسجلا
+Iteration 619: BEST OCR TEXT : نم ىلع يدنعي ثيحب ًايدسج ًارح نوكي نا ناسنالل نكمي ال هنا اك . ةيدسجلا
+File data/JSTORArabic-ground-truth/c539077f-9c6d-46e9-a23b-99391184fbb9.lstmf line 0 :
+Mean rms=1.873%, delta=5.335%, train=20.087%(33.848%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/52fd068c-5a19-43aa-a3f8-137294f51943.lstmf
+Iteration 620: GROUND  TRUTH : . ىندالاو طسوالا نيقرشلل ةيداصتقالا ةئيهلل يريضحتلا رمتؤملا نا
+Iteration 620: BEST OCR TEXT : . يندالاو طسوالا نيقرشلل ةيداصتقالا ةثيبلل يريضحتلا رمتؤملا نا
+File data/JSTORArabic-ground-truth/d24ad9b2-5af7-43ab-a978-dc0daf150a9a.lstmf line 0 :
+Mean rms=1.873%, delta=5.332%, train=20.071%(33.83%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/e1b56f82-437e-442b-84d5-c443b85639ae.lstmf
+Iteration 621: GROUND  TRUTH : مل وا ،لوالا سلجملا ىدل ةلوبقم ريغ تاليدعتب هزاجا وا رخآلا سلجملا هضفر اماو
+Iteration 621: BEST OCR TEXT : ل وأ  لوالا سلجملا ىدل ةلوبقم ريغ تاليدعتب هزاجا وا رخآلا سلجملا هضفر اماو
+File data/JSTORArabic-ground-truth/40a01482-c53d-4446-a9b3-c6eb3761f5b8.lstmf line 0 :
+Mean rms=1.872%, delta=5.325%, train=20.049%(33.81%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/17969533-4e62-479f-b95d-72e92fb67dd1.lstmf
+Iteration 622: GROUND  TRUTH : . ص ٤٠٦ . ه ١٣٠٦
+Iteration 622: ALIGNED TRUTH : . ص ٤٤٠٦٦ . ه ١٣٣٠٠٦٦٦
+Iteration 622: BEST OCR TEXT : . ص  ١١ .  ١ 
+File data/JSTORArabic-ground-truth/24ca7205-2971-4595-8970-84280d4f744b.lstmf line 0 :
+Mean rms=1.874%, delta=5.338%, train=20.127%(33.836%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/132c12cd-7a22-4419-8b24-1c4825c18cdc.lstmf
+Iteration 623: GROUND  TRUTH : هب يداني يذلا حالصالا ىلا ةوعدلا ىضتقا يذلا نهارلا عضولا ىلا تدا يتلا اهريغو ةيعامتجالاو
+Iteration 623: BEST OCR TEXT : هب يداني يذلا حالصالا ىلا ةوعدلا ىفتقا يذلا نهارلا عضولا ىلا تدا يتلا اهريغو ةيعاتجالاو
+File data/JSTORArabic-ground-truth/870358b4-1f19-43b1-a3cd-b4b55a79f497.lstmf line 0 :
+Mean rms=1.872%, delta=5.33%, train=20.1%(33.803%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/5151346c-29c3-4aaf-8d03-add9a9a3d578.lstmf
+Iteration 624: GROUND  TRUTH : لزغلا ةعانص - ٣ لورتبلا ريرکت ةعانص - ٢ لورتبلا جاتنا ةعانص - ١
+Iteration 624: BEST OCR TEXT : لزغلا ةعانص -  لورتبلا ريركت ةعانص -  لورتبلا جاتنا ةعانص - ١
+File data/JSTORArabic-ground-truth/91945a5e-7b33-412c-9456-e432e3d96198.lstmf line 0 :
+Mean rms=1.872%, delta=5.326%, train=20.078%(33.783%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/c1cac99f-70e8-41c3-87cf-8e265b558814.lstmf
+Iteration 625: GROUND  TRUTH : جاتنا ىلع هتايناکما نمض لمعي يكل لاجملا هل حسفتو ،يداصتقالا لالغتسالاو
+Iteration 625: BEST OCR TEXT : جاتنا ىلع هتايناكما نمحض لمعي يكل لاجلا هل حسفتو /يداصتقالا لالغتسالاو
+File data/JSTORArabic-ground-truth/81f888cc-f8b5-4584-85d6-113ee84f87c8.lstmf line 0 :
+Mean rms=1.871%, delta=5.321%, train=20.06%(33.787%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/01b227ee-6646-4c2e-ab6e-1f2b2fb82927.lstmf
+Iteration 626: GROUND  TRUTH : ،ةينامثعلا ةعبطملا ،ةرهاقلا . ةيويدخلا ةناخبتكلا يف ةدوجوملا ةيكرتلا بتكلا تسرهف
+Iteration 626: BEST OCR TEXT : , ةينامثعلا ةعبطملا ؛ ةرهاقلا . ةيويدخلا ةناخيتكلا يف ةدوجوملا ةيكرتلل بتكلا تسرهف
+File data/JSTORArabic-ground-truth/ad10f16a-ba78-4c4b-a0ac-e7d063f5469d.lstmf line 0 :
+Mean rms=1.871%, delta=5.32%, train=20.048%(33.791%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/6d5258bb-9cfb-490c-a046-fbd390fb816d.lstmf
+Iteration 627: GROUND  TRUTH : ةيعامتجالا عاضوالا ددصب ةروثلا ةسارد) ص ١٦٥ ،جنزلا ةروث - رماسلا لصيف
+Iteration 627: ALIGNED TRUTH : ةيعامتجالا عاضوالا ددصب ةروثلا ةسارد)) ص ١٦٥ ،جنزلا ةروث - رماسلا لصيف
+Iteration 627: BEST OCR TEXT : ةيعاتجالا عاضوالا ددصب ةروثلا ةسارد ( ص١٠ جنؤلا ةروث - رماسلا لصيف
+File data/JSTORArabic-ground-truth/66b48ce8-4e2f-4ec4-ad79-0af3558bd12c.lstmf line 0 :
+Mean rms=1.871%, delta=5.319%, train=20.037%(33.804%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/623c4354-e23f-4169-9f01-5727802ce856.lstmf
+Iteration 628: GROUND  TRUTH : بئان هل بختنا بابسالا نم ببسل يباين دعقم الخ اذا - نوسمخلاو ةعباسلا ةداملا
+Iteration 628: BEST OCR TEXT : بئان هل بختنا بابسالا نم ببسل يلاين دعقم الخ اذا  نوسمحاو ةعبابلا ةداملا
+File data/JSTORArabic-ground-truth/52fd068c-5a19-43aa-a3f8-137294f51943.lstmf line 0 :
+Mean rms=1.87%, delta=5.314%, train=20.014%(33.796%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/6c7f8326-9c4b-4010-b117-c4637225fc94.lstmf
+Iteration 629: GROUND  TRUTH : ىلع هنأ ىرن اذكهو . نيئجاللاو نيطسلف يتيضقل يسايسلا ريصملا نع ةيناسنالا
+Iteration 629: BEST OCR TEXT : ىلع هنأ ىرن اذكهو . نيثجاللاو نيطسلف يتيضقل يسايسلا ريصملا نع ةيناسنالا
+File data/JSTORArabic-ground-truth/e1b56f82-437e-442b-84d5-c443b85639ae.lstmf line 0 :
+Mean rms=1.869%, delta=5.307%, train=19.986%(33.755%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/617cbfdf-8dab-4e3c-a0e1-7b5631533e29.lstmf
+Iteration 630: GROUND  TRUTH : ىلوالا اهفورحلً اقوف هتادرفم تبتر يرصع يوغل مجعم
+Iteration 630: ALIGNED TRUTH : ىلوالا اهفورحلً اقفوف هتادرفم تبتر يرصع يوغل مجعم
+Iteration 630: BEST OCR TEXT : ىلرالا اهفورحل ًاقفو هتادرفم تبتر يرصع يوغل مجعم
+File data/JSTORArabic-ground-truth/17969533-4e62-479f-b95d-72e92fb67dd1.lstmf line 0 :
+Mean rms=1.868%, delta=5.306%, train=19.961%(33.761%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/2ddc5581-86e3-431b-a758-3645f92b7e63.lstmf
+Iteration 631: GROUND  TRUTH : : قيفوتلا لك هل وحرن يذلا مداقلا رمتؤملا يف اهنم ةدافإلا لما ىلع اهمدقن نيرمتؤملا
+File data/JSTORArabic-ground-truth/132c12cd-7a22-4419-8b24-1c4825c18cdc.lstmf line 0 (Perfect):
+Mean rms=1.866%, delta=5.298%, train=19.93%(33.708%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/66599c12-9673-4f1e-a232-6ed8d4eed677.lstmf
+Iteration 632: GROUND  TRUTH : باتكلا راد : ةيلاملاو ةيرادالا تارباخملا
+Iteration 632: BEST OCR TEXT : باتكلا واد  :ةيلاملاو ةيرادالا تارباخملا
+File data/JSTORArabic-ground-truth/5151346c-29c3-4aaf-8d03-add9a9a3d578.lstmf line 0 :
+Mean rms=1.866%, delta=5.298%, train=19.906%(33.733%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/12e321e4-a738-47d1-8590-fde7e722799f.lstmf
+Iteration 633: GROUND  TRUTH : ريدملا نم ةفلؤملا ةيميلعتلا ةئيهلا هعضتف زكرملا اذه يف سوردلا جهنم اما
+Iteration 633: BEST OCR TEXT : ريدملا نم ةفلؤملا ةيميلعتلا ةئيهلا هعضتف زك رملا اذه يف سوردلا جهنم اما
+File data/JSTORArabic-ground-truth/c1cac99f-70e8-41c3-87cf-8e265b558814.lstmf line 0 :
+Mean rms=1.864%, delta=5.29%, train=19.877%(33.693%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/f413247c-83c6-4bca-a040-06c436b15947.lstmf
+Iteration 634: GROUND  TRUTH : مدعني ةرطيسلا هذه لثمل يركسعلا وا يسايسلا نومضملا داك دقف مويلا
+File data/JSTORArabic-ground-truth/01b227ee-6646-4c2e-ab6e-1f2b2fb82927.lstmf line 0 :
+Mean rms=1.863%, delta=5.283%, train=19.846%(33.64%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/a670f5bf-a2e0-474f-b4d5-9631c28a55c6.lstmf
+Iteration 635: GROUND  TRUTH : . زيزعلا دبع
+File data/JSTORArabic-ground-truth/6d5258bb-9cfb-490c-a046-fbd390fb816d.lstmf line 0 (Perfect):
+Mean rms=1.86%, delta=5.274%, train=19.814%(33.587%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/1303bb87-0835-4c14-9243-78d195219135.lstmf
+Iteration 636: GROUND  TRUTH : . عازنلا لحل مکاحملا ىلا امهدحا فنأتسيف همكح ضفري دقو . نيفرطلا دنع ةيئاهن ةمربم
+Iteration 636: ALIGNED TRUTH : .عازنلا لحل مکاحملا ىلا امهدحا فنأتسيف همكح ضفري دقو .نيفرطلا دنع ةيئاهن ةمربم
+Iteration 636: BEST OCR TEXT : .عازتلا لح محملا ىلا امهدحا فنأتسيف همكتح ضفري دقو .نيفرطلا دنع ةيئاهن ةموبم
+File data/JSTORArabic-ground-truth/623c4354-e23f-4169-9f01-5727802ce856.lstmf line 0 :
+Mean rms=1.86%, delta=5.271%, train=19.803%(33.618%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/27cea9f1-f417-4c89-8b0b-a02ac443c5f6.lstmf
+Iteration 637: GROUND  TRUTH : نب بيهصلل هللا رفغ - ١
+Iteration 637: BEST OCR TEXT : نبب بيهصلل هللا رفغ - ١
+File data/JSTORArabic-ground-truth/6c7f8326-9c4b-4010-b117-c4637225fc94.lstmf line 0 (Perfect):
+Mean rms=1.858%, delta=5.262%, train=19.779%(33.592%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/654d6afc-a9be-4c82-8e7f-56622db20b12.lstmf
+Iteration 638: GROUND  TRUTH : دق تسلت ةدهاعم نا امبو . ةيموقلا اهتمارك عاجرتسا ىلع ًادیکاً امعز تمزع
+Iteration 638: BEST OCR TEXT : دق تسلت ةدهاعم نا امو . ةيموقلا اهتمارك عاجرتسا ىلع ًاديكا ًامزع تمزع
+File data/JSTORArabic-ground-truth/617cbfdf-8dab-4e3c-a0e1-7b5631533e29.lstmf line 0 :
+Mean rms=1.859%, delta=5.263%, train=19.759%(33.575%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/9f13bd15-a407-42c6-a728-fac708a6b806.lstmf
+Iteration 639: GROUND  TRUTH : ٦٩
+Iteration 639: BEST OCR TEXT : 
+File data/JSTORArabic-ground-truth/2ddc5581-86e3-431b-a758-3645f92b7e63.lstmf line 0 :
+Mean rms=1.862%, delta=5.278%, train=19.885%(33.679%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/224f193c-d9aa-4989-aba3-874fd966afc2.lstmf
+Iteration 640: GROUND  TRUTH : ةفراجلا ةرفطلا ةافالم ،ىمظع ةثراك نع نيئجاللا ةلكشم أشنت امدنع ،نكمي املق
+Iteration 640: BEST OCR TEXT : ةفراجلا ةرفطلا ةافالم ىمظع ةثراك نع نيئجاللا ةلكشم ًاشنت امدنع  نكمي املق
+File data/JSTORArabic-ground-truth/66599c12-9673-4f1e-a232-6ed8d4eed677.lstmf line 0 :
+Mean rms=1.861%, delta=5.278%, train=19.866%(33.666%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/06ec2a23-b80f-4ecb-87f9-c146a387c86f.lstmf
+Iteration 641: GROUND  TRUTH : . ىرعشألا رماع يبأل معلص هللا لوسر اهدقع / مهتيارو / رجاهم نييرعشألا
+Iteration 641: BEST OCR TEXT : . ىرعشألا رماع ىبأل علص هللا لوسر اهدقع / مهتيارو / رجاهم نييرعشألا
+File data/JSTORArabic-ground-truth/12e321e4-a738-47d1-8590-fde7e722799f.lstmf line 0 :
+Mean rms=1.86%, delta=5.272%, train=19.842%(33.637%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/ca10d06d-6d25-43f4-9c4a-f0d87c9f9df6.lstmf
+Iteration 642: GROUND  TRUTH : ٢٨
+Iteration 642: ALIGNED TRUTH : ٢٢٨٨
+Iteration 642: BEST OCR TEXT : ١
+File data/JSTORArabic-ground-truth/f413247c-83c6-4bca-a040-06c436b15947.lstmf line 0 :
+Mean rms=1.863%, delta=5.291%, train=20.045%(33.74%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/c69196d1-225e-4488-af6e-b6c3fc25db33.lstmf
+Iteration 643: GROUND  TRUTH : (م) دمحم رهاز ،يدانلا و دمحم هط ،زاوح
+Iteration 643: BEST OCR TEXT : )م(دمم رهاز يدانلا و دمهطئزاوح
+File data/JSTORArabic-ground-truth/a670f5bf-a2e0-474f-b4d5-9631c28a55c6.lstmf line 0 :
+Mean rms=1.865%, delta=5.3%, train=20.051%(33.804%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/d674fe40-80c0-453e-91d7-2ead6d939a72.lstmf
+Iteration 644: GROUND  TRUTH : . ًالداع هنوک بوجوب نحن انداقتعا
+Iteration 644: BEST OCR TEXT : . ًالداع هنوك بوجوب نحن انداقتعا
+File data/JSTORArabic-ground-truth/1303bb87-0835-4c14-9243-78d195219135.lstmf line 0 :
+Mean rms=1.864%, delta=5.297%, train=20.03%(33.778%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/b118a8c7-7cd9-4449-bf38-ccf4fcb6bcb6.lstmf
+Iteration 645: GROUND  TRUTH : ةيسنرفلا تاطلسلا یدل ةدوجوملا ميقلاو غلابملا ،ةينانبللاو ةيروسلا ناتموكحلا
+Iteration 645: BEST OCR TEXT : ةيسنرفلا تاطلسلا ىدل ةدوجوملا ميقلاو غلابملا  ةينانبللاو ةيروسلا ناتموكحلا
+File data/JSTORArabic-ground-truth/27cea9f1-f417-4c89-8b0b-a02ac443c5f6.lstmf line 0 :
+Mean rms=1.863%, delta=5.292%, train=20.007%(33.76%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/76c8e343-07c1-4b9b-92bd-021efd3ff345.lstmf
+Iteration 646: GROUND  TRUTH : ٧٤
+Iteration 646: ALIGNED TRUTH : ٧٧٤٤
+Iteration 646: BEST OCR TEXT : 
+File data/JSTORArabic-ground-truth/654d6afc-a9be-4c82-8e7f-56622db20b12.lstmf line 0 :
+Mean rms=1.867%, delta=5.308%, train=20.131%(33.862%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/03b4683a-39bf-4add-b072-1618023218e4.lstmf
+Iteration 647: GROUND  TRUTH : ةسايس نآلا دحل نوكتت امل هنا عقاولاو ةيرامعا عيراشمب مئاوق درجم نوكت
+Iteration 647: BEST OCR TEXT : ةسايس نآلا دحل نوكتت امل هنا عقاولاو ةيرامما عيراشمب مئاوق درجب نوكت
+File data/JSTORArabic-ground-truth/9f13bd15-a407-42c6-a728-fac708a6b806.lstmf line 0 :
+Mean rms=1.866%, delta=5.303%, train=20.104%(33.836%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/a0b0dc4b-a248-4d1d-afc1-b7937a94f7bc.lstmf
+Iteration 648: GROUND  TRUTH : ءيش ال هنأ امهدحأ : نيلوق ىلع كلذ جرخت ناقح امهنا لاقوً اعيجم نيلاملا ىعدا ناو ،رخآلا دهاشلا
+Iteration 648: ALIGNED TRUTH : ءيش ال هنأ امهدحأ : نيلوق ىلع كلذ جرخت ناقح امهنا لاقوً اعيجمج نيلاملا ىعدا ناو ،رخآلا دهاشلا
+Iteration 648: BEST OCR TEXT : ءيش ال هنأ امهدحأ : نيلوق ىلع كلذ جرخت ناقح امهنا لاقو ًاعيمج نيلاملا ىعدا ناو  رخالا دهاشلا
+File data/JSTORArabic-ground-truth/224f193c-d9aa-4989-aba3-874fd966afc2.lstmf line 0 :
+Mean rms=1.865%, delta=5.301%, train=20.08%(33.809%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/82150728-f7ba-4d71-988a-c61c31d620f4.lstmf
+Iteration 649: GROUND  TRUTH : ةئملاب ١٠ ،١٩٣٨ يف لاغتربلا يف ةئملاب ٧ ٩/١٠ ،١٩٣٨ يف اسنرف يف ةئملاب ٧ ٨/١٠ لباقت (١)
+Iteration 649: ALIGNED TRUTH : ةئملاب ١٠ ،١٩٣٣٨ يف لاغتربلا يف ةئملاب ٧ ٩/١٠ ،١١٩٣٨ يف اسنرف يف ةئملاب ٧ ٨٨/١٠ لباقت (١)
+Iteration 649: BEST OCR TEXT : ةملب ٠١  عسم يف لاغتسإلا يف ةثملب ي  سم يف اسنرف يفةثملاب م لباقت 
+File data/JSTORArabic-ground-truth/06ec2a23-b80f-4ecb-87f9-c146a387c86f.lstmf line 0 :
+Mean rms=1.868%, delta=5.313%, train=20.124%(33.868%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/745e2474-1cb5-4ded-8d0b-1f3d6303be01.lstmf
+Iteration 650: GROUND  TRUTH : . ص ١٩١ . ١٩٦٥ ،ةايحلا ةبتكم راد ،توريب . ةلماك ةصق . ةقيقحلا سمش
+Iteration 650: ALIGNED TRUTH : . ص ١٩١ . ١٩٩٦٦٥ ،،ةايحلا ةبتكم راد ،،توريب . ةلماك ةصق . ةقيقحلا سمش
+Iteration 650: BEST OCR TEXT : ٠ ص ١١١  ٠١١ ١١  ةايحلا ةبتكم راد  توريب ٠ ةلماك ةصق ٠ ةقيقحلا سمش
+File data/JSTORArabic-ground-truth/ca10d06d-6d25-43f4-9c4a-f0d87c9f9df6.lstmf line 0 :
+Mean rms=1.868%, delta=5.314%, train=20.143%(33.898%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/b8182cdb-1c8d-4438-8a1d-57f6b23cb1e3.lstmf
+Iteration 651: GROUND  TRUTH : ردقن امدنعو ،(بتك) ةملك يف تءاج امك هسفن صنلا يف تدرو اهنا عم
+Iteration 651: ALIGNED TRUTH : ردقن امدنعو ،((بتك)) ةملك يف تءاج امك هسفن صنلا يف تدرو اهنا عم
+Iteration 651: BEST OCR TEXT : ردقن امدنعو ) بتك ( ةملك يف تءاج اك هسفن صنلا يف تدرو اهنا عم
+File data/JSTORArabic-ground-truth/c69196d1-225e-4488-af6e-b6c3fc25db33.lstmf line 0 :
+Mean rms=1.868%, delta=5.314%, train=20.122%(33.87%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/baef75e2-6cff-450f-aa59-41ed9ab3cc62.lstmf
+Iteration 652: GROUND  TRUTH : . ٢٣٩ - ٢٣٨ ص ،١٩٨٥
+Iteration 652: ALIGNED TRUTH : . ٢٢٣٩ ٩ - ٢٢٣٣٨ ص ،١٩٨٨٥٥
+Iteration 652: BEST OCR TEXT : .  ١-  ١ص 
+File data/JSTORArabic-ground-truth/d674fe40-80c0-453e-91d7-2ead6d939a72.lstmf line 0 :
+Mean rms=1.871%, delta=5.317%, train=20.18%(33.946%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/5988ce42-ba89-4fce-8fcb-70edfbd6f6c9.lstmf
+Iteration 653: GROUND  TRUTH : . ٣٤ - ٢٣ ص (١٩٦٣) ١/١٦ ج . يرخف دجام ،طارقسو يدنكلا
+Iteration 653: ALIGNED TRUTH : . ٣٤٤ - ٢٢٣ ص ((١٩٦٦٣) ١/١٦ ج . يرخف دجام ،طارقسو يدنكلا
+Iteration 653: BEST OCR TEXT : .- ص ١( ١/١١ ج . يرخف دجام طارقسو يدنكلا
+File data/JSTORArabic-ground-truth/b118a8c7-7cd9-4449-bf38-ccf4fcb6bcb6.lstmf line 0 :
+Mean rms=1.872%, delta=5.317%, train=20.19%(33.976%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/d673d042-a6f5-42d4-bdca-7761787e6fe5.lstmf
+Iteration 654: GROUND  TRUTH : ? مويلا مهنم
+Iteration 654: BEST OCR TEXT : ؟ موبلا مهنم
+File data/JSTORArabic-ground-truth/76c8e343-07c1-4b9b-92bd-021efd3ff345.lstmf line 0 :
+Mean rms=1.872%, delta=5.322%, train=20.21%(34.026%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/807862f1-caee-43b2-855a-495cdb7801cb.lstmf
+Iteration 655: GROUND  TRUTH : . ىرخا نكاما يف فظوتلا وا ةرحلا لامعالا يف لاغتشالا اهمها ةفلتخم بابسأل
+Iteration 655: BEST OCR TEXT : . ىرخا نكاما يف فظوتلا وا ةرحلا لامالا يف لاغتشالا اهمها ةفلتخم بابسأل
+File data/JSTORArabic-ground-truth/03b4683a-39bf-4add-b072-1618023218e4.lstmf line 0 (Perfect):
+Mean rms=1.871%, delta=5.314%, train=20.182%(33.986%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/f0ed522e-5e9a-4b95-ae02-36ef9daf86e2.lstmf
+Iteration 656: GROUND  TRUTH : . ٩٦ - ٨٧ ص (١٩٨٦) ٣٤ ج . دمحأ نب ليلخلا ،نيعلا باتك
+Iteration 656: ALIGNED TRUTH : . ٩٩٦ - ٨٧٧ ص ((١٩٨٨٦) ٣٤ ج . دمحأ نب ليلخلا ،نيعلا باتك
+Iteration 656: BEST OCR TEXT : . - ١ ص )١4(  ج .دمحأ نب ليلخلا .نيعلا باتك
+File data/JSTORArabic-ground-truth/a0b0dc4b-a248-4d1d-afc1-b7937a94f7bc.lstmf line 0 :
+Mean rms=1.872%, delta=5.317%, train=20.195%(34.01%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/2435d0f8-8665-4c34-bb8f-b1137b3552c2.lstmf
+Iteration 657: GROUND  TRUTH : اهسفن ةياغ يه - كلذ سكع ىلع - ةايحلاف . ةايحلا ةياغ وه ،فرصلا يداملا
+Iteration 657: BEST OCR TEXT : ايسفن ةياغ يه - كلذ سكع ىلع - ةايحلاف . ةايحلا ةياغوه  فرصلا يداملا
+File data/JSTORArabic-ground-truth/82150728-f7ba-4d71-988a-c61c31d620f4.lstmf line 0 :
+Mean rms=1.871%, delta=5.311%, train=20.171%(33.999%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/83898357-ea26-4ae4-9cb8-312c724a8a3e.lstmf
+Iteration 658: GROUND  TRUTH : بهذم يف لماكلا اهلكش تذختاف ،ً اسوسمحً امدتق ذئدعب ةركفلا هذه تمدقتو
+Iteration 658: ALIGNED TRUTH : بهذم يف لماكلا اهلكش تذختاف ،ً اسوسمحً امدتقت ذئدعب ةركفلا هذه تمدقتو
+Iteration 658: BEST OCR TEXT : بهذم يف لماكلا اهلكش تذختاف  اسوسحم ًامدقت ذئدعب ةركفلا هذه تمدقتو
+File data/JSTORArabic-ground-truth/745e2474-1cb5-4ded-8d0b-1f3d6303be01.lstmf line 0 :
+Mean rms=1.871%, delta=5.314%, train=20.145%(33.985%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/8994e002-6379-4b91-91b5-ecd9a54c91ae.lstmf
+Iteration 659: GROUND  TRUTH : . ١٥٠ ص قباسلا ردصملا ٥٠
+Iteration 659: BEST OCR TEXT : . ١٠١ ص قباسلا ردصملا ٠
+File data/JSTORArabic-ground-truth/b8182cdb-1c8d-4438-8a1d-57f6b23cb1e3.lstmf line 0 :
+Mean rms=1.871%, delta=5.31%, train=20.133%(33.985%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/79a1f1be-627f-4412-9371-b418ba4fde10.lstmf
+Iteration 660: GROUND  TRUTH : يل لاق امك ةقيقحلا يفو . ققحت امم رثكا ًاريثك رظتننل انك ام انناف ،ةرم لوال
+Iteration 660: BEST OCR TEXT : يل لاق ص ةقيقحلا يفو .ققحت ام رثكا اريثك رظتننل انك ام انناف ةرم لوال
+File data/JSTORArabic-ground-truth/baef75e2-6cff-450f-aa59-41ed9ab3cc62.lstmf line 0 :
+Mean rms=1.87%, delta=5.307%, train=20.119%(33.99%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/c7dff4ee-63b6-404e-becc-1877b4b4c736.lstmf
+Iteration 661: GROUND  TRUTH : عاطتساو . ريغتت ىتح اهنمض تالعافتلا نم ةلسلسب دتمي هنيحلا تابكرم يف يرذ رييغتب
+Iteration 661: BEST OCR TEXT : عاطتساو . ريغتت ىتح اهنمض تالعافتلا نم ةلسلسب دنمي هنيحلا تابكر يف يرذ ريغتب
+File data/JSTORArabic-ground-truth/5988ce42-ba89-4fce-8fcb-70edfbd6f6c9.lstmf line 0 :
+Mean rms=1.869%, delta=5.302%, train=20.096%(33.971%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/f76692d0-a92c-4dc9-9bff-8621635c08a1.lstmf
+Iteration 662: GROUND  TRUTH : .... (هيدلاو) ... ةمحر يثراهلا حابر - ٢
+Iteration 662: BEST OCR TEXT : .... )هيدلاو١ ... ةمحر يفرامهلا حابر -
+File data/JSTORArabic-ground-truth/d673d042-a6f5-42d4-bdca-7761787e6fe5.lstmf line 0 :
+Mean rms=1.869%, delta=5.302%, train=20.093%(33.976%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/29087b85-3e03-45ca-88c6-8a0401911b51.lstmf
+Iteration 663: GROUND  TRUTH : ءىراقلا رثعي اممو .(١) يبروالا يسايسلا خيراتلل ةيمهالا ةياغ يف ًارهظم هدعبو رشع
+Iteration 663: BEST OCR TEXT : ءىراقلا رثعي امو .'١! يبروالا يسايسلا خيراتلل ةيمهالا ةياغ يف ارهظم هدعبو رشع
+File data/JSTORArabic-ground-truth/807862f1-caee-43b2-855a-495cdb7801cb.lstmf line 0 :
+Mean rms=1.868%, delta=5.296%, train=20.074%(33.96%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/4fb12863-baa7-4127-815b-06feda3e2785.lstmf
+Iteration 664: GROUND  TRUTH : ٣٦٧
+Iteration 664: ALIGNED TRUTH : ٣٣٣٦٧٧٧
+Iteration 664: BEST OCR TEXT : --بي
+File data/JSTORArabic-ground-truth/f0ed522e-5e9a-4b95-ae02-36ef9daf86e2.lstmf line 0 :
+Mean rms=1.872%, delta=5.308%, train=20.395%(34.059%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/62ec746e-0db6-4820-bc7e-84cc0900af81.lstmf
+Iteration 665: GROUND  TRUTH : ةعماجلا ،ةيداصتقالا ثاحبالا دهعم ،يناثلا دلجملا «١٩٥٥ - ينانبللا يعانصلا دادعتلا» «٣»
+Iteration 665: ALIGNED TRUTH : ةعماجلا ،ةيداصتقالا ثاحبالا دهعم ،يناثلا دلجملا «١٩٥٥٥ - ينانبللا يعانصلا دادعتلا» «٣»»
+Iteration 665: BEST OCR TEXT : ةعماجلا ةيداصتقالا ثاحبالا دهعم يناثلا دلجملا ج ١   م - ينانبللا يعانصلا دادعتلا « »م«
+File data/JSTORArabic-ground-truth/2435d0f8-8665-4c34-bb8f-b1137b3552c2.lstmf line 0 :
+Mean rms=1.873%, delta=5.312%, train=20.391%(34.07%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/30f5b0e3-a0d0-4055-af04-e02b5dce1233.lstmf
+Iteration 666: GROUND  TRUTH : ٨٤ ٣٣٥٥ ٤٧٣٠٤
+Iteration 666: ALIGNED TRUTH : ٨٨٨٤ ٣٣٣٣٥٥ ٤  ٤٧٣٠٠ ٤٤٧٣٠٤
+Iteration 666: BEST OCR TEXT : . .١   ح
+File data/JSTORArabic-ground-truth/83898357-ea26-4ae4-9cb8-312c724a8a3e.lstmf line 0 :
+Mean rms=1.877%, delta=5.346%, train=20.556%(34.169%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/a86d9204-b1ba-4172-800b-b41a6ef6923b.lstmf
+Iteration 667: GROUND  TRUTH : . ريخ اهنم یجري ال ةكوهنم
+Iteration 667: BEST OCR TEXT : . ريخ اهنم ىجرب ال ةكوهنم
+File data/JSTORArabic-ground-truth/8994e002-6379-4b91-91b5-ecd9a54c91ae.lstmf line 0 :
+Mean rms=1.876%, delta=5.343%, train=20.55%(34.143%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/dc3345bf-cca2-4a1e-8031-1da07d40bffd.lstmf
+Iteration 668: GROUND  TRUTH : لمكا مث . «فيلستلاو دقنلا ميظنت هيلا دنست» نانبلو ةيروس يف يقيقح يزکرم
+Iteration 668: ALIGNED TRUTH : لمكا مث . «فيلستلاو دقنلا ميظنت هيلا دنست» نانبلو ةيروس يف يقيقح يزککرم
+Iteration 668: BEST OCR TEXT : لما مث . » فيلستلاو دقنلا ميظنت هيلا دنست « نانبلو ةيروس يف يقيقح يزكرم
+File data/JSTORArabic-ground-truth/79a1f1be-627f-4412-9371-b418ba4fde10.lstmf line 0 :
+Mean rms=1.877%, delta=5.344%, train=20.525%(34.138%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/d68ce6b1-8a9e-463f-9f34-6068c30b2d84.lstmf
+Iteration 669: GROUND  TRUTH : وكسوم يف ةدحتملا ةيبرعلا ةيروهمجلا ةرافس نع ردص نايب يف ملاس حالص ديسلاً ابتن :
+Iteration 669: ALIGNED TRUTH : وكسوم يف ةدحتملا ةيبرعلا ةيروهمجلا ةرافس نع ردص نايب يف ملاس حالص ديسلاً ابتتن :
+Iteration 669: BEST OCR TEXT : وكسوميف ةدحتملا ةيبرعلا ةيروهجلا ةرافس نع ردص نايبيف ملاس حالص ديسلا ابنت :
+File data/JSTORArabic-ground-truth/c7dff4ee-63b6-404e-becc-1877b4b4c736.lstmf line 0 :
+Mean rms=1.876%, delta=5.341%, train=20.502%(34.157%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/725c0e64-d31a-4b53-9be6-65e075b5dec7.lstmf
+Iteration 670: GROUND  TRUTH : تارايسلاو ،عبس تاومسلاف ةيماسلا بوعشلا عيمج دنع سدقم ددع ةعبسلاو
+Iteration 670: BEST OCR TEXT : تارايسلاو  عبس تاومسلاف ةيماسلا بوعشلا عيمج دنع سدقم ددع ةعبسلاو
+File data/JSTORArabic-ground-truth/f76692d0-a92c-4dc9-9bff-8621635c08a1.lstmf line 0 :
+Mean rms=1.875%, delta=5.333%, train=20.476%(34.121%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/243f74a1-d2b3-4b91-8426-46ae15d45604.lstmf
+Iteration 671: GROUND  TRUTH : . ًاضيا حاونلاو ءاكبلا ديفت لبا ةدام نال ،١١ : ٥٠ نيوكتلا رفس يف صنلا اهرسفي امك
+Iteration 671: ALIGNED TRUTH : . ًاضيا حاونلاو ءاكبلا ديفت لبا ةدام نال ،١١ : ٥٠٠ نيوكتلا رفس يف صنلا اهرسفي امك
+Iteration 671: BEST OCR TEXT : . اضيا حاونلاو ءاكبلا دهفت لبا ةدام نال ١١: ٠ نيوكستلارفبس يف صنلا اهرسقي اك
+File data/JSTORArabic-ground-truth/29087b85-3e03-45ca-88c6-8a0401911b51.lstmf line 0 :
+Mean rms=1.875%, delta=5.331%, train=20.468%(34.149%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/58bbf7a7-afe4-422d-90f5-88642238de32.lstmf
+Iteration 672: GROUND  TRUTH : ماوعا ةسمخ ةيروسلا ةيروهمجلل ًاسيئر يلتوقلا يركش ديسلا ةعيب ديدجتل
+File data/JSTORArabic-ground-truth/4fb12863-baa7-4127-815b-06feda3e2785.lstmf line 0 (Perfect):
+Mean rms=1.873%, delta=5.323%, train=20.438%(34.098%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/2607ddbc-af01-4f83-8839-a0aa8a90fc71.lstmf
+Iteration 673: GROUND  TRUTH : . بشخلا عم ةجوزمملا اهيف امب ةيفدصلا تاعونصملا - ٣
+Iteration 673: BEST OCR TEXT : . بشخلا عم ةجوزمملا اهيف امب ةيفدصلا تاعونصملا - 
+File data/JSTORArabic-ground-truth/62ec746e-0db6-4820-bc7e-84cc0900af81.lstmf line 0 :
+Mean rms=1.871%, delta=5.317%, train=20.41%(34.062%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/fd23376b-0df0-4229-a195-d32eff319cde.lstmf
+Iteration 674: GROUND  TRUTH : نا الا سابع يويدخلا لبق نم ١٨٤٨ يف نسلالا ةسردم تقلغاو . ابوروا
+Iteration 674: BEST OCR TEXT : نا الا سابع يويدحلا لبق نم ١مم يف نسلالا ةسردم تقلغاو .ابوروا
+File data/JSTORArabic-ground-truth/30f5b0e3-a0d0-4055-af04-e02b5dce1233.lstmf line 0 :
+Mean rms=1.871%, delta=5.313%, train=20.399%(34.057%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/3b3e0480-31fe-40a9-aa6f-490a7e4a81a4.lstmf
+Iteration 675: GROUND  TRUTH : . قافتالا يف اهيلا راشملا ةندوسلا ةنجل اهانعمو «ةندوسلا ةنجل»
+Iteration 675: BEST OCR TEXT : . قافتالا يف اهيلا راشملا ةندوسلا ةنجل اهانعمو » ةندوسلا ةنجل «
+File data/JSTORArabic-ground-truth/a86d9204-b1ba-4172-800b-b41a6ef6923b.lstmf line 0 :
+Mean rms=1.87%, delta=5.312%, train=20.374%(34.037%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/ca9b68eb-1b1a-4f15-a83b-767420bb2539.lstmf
+Iteration 676: GROUND  TRUTH : نم دادمتسا هلو هقفلا لوصأ نم ةذوخأم هئدابمو ،ةيليصفتلا اهتلدأ نم طبنتسم اهنإ ثيح
+Iteration 676: BEST OCR TEXT : نم دادمتسا هلو هقفلا لوصأ نم ةذوخام هئدابمو .ةيليصفتلا اهتلدأ نم طبنتسم اهنإ ثيح
+File data/JSTORArabic-ground-truth/dc3345bf-cca2-4a1e-8031-1da07d40bffd.lstmf line 0 :
+Mean rms=1.869%, delta=5.306%, train=20.351%(34.007%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/3a977876-921f-48ff-85e9-3d094032db7c.lstmf
+Iteration 677: GROUND  TRUTH : نا نودبو ? لالقتسالا وا رصم عم ةدحولا : لاؤسلا اذهب يهتني مث ،نادوسلاو رصم طبر دق
+Iteration 677: BEST OCR TEXT : نا نودبو  لالقتسالا وا رصم عم ةدحولا : لاؤسلا اذهب يهتني مث  نادوسلاو رصم طبر دق
+File data/JSTORArabic-ground-truth/d68ce6b1-8a9e-463f-9f34-6068c30b2d84.lstmf line 0 :
+Mean rms=1.868%, delta=5.3%, train=20.326%(33.975%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/42a6e65f-900e-4f3f-a5a4-7794cb7b9a10.lstmf
+Iteration 678: GROUND  TRUTH : . هسفن خيراتلا نم كش نودب وهو عباسلاو سداسلاو
+File data/JSTORArabic-ground-truth/725c0e64-d31a-4b53-9be6-65e075b5dec7.lstmf line 0 (Perfect):
+Mean rms=1.866%, delta=5.293%, train=20.296%(33.925%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/bb8fe88b-a5a5-40e7-ac46-16d5c1b49ef2.lstmf
+Iteration 679: GROUND  TRUTH : ١٣٨ ص شماه يف (١) ةظوحلملا اًضيأ رظنا . ةيلابلا شامقلا عطقل «دیدامش» وأ «طيطامش»
+Iteration 679: ALIGNED TRUTH : ١٣٨ ص شماه يف (١) ةظوحلملا اًضيأ رظنا . ةيلابلا شامقلا عطقل «دییدامش» وأ «طيطامش»
+Iteration 679: BEST OCR TEXT : ١م ص شماه يف )١( ةظوحلملا اضيأ رظنا . ةيلابلا شامقلا عطقل »ديدامش ١ وأ  طيطامش 
+File data/JSTORArabic-ground-truth/243f74a1-d2b3-4b91-8426-46ae15d45604.lstmf line 0 :
+Mean rms=1.867%, delta=5.296%, train=20.29%(33.924%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/23597b95-7746-486c-9aa3-07e1e875ebb4.lstmf
+Iteration 680: GROUND  TRUTH : عومجملا يموهاد رجينلا نادوسلا جاعلا لحاس لاغنسلا
+Iteration 680: BEST OCR TEXT : عومجملا  .يموهاد رجينلا نادوسلا جاعلا لحاس لاغنسلا
+File data/JSTORArabic-ground-truth/58bbf7a7-afe4-422d-90f5-88642238de32.lstmf line 0 :
+Mean rms=1.866%, delta=5.293%, train=20.267%(33.895%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/fc22734f-a4bb-4b28-b0b0-4fa2edd4f3a3.lstmf
+Iteration 681: GROUND  TRUTH : بیجتست » بجتست ٢ س ٢٧ ص
+Iteration 681: ALIGNED TRUTH : بیجتستت »»»»»»»»»  »»»»»»»»»»»»»»»»»»»»»»»»»  بجتست ٢٢٢٢٢٢٢٢٢٢ س ٢٢٧٧ ص
+Iteration 681: BEST OCR TEXT : بيجتس        ١           ابجتست    ١ س ١ ص
+File data/JSTORArabic-ground-truth/2607ddbc-af01-4f83-8839-a0aa8a90fc71.lstmf line 0 :
+Mean rms=1.868%, delta=5.295%, train=20.435%(33.95%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/8d303a3d-d2cb-407b-a3a2-3f210b769dea.lstmf
+Iteration 682: GROUND  TRUTH : تابنلا خيرات - ٢
+Iteration 682: BEST OCR TEXT : تامنلا خيرات - 
+File data/JSTORArabic-ground-truth/fd23376b-0df0-4229-a195-d32eff319cde.lstmf line 0 :
+Mean rms=1.869%, delta=5.297%, train=20.432%(33.973%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/22e4439f-538d-4f51-b740-a4843f934626.lstmf
+Iteration 683: GROUND  TRUTH : . نيفظوملاو نيريدملاو
+Iteration 683: BEST OCR TEXT : . نيفظوملاو نيويدملاو
+File data/JSTORArabic-ground-truth/3b3e0480-31fe-40a9-aa6f-490a7e4a81a4.lstmf line 0 :
+Mean rms=1.868%, delta=5.293%, train=20.416%(33.972%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/11ec4408-9fe9-422f-8b4f-14611237c44b.lstmf
+Iteration 684: GROUND  TRUTH : آ . ةدحولا قيقحت ىلا ةيدؤملا ريبادتلاو مظنلا نمضتملا يونسلا جمانربلا
+Iteration 684: ALIGNED TRUTH : آآآ . ةدحولا قيقحت ىلا ةيدؤملا ريبادتلاو مظنلا نمضتملا يونسلا جمانربلا
+Iteration 684: BEST OCR TEXT : . . ةدحولا قيقحت ىلا ةيدؤملا ريبادتلاو مظنلا نمضتملا يونسلا جمانربلا
+File data/JSTORArabic-ground-truth/ca9b68eb-1b1a-4f15-a83b-767420bb2539.lstmf line 0 :
+Mean rms=1.867%, delta=5.286%, train=20.391%(33.936%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/2df710a6-cde5-4d02-a941-f6760630decc.lstmf
+Iteration 685: GROUND  TRUTH : ودبلا نم ددع درط نأشب ةندهلا ةنجل ىلا ًاجاجتحا ٥٩ - ١٠ - ١٧ يف تمدق دق
+Iteration 685: BEST OCR TEXT : ودبلا نم ددع درط نأشثب ةندهملا ةنجل ىلا اجاجتحا ه-١ ١-١ يف تمدق دق
+File data/JSTORArabic-ground-truth/3a977876-921f-48ff-85e9-3d094032db7c.lstmf line 0 :
+Mean rms=1.867%, delta=5.284%, train=20.386%(33.955%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/125662c2-d72e-456c-bfd9-c3ed5480c270.lstmf
+Iteration 686: GROUND  TRUTH : ٢٩٦
+Iteration 686: ALIGNED TRUTH : ٢٩٩٦٦٦٦
+Iteration 686: BEST OCR TEXT :  
+File data/JSTORArabic-ground-truth/42a6e65f-900e-4f3f-a5a4-7794cb7b9a10.lstmf line 0 :
+Mean rms=1.87%, delta=5.297%, train=20.55%(34.051%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/d0af76fb-19e6-4bb7-bc27-ec3de1c8a9b3.lstmf
+Iteration 687: GROUND  TRUTH : لامعالا ةدعاسمو ةيامح يضتقيف ،ًايبسن ةرخأتم ةجرد ىلع لازي ال يداصتقالا امهمدقت
+Iteration 687: BEST OCR TEXT : لامعالاةدعاسمو ةيامح يضتقيف  ًايبسن ةرخأتم ةجرد ىلع لازي ال يداصتقالا همدقت
+File data/JSTORArabic-ground-truth/bb8fe88b-a5a5-40e7-ac46-16d5c1b49ef2.lstmf line 0 :
+Mean rms=1.869%, delta=5.292%, train=20.526%(34.05%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/1e2004e8-5c6d-42cd-aade-dc2c377d5f02.lstmf
+Iteration 688: GROUND  TRUTH : . ىوقلا كلت هيف كرحتت تناك يذلا ماعلا يعمتجملا راطإلا مهفو نيتهبجلا ىلع ةلعافلا
+File data/JSTORArabic-ground-truth/23597b95-7746-486c-9aa3-07e1e875ebb4.lstmf line 0 (Perfect):
+Mean rms=1.867%, delta=5.284%, train=20.496%(34.001%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/a7680051-2f16-494b-8e24-f4f11e5d4e4c.lstmf
+Iteration 689: GROUND  TRUTH : لمعت ةلقتسم لود ةقالع ،عاطتسملا ردق ىلع ،مظنيل لب ،لودلا نيب ةاواسملا
+Iteration 689: BEST OCR TEXT : لمعت ةلقتسم لود ةقالع  عاطتسملا ردق ىلع »مظنيل لب  لودلا نيب ةاواسملا
+File data/JSTORArabic-ground-truth/fc22734f-a4bb-4b28-b0b0-4fa2edd4f3a3.lstmf line 0 :
+Mean rms=1.866%, delta=5.279%, train=20.479%(33.988%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/ccd8c764-c928-4359-bf0b-6219ae1971bc.lstmf
+Iteration 690: GROUND  TRUTH : - ٧ - ةخوللا
+Iteration 690: BEST OCR TEXT : - ث - ةحوللا
+File data/JSTORArabic-ground-truth/8d303a3d-d2cb-407b-a3a2-3f210b769dea.lstmf line 0 :
+Mean rms=1.868%, delta=5.294%, train=20.498%(34.011%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/b24f6baa-ec67-4aea-a820-7b8dae17c500.lstmf
+Iteration 691: GROUND  TRUTH : ١٩ ةفص - فوصوم هيلإ فاضم - فاضم رورجم  راج فم  اف - ف ١
+Iteration 691: ALIGNED TRUTH : ١١٩٩٩٩٩ ةفص - فوصوم هيلإ فاضم - فاضم رورجم  راج  فم  اف - ف ١
+Iteration 691: BEST OCR TEXT : ١ ةفص- فوصوم  هيلإفاضم - فاضم رورحب -راج  فم-اف -ف ١
+File data/JSTORArabic-ground-truth/22e4439f-538d-4f51-b740-a4843f934626.lstmf line 0 :
+Mean rms=1.869%, delta=5.296%, train=20.497%(34.068%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/4fe712df-8d05-4466-a763-c1ec3bae4d73.lstmf
+Iteration 692: GROUND  TRUTH : . ١٥١ ص قباسلا ردصملا ٥١
+Iteration 692: BEST OCR TEXT : . ١١ ص قباسلا ردصملا ١
+File data/JSTORArabic-ground-truth/11ec4408-9fe9-422f-8b4f-14611237c44b.lstmf line 0 :
+Mean rms=1.869%, delta=5.294%, train=20.48%(34.067%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/da150fd1-2aed-4730-96ac-3c8d13229f37.lstmf
+Iteration 693: GROUND  TRUTH : يه ةأرملاو لعبلا وه لجرلاو . ةأرماو لجر (سانلا ةلك اش ىلع) ةهلآلا جاودزا
+Iteration 693: BEST OCR TEXT : يه ةأرملاو لعبلا وه لجرلاو . ةأرماو لجر ) سانلا ةلكاش ىلع ( ةملا جاودزا
+File data/JSTORArabic-ground-truth/2df710a6-cde5-4d02-a941-f6760630decc.lstmf line 0 :
+Mean rms=1.869%, delta=5.296%, train=20.46%(34.069%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/86242780-40e1-402b-aabf-568c3e8d43f0.lstmf
+Iteration 694: GROUND  TRUTH : . سلجملا يف نيرضاحلاو
+Iteration 694: BEST OCR TEXT : . سلجملا يف نيرضامحلاو
+File data/JSTORArabic-ground-truth/125662c2-d72e-456c-bfd9-c3ed5480c270.lstmf line 0 (Perfect):
+Mean rms=1.868%, delta=5.289%, train=20.437%(34.056%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/5e7c04a9-c860-46dc-a5b9-d29b482d87eb.lstmf
+Iteration 695: GROUND  TRUTH : . ص ٩٦ . ١٩٣٠ ،ةيناكريمالا ةعبطملا ،توريب . ىلوالا ةعبطلا . ىمظعلا
+Iteration 695: ALIGNED TRUTH : . ص ٩٦ . ١٩٩٣٣٠٠ ،ةيناكريمالا ةعبطملا ،،توريب . ىلوالا ةعبطلا . ىمظعلا
+Iteration 695: BEST OCR TEXT : . ص ١ . ١ ٠٠  ةيناكريمالا ةعبطملا  توربب . ىلوالا ةعيطلا . ىمظعلا
+File data/JSTORArabic-ground-truth/d0af76fb-19e6-4bb7-bc27-ec3de1c8a9b3.lstmf line 0 :
+Mean rms=1.868%, delta=5.289%, train=20.432%(34.063%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/c09f178e-e823-4dca-b32b-7c0e6ae5b4f8.lstmf
+Iteration 696: GROUND  TRUTH : ٤٣٨
+Iteration 696: ALIGNED TRUTH : ٤٤٤٣٣٣٨
+Iteration 696: BEST OCR TEXT :  ا
+File data/JSTORArabic-ground-truth/1e2004e8-5c6d-42cd-aade-dc2c377d5f02.lstmf line 0 :
+Mean rms=1.871%, delta=5.3%, train=20.642%(34.157%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/3e273147-994a-4553-9b64-fc70a91e0481.lstmf
+Iteration 697: GROUND  TRUTH : . يزؤف ،دميحلا دبع
+Iteration 697: BEST OCR TEXT : . يزوف  ديمحلا دبع
+File data/JSTORArabic-ground-truth/a7680051-2f16-494b-8e24-f4f11e5d4e4c.lstmf line 0 :
+Mean rms=1.873%, delta=5.315%, train=20.644%(34.18%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/bc373eba-9311-4459-95e0-48e458b065ad.lstmf
+Iteration 698: GROUND  TRUTH : لوح فيلكدر ود دروفتارتس تنوکيفلا ىلا بتک ١٨٤٥ ةنس يفف . ربكا
+Iteration 698: BEST OCR TEXT : لوح فيلكدر ود دروفتارتس تنوكيفلا ىلا بتك ١/ ةنس يفف . ربكا
+File data/JSTORArabic-ground-truth/ccd8c764-c928-4359-bf0b-6219ae1971bc.lstmf line 0 :
+Mean rms=1.873%, delta=5.315%, train=20.634%(34.167%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/d172b0f8-d45e-4fb8-ab17-eca4f5cc5b3f.lstmf
+Iteration 699: GROUND  TRUTH : . ص ١٢٨ . ١٩٥٩ ،ةفاحصلا راد ،توريب . رئازجلا ةيضقو يسنرفلا يعويشلا بزحلا
+Iteration 699: ALIGNED TRUTH : . ص ١٢٢٨ . ١٩٩٥٥٩ ،ةفاحصلا راد ،توريب . رئازجلا ةيضقو يسنرفلا يعويشلا بزحلا
+Iteration 699: BEST OCR TEXT : .ص ١١ . ١    ةفاحصلا راد » توريب . رئازجلا ةيضقو يسنرفلا يعويشلا بزحلا
+File data/JSTORArabic-ground-truth/b24f6baa-ec67-4aea-a820-7b8dae17c500.lstmf line 0 :
+Mean rms=1.874%, delta=5.314%, train=20.628%(34.179%), skip ratio=0%
+At iteration 638/700/700, Mean rms=1.874%, delta=5.314%, char train=20.628%, word train=34.179%, skip ratio=0%,  New worst char error = 20.628 wrote checkpoint.
+
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/1c305aa2-4003-43a4-9244-e6e1a5049148.lstmf
+Iteration 700: GROUND  TRUTH : . دمحم نب كلملا دبع روصنم وبا ،يبلاعثلا
+Iteration 700: ALIGNED TRUTH : . دمحم نب كلملا دبع روصنم وبا ،،يبلاعثلا
+Iteration 700: BEST OCR TEXT : ٠ دمحم نب كلملا دبع روصنم وبا  يبلاعتلا
+File data/JSTORArabic-ground-truth/4fe712df-8d05-4466-a763-c1ec3bae4d73.lstmf line 0 :
+Mean rms=1.873%, delta=5.311%, train=20.62%(34.166%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/b6506f63-da04-48b4-850f-5469624ede2c.lstmf
+Iteration 701: GROUND  TRUTH : . تعقو : ر يف ١٣٥
+Iteration 701: ALIGNED TRUTH : . تعقو : ر يف ١٣٣٥
+Iteration 701: BEST OCR TEXT : . تعقو : ر يف ١
+File data/JSTORArabic-ground-truth/da150fd1-2aed-4730-96ac-3c8d13229f37.lstmf line 0 :
+Mean rms=1.873%, delta=5.31%, train=20.608%(34.141%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/52139c0d-9a12-43ec-b398-e64ca3ceccc6.lstmf
+Iteration 702: GROUND  TRUTH : ىف ةيلودلا تارابتخالا اهعضو يف رابتعالا نيعب ذخا ذا لودلا نيب ةنراقملا
+Iteration 702: BEST OCR TEXT : يف ةيلودلا تارابتخالا اهعضو ىف رابتعالا نيعب ذخا ذا لودلا نيب ةنراقملا
+File data/JSTORArabic-ground-truth/86242780-40e1-402b-aabf-568c3e8d43f0.lstmf line 0 :
+Mean rms=1.872%, delta=5.305%, train=20.579%(34.093%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/b668e3a9-3b97-4676-b710-5cedb79da9be.lstmf
+Iteration 703: GROUND  TRUTH : رظنيس اهيلا ةيبرح داومو ةحلسا ديروتل دالبلا هذه نم ةمدقملا تابلطلا عيمجو
+Iteration 703: BEST OCR TEXT : رظنيس اهيلا ةيبرح داومو ةحاسا ديروتل دالبلا هذه نم ةمدقملا تابلطلا عيمجر
+File data/JSTORArabic-ground-truth/5e7c04a9-c860-46dc-a5b9-d29b482d87eb.lstmf line 0 :
+Mean rms=1.871%, delta=5.299%, train=20.557%(34.068%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/aa0e82ce-f253-4287-8554-83025df65eda.lstmf
+Iteration 704: GROUND  TRUTH : : هلوقب هترضاحم نم ريخالا
+Iteration 704: BEST OCR TEXT : : هلوقي هترضاع نم ريخالا
+File data/JSTORArabic-ground-truth/c09f178e-e823-4dca-b32b-7c0e6ae5b4f8.lstmf line 0 :
+Mean rms=1.871%, delta=5.301%, train=20.556%(34.076%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/004f5f09-da7e-4d6a-8cb3-96432c995792.lstmf
+Iteration 705: GROUND  TRUTH : سوفن . ةدارالا قدصو مزعلا ةحص هبحصي ال ةينلا نسحو ،قيمعلا راحلا ناميالا
+Iteration 705: ALIGNED TRUTH : سوفن . ةدارالا قدصو مزعلا ةحص هبحصي ال ةينلا نسحو ،ققيمعلا راحلا ناميالا
+Iteration 705: BEST OCR TEXT : سوفن .ةدارالا قدصو مزعلا ةحص هبحصي ال ةينلا نسحو يتيمعلا راحلا ناميالا
+File data/JSTORArabic-ground-truth/3e273147-994a-4553-9b64-fc70a91e0481.lstmf line 0 :
+Mean rms=1.87%, delta=5.297%, train=20.537%(34.061%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/eb008408-2583-4be4-8e9e-2e42682ea601.lstmf
+Iteration 706: GROUND  TRUTH : انلامعأ فقس اي
+File data/JSTORArabic-ground-truth/bc373eba-9311-4459-95e0-48e458b065ad.lstmf line 0 (Perfect):
+Mean rms=1.869%, delta=5.289%, train=20.508%(34.012%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/5aee71da-eecc-43c4-a932-9b2e675ef754.lstmf
+Iteration 707: GROUND  TRUTH : فلتخيو . دمعتلا نم ائيش كلذ يف لعلو ،لاكشالا ىلا ةيخيراتلا ةساردلا
+Iteration 707: BEST OCR TEXT : فلتخيو . دمعتلا نم ائيش كلذ يف لعلو لاكشالا ىلا ةمخيراتلا ةساردلا
+File data/JSTORArabic-ground-truth/d172b0f8-d45e-4fb8-ab17-eca4f5cc5b3f.lstmf line 0 :
+Mean rms=1.868%, delta=5.283%, train=20.486%(33.988%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/2e2aad83-be44-48ad-88f8-e0f0c8589689.lstmf
+Iteration 708: GROUND  TRUTH : باونلا قيفصت الع دقو تاوصالا عامجاب يلتوقلا ديسلا زاف دقو یرخا
+Iteration 708: BEST OCR TEXT : باونلا قيفصت الع دقو تاوحالا عاجاب يلتوقلا ديسلا زاف دقو ىرخا
+File data/JSTORArabic-ground-truth/1c305aa2-4003-43a4-9244-e6e1a5049148.lstmf line 0 :
+Mean rms=1.867%, delta=5.279%, train=20.468%(33.978%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/7ccae2fb-3561-44dd-818b-ba26490ccab7.lstmf
+Iteration 709: GROUND  TRUTH : . فيرلا يف ةحصلا حالصا ىلا لوؤت يتلا لامعالا يف تاينواعتلا عيمج كارشا ىلا ةجاحب نحن ام
+Iteration 709: ALIGNED TRUTH : . فيرلا يف ةحصلا حالصا ىلا لوؤت يتلا لامعالايف تاينواعتلا عيمج كارشا ىلا ةجاحب نحن ام
+Iteration 709: BEST OCR TEXT : . فيرلايف ةحصلا حالصا ىلإ لوؤتيقتلا لاعالايف تاينواعتلاعيجكارشاملا ةجاحب نحت ام
+File data/JSTORArabic-ground-truth/b6506f63-da04-48b4-850f-5469624ede2c.lstmf line 0 :
+Mean rms=1.867%, delta=5.278%, train=20.461%(34.03%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/40473537-691c-4f39-89b8-3b96867f2999.lstmf
+Iteration 710: GROUND  TRUTH : . قلطم دايجو ةناماو قدصب مهتمهمب اوموقي ناب نيميلا حلصلا يضاق ماما
+Iteration 710: BEST OCR TEXT : . قاطم دايجو ةناماو قدصي مهتسهمب اوموقي ناب نيمولا حلصلا يضاق ملعلا
+File data/JSTORArabic-ground-truth/52139c0d-9a12-43ec-b398-e64ca3ceccc6.lstmf line 0 :
+Mean rms=1.867%, delta=5.279%, train=20.447%(34.041%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/41d9dfb8-b393-40ac-a3a7-4ed7ba9e08c4.lstmf
+Iteration 711: GROUND  TRUTH : يقينيف دبعم ساسا ىلع ينبم ريد (برلاو دیسلا تیب) يرم تيب نم برقلابو
+Iteration 711: BEST OCR TEXT : يقينيف دبعم ساسا ىلع ينبم ريد  برلاو ديسلا تيب ( يرم تيب نم برقلابو
+File data/JSTORArabic-ground-truth/b668e3a9-3b97-4676-b710-5cedb79da9be.lstmf line 0 :
+Mean rms=1.868%, delta=5.282%, train=20.433%(34.025%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/15fd872a-d4ad-4d91-9f44-ba595bbc8f56.lstmf
+Iteration 712: GROUND  TRUTH : نم مهب لصتي نم وا ءارمالاو كولملا فنك يف شيعي ًامومع ميدقلا بدالا ناك
+Iteration 712: BEST OCR TEXT : نم مه لصتي نم وا ءارصالاو كولملا فنك يف شيعي ًامومع ميدقلا بدالا ناك
+File data/JSTORArabic-ground-truth/aa0e82ce-f253-4287-8554-83025df65eda.lstmf line 0 :
+Mean rms=1.867%, delta=5.275%, train=20.41%(33.998%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/9fa9c73d-ce69-4adf-8587-706797045522.lstmf
+Iteration 713: GROUND  TRUTH : . ١٨ : ماعنألا ةروس ٣
+Iteration 713: BEST OCR TEXT : . ١/ :ماعنألا ةروس 
+File data/JSTORArabic-ground-truth/004f5f09-da7e-4d6a-8cb3-96432c995792.lstmf line 0 :
+Mean rms=1.867%, delta=5.278%, train=20.408%(34.043%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/06b3b0d2-d215-4856-a027-b3fb275edc3d.lstmf
+Iteration 714: GROUND  TRUTH : ةروصملا فئاطللا
+File data/JSTORArabic-ground-truth/eb008408-2583-4be4-8e9e-2e42682ea601.lstmf line 0 (Perfect):
+Mean rms=1.866%, delta=5.271%, train=20.38%(33.996%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/09c9f918-989c-4340-b609-d8a26afd3486.lstmf
+Iteration 715: GROUND  TRUTH : لوصحملا دفنتسي ناک نانبلو ايروس يف ةمسن نييالم ةعبرال يلحملا كالهتسالاف . ةنسلاب
+Iteration 715: BEST OCR TEXT : لوججملا دفنتسي ناك نانبلو ايروس يف ةمسن نييالم ةعبرال ىلحملا كالهتسالاف . ةنسلا
+File data/JSTORArabic-ground-truth/5aee71da-eecc-43c4-a932-9b2e675ef754.lstmf line 0 :
+Mean rms=1.865%, delta=5.269%, train=20.367%(33.991%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/fd25a3b9-a5f8-414f-95a5-b87ce7c57fe1.lstmf
+Iteration 716: GROUND  TRUTH : ٣/٢٥ نينثالا «
+Iteration 716: ALIGNED TRUTH : ٣/٢٢٢٢٥ نينثالا ««
+Iteration 716: BEST OCR TEXT : ١١ نينثالا   
+File data/JSTORArabic-ground-truth/2e2aad83-be44-48ad-88f8-e0f0c8589689.lstmf line 0 :
+Mean rms=1.867%, delta=5.278%, train=20.428%(34.037%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/e66a9515-ac0f-4500-82cc-4f37d9e7ae46.lstmf
+Iteration 717: GROUND  TRUTH : ص ١٢٢ . ١٩٦٢ ،يناعلا ،دادغب . بالا ،يثراكم فسوي درشتر .
+Iteration 717: ALIGNED TRUTH : ص ١٢٢٢ . ١٩٩٦٦٢ ،يناعلا ،دادغب . بالا ،يثراكم فسوي درشتر .
+Iteration 717: BEST OCR TEXT : . ص ١  . ١  يناعلا »دادغب . بالا  يثراكم فسوي درشتر
+File data/JSTORArabic-ground-truth/7ccae2fb-3561-44dd-818b-ba26490ccab7.lstmf line 0 :
+Mean rms=1.868%, delta=5.288%, train=20.43%(34.048%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/1a83ac14-7910-479e-be98-5d7a041de214.lstmf
+Iteration 718: GROUND  TRUTH : تهجتا نا برغلا عم ةراجتلا قاطن عاستاو يبرعلا قرشلا يف ةيفاقثلا ةضهنلا
+Iteration 718: BEST OCR TEXT : تهجنا نا برغلا عم ةراجتلا قاطن عاسناو يبرعلا قرشلا يف ةيفاقثلا ةضهنلا
+File data/JSTORArabic-ground-truth/40473537-691c-4f39-89b8-3b96867f2999.lstmf line 0 :
+Mean rms=1.868%, delta=5.283%, train=20.41%(34.023%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/33fc258e-4f9b-43fc-a90f-bd2a9274eac3.lstmf
+Iteration 719: GROUND  TRUTH : نم ًائيش اهيلون نا انل نآ ةريطخ ةيوبرت ةلكشم كلانه ناب روعشلا انرطاشي
+Iteration 719: BEST OCR TEXT : نم ائيش اهيلون نا انل نآ ةريطخ ةيوبرت ةلكشم كلانه ناب روعشلا انرطاشي
+File data/JSTORArabic-ground-truth/41d9dfb8-b393-40ac-a3a7-4ed7ba9e08c4.lstmf line 0 :
+Mean rms=1.866%, delta=5.276%, train=20.384%(33.987%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/c60c1fcd-9887-46c3-bbbd-c480023b0de6.lstmf
+Iteration 720: GROUND  TRUTH : رخآ بيترتب ذخا هنا ول دون انكو . ةيميت نبا رصع يف فوصتلا مث اهلداج يتلا
+Iteration 720: BEST OCR TEXT : رخآ بيترتب ذخا هنا ول دون انك و . ةيميق نبا رصع يف فوصتلا مت اهلداج يتلا
+File data/JSTORArabic-ground-truth/15fd872a-d4ad-4d91-9f44-ba595bbc8f56.lstmf line 0 :
+Mean rms=1.866%, delta=5.273%, train=20.361%(33.966%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/aa094508-92b9-4d94-ab05-d61edd73174d.lstmf
+Iteration 721: GROUND  TRUTH : ًاضيا مدقاسو ،انه هميدقت ديعأس يذلا حارتقالا تمدق نا يل قبس دقو . ةددعتم
+Iteration 721: BEST OCR TEXT : ًاضيا مدقاسو )انه هميدقت ديعأس يذلا حارتقالا تمدق نا يل قبس دقو . ةددعتم
+File data/JSTORArabic-ground-truth/9fa9c73d-ce69-4adf-8587-706797045522.lstmf line 0 :
+Mean rms=1.864%, delta=5.267%, train=20.337%(33.928%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/09b8a0ef-685a-48a4-945e-944c0cce76bb.lstmf
+Iteration 722: GROUND  TRUTH : : اذكه ثلاثلاو يناثلا عضوي امبرو
+File data/JSTORArabic-ground-truth/06b3b0d2-d215-4856-a027-b3fb275edc3d.lstmf line 0 (Perfect):
+Mean rms=1.862%, delta=5.259%, train=20.309%(33.882%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/4ff12f5c-9b6f-4864-bc03-1ceb28399454.lstmf
+Iteration 723: GROUND  TRUTH : ١٩٥٥ ناريزح ٣ طسوالاو ىندالا نيقرشلل
+Iteration 723: ALIGNED TRUTH : ١١٩٥٥ ناريزح ٣   طسوالاو ىندالا نيقرشلل
+Iteration 723: BEST OCR TEXT : م تارزح «   طسوالاو ىندالا نيقرشلل
+File data/JSTORArabic-ground-truth/09c9f918-989c-4340-b609-d8a26afd3486.lstmf line 0 :
+Mean rms=1.863%, delta=5.258%, train=20.327%(33.904%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/3fe126b3-b828-4e22-b3b8-a52aba55b55c.lstmf
+Iteration 724: GROUND  TRUTH : . ايكرت عم حرتقملا يعافدلا قاثيملا
+File data/JSTORArabic-ground-truth/fd25a3b9-a5f8-414f-95a5-b87ce7c57fe1.lstmf line 0 (Perfect):
+Mean rms=1.862%, delta=5.251%, train=20.299%(33.857%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/cf8c1dac-60bb-4a97-a2f2-c7a14066e6ec.lstmf
+Iteration 725: GROUND  TRUTH : . ص ٢٤٩ . ١٩٥١ ،ةيبرعلا ةضهنلا راد ،ةرهاقلا . ةعبارلا ةعبطلا . كونبلا ةبساحم
+Iteration 725: ALIGNED TRUTH : . ص ٢٢٤٩ . ١٩٩٩٩٥١ ،ةيبرعلا ةضهنلا راد ،،ةرهاقلا . ةعبارلا ةعبطلا . كونبلا ةبساحم
+Iteration 725: BEST OCR TEXT : .ص ١ . ١  ١ ةبرعلا ةضهنلا راد . ةرهاقلا . ةعبارلا ةعبطلا . كونبلا ةبساحم
+File data/JSTORArabic-ground-truth/e66a9515-ac0f-4500-82cc-4f37d9e7ae46.lstmf line 0 :
+Mean rms=1.862%, delta=5.25%, train=20.293%(33.856%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/9d89de03-7376-40cc-af78-664e123e0c6f.lstmf
+Iteration 726: GROUND  TRUTH : رمدت م - م ١٢٢٥ ةيركسعلا ةربقملا
+Iteration 726: BEST OCR TEXT : رمدت م - م ١ ةيركسعلا ةربقملا
+File data/JSTORArabic-ground-truth/1a83ac14-7910-479e-be98-5d7a041de214.lstmf line 0 :
+Mean rms=1.862%, delta=5.246%, train=20.278%(33.829%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/c2e41a00-4020-444e-9b7b-659c4c057568.lstmf
+Iteration 727: GROUND  TRUTH : ينعت يه امنا . بعشلا مكح يا ،ًايطارقوميدً امحك مكحلا يف ىروشلا تسيل
+Iteration 727: ALIGNED TRUTH : ينعت يه امنا . بعشلا مكح يا ،ًايطارقوميدً ًامحك مكحلا يف ىروشلا تسيل
+Iteration 727: BEST OCR TEXT : ينعت يه امنا . بعشلا كح يا ًايطارقوميد ًامكح كحلا يف ىروشلا تييل
+File data/JSTORArabic-ground-truth/33fc258e-4f9b-43fc-a90f-bd2a9274eac3.lstmf line 0 :
+Mean rms=1.862%, delta=5.247%, train=20.26%(33.836%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/f6310c96-be9f-4f1d-b5fb-affc34157aa8.lstmf
+Iteration 728: GROUND  TRUTH : نعو اهنع نوعفادي ةعيرشلا ىلع اسارح مهلمع مكحب ضعبلا ناك امنيبو . ةعيرشلاب
+Iteration 728: BEST OCR TEXT : نعو اهنع نوعفادي ةعيرشلا ىلع اسارح مهلمع مكحب ضعبلا ناك انيبو . ةعيرشلاب
+File data/JSTORArabic-ground-truth/c60c1fcd-9887-46c3-bbbd-c480023b0de6.lstmf line 0 :
+Mean rms=1.861%, delta=5.241%, train=20.234%(33.8%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/871d16e4-5d09-46d8-8cd3-996302c722d4.lstmf
+Iteration 729: GROUND  TRUTH : . يلوتم ريدب ،ديمح
+Iteration 729: ALIGNED TRUTH : . يلوتم ريدب ،،ديمح
+Iteration 729: BEST OCR TEXT : ٠ يلونم ريدب  ديمح
+File data/JSTORArabic-ground-truth/aa094508-92b9-4d94-ab05-d61edd73174d.lstmf line 0 :
+Mean rms=1.862%, delta=5.247%, train=20.252%(33.856%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/cfb706f8-b049-4760-a837-a10a05df5627.lstmf
+Iteration 730: GROUND  TRUTH : ينويع نويعلاو يعمد عمدلا قرشت عومدلاب ينيعل امو
+File data/JSTORArabic-ground-truth/09b8a0ef-685a-48a4-945e-944c0cce76bb.lstmf line 0 :
+Mean rms=1.861%, delta=5.241%, train=20.224%(33.81%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/736fb5d3-8c9f-4201-abb3-aa1a80389000.lstmf
+Iteration 731: GROUND  TRUTH : ٢٦٢
+Iteration 731: ALIGNED TRUTH : ٢٦٦٦٢٢٢
+Iteration 731: BEST OCR TEXT :  
+File data/JSTORArabic-ground-truth/4ff12f5c-9b6f-4864-bc03-1ceb28399454.lstmf line 0 :
+Mean rms=1.864%, delta=5.252%, train=20.379%(33.9%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/f7e4884a-4b01-4780-8dd4-efda0a1555c9.lstmf
+Iteration 732: GROUND  TRUTH : (١) : يلي ام يتايفوسلا داحتالا يف نيريهشلا داصتقالا ءاملع دحا
+Iteration 732: BEST OCR TEXT : '١١ :يلي ام يتايفوسلا داحتالا يف نيريهشلا داصتقالا ءاملع دحا
+File data/JSTORArabic-ground-truth/3fe126b3-b828-4e22-b3b8-a52aba55b55c.lstmf line 0 :
+Mean rms=1.863%, delta=5.248%, train=20.362%(33.891%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/b6a2870b-dde1-44e2-8507-2baf95ccd69f.lstmf
+Iteration 733: GROUND  TRUTH : ركف باحصا ونوكي مل مهسفنا كارتالا نال كلذ . يبرعلا ركفلا يف رثا يا اوثدحی
+Iteration 733: BEST OCR TEXT : ركف باحصا ونوكيمل مهسفنا كارتالا نال كلذ . يبرعلا ركشفلا يف رثا يا اوثدجي
+File data/JSTORArabic-ground-truth/cf8c1dac-60bb-4a97-a2f2-c7a14066e6ec.lstmf line 0 :
+Mean rms=1.863%, delta=5.245%, train=20.346%(33.882%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/9b78743c-d3f8-41cf-94e0-6c20e610d88c.lstmf
+Iteration 734: GROUND  TRUTH : ةكرحتم روصو ليخبلا لصف اهولتي
+File data/JSTORArabic-ground-truth/9d89de03-7376-40cc-af78-664e123e0c6f.lstmf line 0 (Perfect):
+Mean rms=1.86%, delta=5.238%, train=20.318%(33.835%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/d5e9889c-ac6d-4d4f-b7cc-a599f585b1e6.lstmf
+Iteration 735: GROUND  TRUTH : : لوقتف ،ةميدقلا ةدابعلا هذه نع ةماع ةرکف
+Iteration 735: BEST OCR TEXT : : لوقتف ةيدقلا ةداسعلا هذه نع ةماع ةركشف
+File data/JSTORArabic-ground-truth/c2e41a00-4020-444e-9b7b-659c4c057568.lstmf line 0 :
+Mean rms=1.861%, delta=5.238%, train=20.314%(33.84%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/2e9162f6-d0e5-4011-ac6e-5d54bfc3058e.lstmf
+Iteration 736: GROUND  TRUTH : غلابم نم لمحتلل دلبلا داصتقا ةيلباق ريدقت ميمصتلا اذه لثم صئاصخ نمو
+File data/JSTORArabic-ground-truth/f6310c96-be9f-4f1d-b5fb-affc34157aa8.lstmf line 0 (Perfect):
+Mean rms=1.859%, delta=5.231%, train=20.286%(33.795%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/1781c27f-c831-4d0b-91ae-e1cf69974788.lstmf
+Iteration 737: GROUND  TRUTH : دعب كرتشملا غالبلا ةينانبللاو ةيروسلا ناتموكحلا تردصأ ٤٨ - ٤ - ٣
+Iteration 737: BEST OCR TEXT : دعب كرتشملا غالبلا ةينانبللاو ةيروسلا ناتموكحلا تردصا )م - ح -#
+File data/JSTORArabic-ground-truth/871d16e4-5d09-46d8-8cd3-996302c722d4.lstmf line 0 :
+Mean rms=1.858%, delta=5.229%, train=20.282%(33.805%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/d1644c03-e008-4e89-8617-b58ba8b41f97.lstmf
+Iteration 738: GROUND  TRUTH : ال بتكلا هذه ىلع بالطلا بصني نا بجي نكلو ةريبكلا بتكلل ريبك مامتها
+Iteration 738: BEST OCR TEXT : ال بتكلا هذه ىلع بالطلا بصني نا بجي نكاو ةريبكلا بتكلل ريبك ماتها
+File data/JSTORArabic-ground-truth/cfb706f8-b049-4760-a837-a10a05df5627.lstmf line 0 :
+Mean rms=1.857%, delta=5.224%, train=20.26%(33.78%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/9aed44f8-a967-4ee2-944a-a8d55ea331e4.lstmf
+Iteration 739: GROUND  TRUTH : نيسسؤملا دلخ يف ردي ملو اذه . ءاضعالا بوعشلا عيمج ًايباجيا ًانواعت اهعم نواعتت مل نا
+Iteration 739: BEST OCR TEXT : نيسسؤملا دلخ يف ردي ملو اذه . ءاضعالا بوعشلاعيمج ًايباجلا ًانواعت اهعم نواعتت مل نا
+File data/JSTORArabic-ground-truth/736fb5d3-8c9f-4201-abb3-aa1a80389000.lstmf line 0 :
+Mean rms=1.856%, delta=5.219%, train=20.238%(33.76%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/d0775307-13d6-436f-9fd1-a0aafa60e8a4.lstmf
+Iteration 740: GROUND  TRUTH : قلخت يتلا يه «ةدارالا» نا ما ،اهتاذب ةمئاق ةقلطم ميق كلانه له ،رخآ ىنعمبو
+Iteration 740: ALIGNED TRUTH : قلخت يتلا يه «ةدارالا» نا ما ،اهتاذب ةئاق ةقلطم ميق كلانه له ،رخآ ىنعمبو
+Iteration 740: BEST OCR TEXT : قلخت ينلا يه » ةدارالا « نا ما اهتاذب ئاق ةقلطم ميق كلانه له  رخآ ىنعميو
+File data/JSTORArabic-ground-truth/f7e4884a-4b01-4780-8dd4-efda0a1555c9.lstmf line 0 :
+Mean rms=1.857%, delta=5.22%, train=20.231%(33.772%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/98cf18ac-6e72-4277-b87b-d1ab22ff1596.lstmf
+Iteration 741: GROUND  TRUTH : ? يدجلا انریکفت
+Iteration 741: ALIGNED TRUTH : ? يدجلا انرییکفت
+Iteration 741: BEST OCR TEXT : 7 يدجلا انريكفت
+File data/JSTORArabic-ground-truth/b6a2870b-dde1-44e2-8507-2baf95ccd69f.lstmf line 0 :
+Mean rms=1.859%, delta=5.231%, train=20.258%(33.817%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/f0f20f2c-e9e4-4d46-9c32-bd2c252112dc.lstmf
+Iteration 742: GROUND  TRUTH : ةيخيراتلا عئاقولا درسي مث . ةيلهاجلا لهاو نانويلاو نادلكلاو دوهيلاو ةعيشلاو
+File data/JSTORArabic-ground-truth/9b78743c-d3f8-41cf-94e0-6c20e610d88c.lstmf line 0 (Perfect):
+Mean rms=1.857%, delta=5.224%, train=20.23%(33.771%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/dc789633-5dcd-490b-81a5-44c8f8351c31.lstmf
+Iteration 743: GROUND  TRUTH : سماخلا نيدقعلا يف ًاصوصخ ،ةيسيرفالا نادلبلا يف ددجلا ءامعزلا نال كلذو
+Iteration 743: BEST OCR TEXT : سماخلا نيدقعلا يف اصوصخ ) ةيسيرفالا نادلبلا يف ددجلا ءامعزلا نال كلذو
+File data/JSTORArabic-ground-truth/d5e9889c-ac6d-4d4f-b7cc-a599f585b1e6.lstmf line 0 :
+Mean rms=1.855%, delta=5.217%, train=20.211%(33.75%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/a686cafb-96cf-414d-b983-7941f4eb7709.lstmf
+Iteration 744: GROUND  TRUTH : ةفرشم رثآم هلو ؛ همسا خيراتلا لجس يروشأ كلم لوا (١) (سونين) نا
+Iteration 744: BEST OCR TEXT : ةفرسم رثام هلو  همسا خيراتلا لجس يروشأ كلم لوا '١ ) سونين ( نا
+File data/JSTORArabic-ground-truth/2e9162f6-d0e5-4011-ac6e-5d54bfc3058e.lstmf line 0 :
+Mean rms=1.856%, delta=5.218%, train=20.205%(33.756%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/e3c8fcd6-3057-4cfc-9df2-2cc66bb77332.lstmf
+Iteration 745: GROUND  TRUTH : يلاتلابو ةيمهألا ديازتم ًاورد ةماعلا تارادإلا هيف بعلت ثيدحلا عمتجملاو . اهيفظومب رمتسم لاصتا
+Iteration 745: ALIGNED TRUTH : يلاتلابو ةيمهألا ديازتم ًاورود ةماعلا تارادإلا هيف بعلت ثيدحلا عمتجملاو . اهيفظومب رمتسم لاصتا
+Iteration 745: BEST OCR TEXT : يلاتلابو ةيمهألا ديازتم ارود ةماعلا تارادإلا هيف بعلت ثيدحلا عمتجملاو . اهيفظومب رمتسم لاصتا
+File data/JSTORArabic-ground-truth/1781c27f-c831-4d0b-91ae-e1cf69974788.lstmf line 0 :
+Mean rms=1.855%, delta=5.213%, train=20.18%(33.721%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/9524e0b7-4713-45b3-a2e1-855908c15098.lstmf
+Iteration 746: GROUND  TRUTH : مارغ وليك يتئمب هردقن نانبلو ايروس يف درفلا ةيعوطقم نا . نانبل ةجاح رادقمب
+Iteration 746: BEST OCR TEXT : مارغ وليك يتثمب هردقن نانبلو ايروس يف درفلا ةيعوطقم نا . نانبل ةجاح رادقي
+File data/JSTORArabic-ground-truth/d1644c03-e008-4e89-8617-b58ba8b41f97.lstmf line 0 :
+Mean rms=1.854%, delta=5.208%, train=20.162%(33.695%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/aba5c9d0-2e4d-4c45-b731-594151276380.lstmf
+Iteration 747: GROUND  TRUTH : داحتالا ءاسؤر نيب زومت ٢٢ يف دقعي باطقا رمتؤم ىلا وعدي فوشورخ قيفرلا ٥٨ - ٧ - ١٩
+Iteration 747: BEST OCR TEXT : داحتالا ءاسؤر نيب زوت  يف دقعي باطقا رمتؤم ىلا وعدي فوشورخ قيفرلا م -  - ١
+File data/JSTORArabic-ground-truth/9aed44f8-a967-4ee2-944a-a8d55ea331e4.lstmf line 0 :
+Mean rms=1.853%, delta=5.205%, train=20.145%(33.687%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/782b3502-16a2-44da-99ee-a23b12efe345.lstmf
+Iteration 748: GROUND  TRUTH : . يفنحلا لالج ،يدادغبلا
+Iteration 748: BEST OCR TEXT : ٠ يفنحلا لالج  يدادغبلا
+File data/JSTORArabic-ground-truth/d0775307-13d6-436f-9fd1-a0aafa60e8a4.lstmf line 0 :
+Mean rms=1.854%, delta=5.207%, train=20.141%(33.709%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/130f005e-0b28-4997-8d88-7eefd67b93aa.lstmf
+Iteration 749: GROUND  TRUTH : ماعلا مكاحلل نوناقلا عورشم ضرع زوجي ةيناثلا داقعنالا ةرود يف باونلا سلجم هيف
+Iteration 749: BEST OCR TEXT : ماعلا مكاحلا نوناقلا عورشم ضرع زوجي ةيناثلا داقعنالا ةرود يف باونلا سلجم هي
+File data/JSTORArabic-ground-truth/98cf18ac-6e72-4277-b87b-d1ab22ff1596.lstmf line 0 :
+Mean rms=1.852%, delta=5.202%, train=20.12%(33.684%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/0d18afc6-58f9-4abb-85da-323613467910.lstmf
+Iteration 750: GROUND  TRUTH : ضرفي ام امأ . هاركا وا ربج ريغ نم نوديري يذلا ماظنلا رايتخا برعلا ىلع ركنا نل
+Iteration 750: BEST OCR TEXT : ضرفي ام امأ.ءارك ا وا ربج ريغنم نوديرييذلاماظنلا رايتخابرعلا ىلع ركنا نل
+File data/JSTORArabic-ground-truth/f0f20f2c-e9e4-4d46-9c32-bd2c252112dc.lstmf line 0 :
+Mean rms=1.852%, delta=5.199%, train=20.105%(33.718%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/e85b9370-b8d0-48e1-ac0d-c913fff47394.lstmf
+Iteration 751: GROUND  TRUTH : همصخ لمح ملعلا ىلع اهلمح نمف ،مكعم وهو : لاق ،هدابع قوف : لاق امك هنإ مث . نالف
+Iteration 751: BEST OCR TEXT : همصخ لمح ملعلا ىلع اهلمح نمف .مكعم وهو :لاق .هدابع قوف :لاق امك هنإ مث .نالف
+File data/JSTORArabic-ground-truth/dc789633-5dcd-490b-81a5-44c8f8351c31.lstmf line 0 :
+Mean rms=1.851%, delta=5.196%, train=20.09%(33.729%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/e5da09ed-e909-4871-bef5-1680877c3093.lstmf
+Iteration 752: GROUND  TRUTH : ! ردقلا ماما تلماه فعضا ام نكلو
+File data/JSTORArabic-ground-truth/a686cafb-96cf-414d-b983-7941f4eb7709.lstmf line 0 (Perfect):
+Mean rms=1.85%, delta=5.189%, train=20.063%(33.684%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/e1362e02-2e9c-4a51-8a1d-b3dbf76502b4.lstmf
+Iteration 753: GROUND  TRUTH : حصي ام نا يارغ روتكدلل ةباتكلاو ةءارقلا ميلعت لوصا باتك يف أرق دق هناب
+Iteration 753: BEST OCR TEXT : حصي ام نا يارغ روتكدلل ةباتكلاو ةءارقلا ملعت لوصا باتك يف أرق دق هنإ
+File data/JSTORArabic-ground-truth/e3c8fcd6-3057-4cfc-9df2-2cc66bb77332.lstmf line 0 :
+Mean rms=1.849%, delta=5.185%, train=20.044%(33.658%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/8528099c-b6a0-4803-a1f5-1768235e5b36.lstmf
+Iteration 754: GROUND  TRUTH : ،ديرت ام ايناطيربل اهئاطعا لباقم يف ،لانت ،ةرقتسم تاموكح تدجو اذا الا
+Iteration 754: BEST OCR TEXT : ديرت ام ايناطيربل اهئاطعا لباقم يف لانت ةرقتسم تاموكح تدجو اذا الا
+File data/JSTORArabic-ground-truth/9524e0b7-4713-45b3-a2e1-855908c15098.lstmf line 0 :
+Mean rms=1.848%, delta=5.181%, train=20.023%(33.647%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/2a27338e-0a85-4d37-a78e-b42fb3401f94.lstmf
+Iteration 755: GROUND  TRUTH : . ملکتی ملاح : ف يف ةدايز ١٨٣
+Iteration 755: ALIGNED TRUTH : . ملکتیی ملاح : ف يف ةدايز ١٨٣
+Iteration 755: BEST OCR TEXT : . ملكتي ملاح : تفف يف ةدايز ١«
+File data/JSTORArabic-ground-truth/aba5c9d0-2e4d-4c45-b731-594151276380.lstmf line 0 :
+Mean rms=1.849%, delta=5.187%, train=20.038%(33.652%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/b013a302-2f99-4c31-86bb-36bcad98f94e.lstmf
+Iteration 756: GROUND  TRUTH : رارقلا عورشم طابحال وتيفلا قح يلودلا نمالا سلجم يف ایسور تلمعتسا ٥٤ - ٣ - ٣٠
+Iteration 756: ALIGNED TRUTH : رارقلا عورشم طابحال وتيفلا قح يلودلا نمالا سلجم يف ایسور تتلمعتسا ٥٤ ٤ - ٣ - ٣٠٠
+Iteration 756: BEST OCR TEXT : رارفقلا عورشم طابحال وتيفلا قح يلودلا نمالا سلجم ق ايسور لمعتسا ه--٠٠
+File data/JSTORArabic-ground-truth/782b3502-16a2-44da-99ee-a23b12efe345.lstmf line 0 :
+Mean rms=1.849%, delta=5.187%, train=20.034%(33.682%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/ee38b689-1e42-43e7-ae69-cd41d3716af2.lstmf
+Iteration 757: GROUND  TRUTH : . يجننابدنا ،لوهتيس
+Iteration 757: ALIGNED TRUTH : . يجننابدنا ،،لوهتيس
+Iteration 757: BEST OCR TEXT : . يجننابدنا  لوهتيس
+File data/JSTORArabic-ground-truth/130f005e-0b28-4997-8d88-7eefd67b93aa.lstmf line 0 :
+Mean rms=1.85%, delta=5.188%, train=20.022%(33.681%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/da1c3640-1ce9-4216-aefc-af53d28b89ce.lstmf
+Iteration 758: GROUND  TRUTH : املكو ،ارخاز ارحب تدجو هتملاع اذاو ،ارهاظ الامج تیأر هتنیاع اذا الجر ناک هناف
+Iteration 758: BEST OCR TEXT : املك و ارخاز ارحب تدجو هتملاع اذاو ارهاظ الامج تيأر هتنياع اذا الحر ناك هناف
+File data/JSTORArabic-ground-truth/0d18afc6-58f9-4abb-85da-323613467910.lstmf line 0 :
+Mean rms=1.85%, delta=5.189%, train=20.014%(33.703%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/cf03b1e7-f27a-4747-a083-e5730073c64e.lstmf
+Iteration 759: GROUND  TRUTH : ةلدأ» نأ ىلا هدرم ةكرحلا يف لهاستلا نأ انل ودبيو . (١٠٦) درطم يسايق هب عفر نأ ىلإ ةوارطلا نبا بهذو
+Iteration 759: BEST OCR TEXT : ةلدأ ١ نأ ىلإ هذرم ةكرحلا يف لهاستلا نأ انل ودبيو . :ادرطم يسايق هب عفر نأ ىلإ ةوارطلا نبا بهذو
+File data/JSTORArabic-ground-truth/e85b9370-b8d0-48e1-ac0d-c913fff47394.lstmf line 0 :
+Mean rms=1.85%, delta=5.188%, train=20%(33.69%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/0ffbfaf1-1712-4474-9e8b-7ad039ce3ee4.lstmf
+Iteration 760: GROUND  TRUTH : ١٤
+Iteration 760: ALIGNED TRUTH : ١١٤٤
+Iteration 760: BEST OCR TEXT : ١١
+File data/JSTORArabic-ground-truth/e5da09ed-e909-4871-bef5-1680877c3093.lstmf line 0 :
+Mean rms=1.852%, delta=5.205%, train=20.105%(33.777%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/03d7a5c6-b2d4-49f0-ad65-0a5192e92fb7.lstmf
+Iteration 761: GROUND  TRUTH : . ةبحرلا قاوسالا بلطتت ةعانصلاف
+Iteration 761: BEST OCR TEXT : . ةيحرلا قاوسالا بلطتت ةعانصلاف
+File data/JSTORArabic-ground-truth/e1362e02-2e9c-4a51-8a1d-b3dbf76502b4.lstmf line 0 :
+Mean rms=1.851%, delta=5.199%, train=20.087%(33.759%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/ee564416-9ed1-4811-87ba-153aedd79c59.lstmf
+Iteration 762: GROUND  TRUTH : ىلا ادانتسا هنم دحي وا ةيساسالا نينطاوملا قوقح دحاب قلعتي نوناق لك - ٢
+Iteration 762: BEST OCR TEXT : ىلا اداتتسا هنم دحب وا ةيساسالا نينطاوملا قوقح دحاب قلعتي نوناق لك - 
+File data/JSTORArabic-ground-truth/8528099c-b6a0-4803-a1f5-1768235e5b36.lstmf line 0 :
+Mean rms=1.85%, delta=5.196%, train=20.07%(33.743%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/6020a5b0-3e16-48bf-a908-34da6620af2d.lstmf
+Iteration 763: GROUND  TRUTH : ةهجاوملا تاناكمإب ةئيلم تناك نماثلا نرقلا يف برغملا يف ةيسايسلا ةايحلا نأل الإ كلذ امو ،ودعلا
+Iteration 763: BEST OCR TEXT : ةهجاوملا تاناكمإب ةشيلم تناك نماثلا نرقلا ىف برغملا يف ةيسايسلا ةايحلا نأل الإ كلذ امو . ودعلا
+File data/JSTORArabic-ground-truth/2a27338e-0a85-4d37-a78e-b42fb3401f94.lstmf line 0 :
+Mean rms=1.849%, delta=5.191%, train=20.054%(33.723%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/f4fe1e03-a832-4925-bc1d-f0797548e39d.lstmf
+Iteration 764: GROUND  TRUTH : . ًاضیا يعامتجالا هافرلاو داصتقالاو ةيبرتلاو بطلا لوقح يف يملاعلا نواعتلا ةيمنت يف لب
+Iteration 764: ALIGNED TRUTH : . ًاضیا يعامجالا هافرلاو داصتقالاو ةيبرتلاو بطلا لوقح يف يملاعلا نواعتلا ةيمنت يف لب
+Iteration 764: BEST OCR TEXT : :اضيل يعاتجالا هافرلاو داصتقالاوةيبرتلاو بظلا لوقح يف يملاعلانواعتلا ةيمتت يف ل
+File data/JSTORArabic-ground-truth/b013a302-2f99-4c31-86bb-36bcad98f94e.lstmf line 0 :
+Mean rms=1.849%, delta=5.19%, train=20.052%(33.772%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/c2ab4706-bceb-4f35-8f36-083a8dc27054.lstmf
+Iteration 765: GROUND  TRUTH : عونلا اذه لمعتسي ناكو .ةبورضملا لاثمألا لثم - ةروهشم تناك نأ دعب ،رورشلا وأ ،تاريخلا نم
+Iteration 765: BEST OCR TEXT : عونلا اذه لمعتسي ناكو .ةبورضملا لاثمألا لثم - ةروهشم تناك نأ دعب  رورشلا وأ ؛تاريخلا نم
+File data/JSTORArabic-ground-truth/ee38b689-1e42-43e7-ae69-cd41d3716af2.lstmf line 0 :
+Mean rms=1.848%, delta=5.185%, train=20.032%(33.745%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/c589149c-774c-47bb-8b80-1415487a1261.lstmf
+Iteration 766: GROUND  TRUTH : دارفالا ةقالع نع ًايفطاع «ًايفوص» ًاريبعت اهنيناوق تءاجف . ةيمكحتلاو
+Iteration 766: BEST OCR TEXT : هارفالا ةقالع نع ًايفطاع  ًايفوص « ًاريبعت امنيناوق تءاجف . ةيمكحتلاو
+File data/JSTORArabic-ground-truth/da1c3640-1ce9-4216-aefc-af53d28b89ce.lstmf line 0 :
+Mean rms=1.848%, delta=5.184%, train=20.015%(33.74%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/e0dcc4e1-9e43-4a0c-98e6-7ac764dd0c1c.lstmf
+Iteration 767: GROUND  TRUTH : نيباتكلا نيذه يف «ثيدحلا ندمتلا يف ةأرملاو خيراتلاو عئارشلا يف ةأرملا»
+Iteration 767: BEST OCR TEXT : نيباتكلا نيذه يف » ثيدحلا ندمتلا يف ةأرملاو خيراتلاو عئارشلا يف ةأرملا «
+File data/JSTORArabic-ground-truth/cf03b1e7-f27a-4747-a083-e5730073c64e.lstmf line 0 :
+Mean rms=1.848%, delta=5.183%, train=19.993%(33.719%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/c5830a4b-bdc7-4ac8-8e86-afce9b4d0980.lstmf
+Iteration 768: GROUND  TRUTH : ةلوازم نوعيطتسي ال نيذلا ندملا يلاهأ ضعبو ةيربربلاو ةيبرعلا لئابقلا لاجر ناك دقو
+File data/JSTORArabic-ground-truth/0ffbfaf1-1712-4474-9e8b-7ad039ce3ee4.lstmf line 0 (Perfect):
+Mean rms=1.846%, delta=5.176%, train=19.967%(33.676%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/2fb6f20f-f85e-4ffc-a168-30c3b55d5111.lstmf
+Iteration 769: GROUND  TRUTH : فیس ومس نميلا مسابو ةيجنرف ديمح ديسلاو حلصلا ضاير ةلود نانبل مساب اهعقو دقو
+Iteration 769: BEST OCR TEXT : فيس ومس نميلا مسابو ةيجنرف ديمح ديسلاو حلصلا ضاير ةلود نانبل مماب اهعقو دقو
+File data/JSTORArabic-ground-truth/03d7a5c6-b2d4-49f0-ad65-0a5192e92fb7.lstmf line 0 :
+Mean rms=1.846%, delta=5.173%, train=19.948%(33.65%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/528dba76-af7f-4c2b-98fa-b52effcbbcb0.lstmf
+Iteration 770: GROUND  TRUTH : يعامتجالا فرعلا عنمي امدنع ةيعامتجالا فورظلا ببسب ةيرشبلا دراوملا عيضت
+Iteration 770: BEST OCR TEXT : يعاتجالا فرعلا عنم امدنع ةيعاتجالا فورظلا ببسب ةيرشبلا دراوملا عيضت
+File data/JSTORArabic-ground-truth/ee564416-9ed1-4811-87ba-153aedd79c59.lstmf line 0 :
+Mean rms=1.845%, delta=5.168%, train=19.928%(33.646%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/cdc3c585-174c-4fad-a73a-0e9fdbed1ebc.lstmf
+Iteration 771: GROUND  TRUTH : . هعباوتو حمقلل صصخم ايروس
+Iteration 771: BEST OCR TEXT : . هعباوتو حمقلل صصخ ايروس
+File data/JSTORArabic-ground-truth/6020a5b0-3e16-48bf-a908-34da6620af2d.lstmf line 0 :
+Mean rms=1.843%, delta=5.163%, train=19.907%(33.628%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/db5dc35d-0fc4-4e95-b431-a5f0762839b9.lstmf
+Iteration 772: GROUND  TRUTH : أ ٧٩ ق
+Iteration 772: BEST OCR TEXT : أ  ق
+File data/JSTORArabic-ground-truth/f4fe1e03-a832-4925-bc1d-f0797548e39d.lstmf line 0 :
+Mean rms=1.845%, delta=5.171%, train=19.924%(33.628%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/439a2765-f92c-4db9-8343-500e8b4426f2.lstmf
+Iteration 773: GROUND  TRUTH : ةلجم ةيعمجلا ردصتو ،ةيعمجلا ءاضعا اهب موقي يتلا ثوحبلا قیرط نع تارشحلا ملع
+Iteration 773: BEST OCR TEXT : لج ةيعمجلا ردصتو ةيعمجا ءاضعا اهب موقي يتلا ثوحبلا قيرط نع تارشحلا ملع
+File data/JSTORArabic-ground-truth/c2ab4706-bceb-4f35-8f36-083a8dc27054.lstmf line 0 :
+Mean rms=1.845%, delta=5.171%, train=19.909%(33.614%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/8fbf5591-1940-4ec0-9aa4-008c942e9d95.lstmf
+Iteration 774: GROUND  TRUTH : . ص ١٥٦ . ١٩٦٢ ،ةضهنلا ةبتكم ،دادغب . ةيبرعلا يف ءارآ
+Iteration 774: ALIGNED TRUTH : . ص ١٥٦٦٦ . ١٩٦٦٢٢ ،،ةضهنلا ةبتكم ،،دادغب . ةيبرعلا يف ءارآ
+Iteration 774: BEST OCR TEXT : ٠ ص ١١  ١١١  ةضهنلا ةبتكم  دادغب  ةيبرعلا يف ءارآ
+File data/JSTORArabic-ground-truth/c589149c-774c-47bb-8b80-1415487a1261.lstmf line 0 :
+Mean rms=1.846%, delta=5.173%, train=19.922%(33.646%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/b03ec89f-635e-40ec-b90d-c3998e406502.lstmf
+Iteration 775: GROUND  TRUTH : . نطقلا قوسو ةيلاملا قوسلاو ةرادالا
+Iteration 775: BEST OCR TEXT : . نطقلا قوسو ةملاملا قوسلاو ةرادالا
+File data/JSTORArabic-ground-truth/e0dcc4e1-9e43-4a0c-98e6-7ac764dd0c1c.lstmf line 0 :
+Mean rms=1.845%, delta=5.168%, train=19.904%(33.624%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/4af70173-9e44-428b-a4e7-e82ed42ba3d3.lstmf
+Iteration 776: GROUND  TRUTH : ةيدوهيلاو ةيبرعلا ناجللا ىلا نيينانبل نيبودنم دافيال ةنجللا هذه اهتهجو يتلا ةوعدلا
+Iteration 776: BEST OCR TEXT : ةسيدوهيلاو ةيبرعلا ناجللا ىلا نيينانبل نيبودنم دافيال ةنجللا هذه اهتهجو يتلا ةوعدلا
+File data/JSTORArabic-ground-truth/c5830a4b-bdc7-4ac8-8e86-afce9b4d0980.lstmf line 0 :
+Mean rms=1.844%, delta=5.163%, train=19.88%(33.591%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/73698f8c-71b7-4e0c-b660-0b5504a844af.lstmf
+Iteration 777: GROUND  TRUTH : ماد امو . مويلا ًائیش ينعت ال تتاب «رامعتسا» ةظفل نا ینعي اذهو . ةيرامعتسا
+Iteration 777: ALIGNED TRUTH : ماد امو . مويلا ًائیش ينعت ال تتاب «رامعتسا» ةظفل نا یینعي اذهو . ةيرامعتسا
+Iteration 777: BEST OCR TEXT : ماد امو . مويلا ًائيش ينعت ال تناب »رامعتسا « ةظفل نا ىنعي اذهو . ةيرامعتسا
+File data/JSTORArabic-ground-truth/2fb6f20f-f85e-4ffc-a168-30c3b55d5111.lstmf line 0 :
+Mean rms=1.844%, delta=5.162%, train=19.866%(33.583%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/5693c3d0-95e5-475b-8cb2-b776910f2075.lstmf
+Iteration 778: GROUND  TRUTH : يهف مهدالب ريخل اولمعيلو وكسومب مهطبرت يتلا «ةينوفلتلا كالسالا» عطقب مهصالخا
+Iteration 778: BEST OCR TEXT : يعف مثدالب ريخل اولمعبلو وكسومب مهطبرت يتلا »ةينوفلتلا كالسالا  عطقب مهصالخا
+File data/JSTORArabic-ground-truth/528dba76-af7f-4c2b-98fa-b52effcbbcb0.lstmf line 0 :
+Mean rms=1.844%, delta=5.162%, train=19.854%(33.598%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/7f2a2a1a-7ab3-4e95-baf9-6db3e06c6351.lstmf
+Iteration 779: GROUND  TRUTH : مهنم لک ةبلاطم حصتو ،مهتايلوؤسم نولمحتي تآافكلا يوذب تايحالصلا رصحو
+Iteration 779: BEST OCR TEXT : مهنم لك ةبلاطم حصتو مهتايلوؤسم نولمحتي تناافكلا يوذب تايحالصلا رصحو
+File data/JSTORArabic-ground-truth/cdc3c585-174c-4fad-a73a-0e9fdbed1ebc.lstmf line 0 :
+Mean rms=1.843%, delta=5.159%, train=19.841%(33.593%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/a4ad1a37-e820-47f4-8566-e711f7501882.lstmf
+Iteration 780: GROUND  TRUTH : ،يريشاخش نکز ،روبج لیئاربج (ريرحتلا ةنجل) هدايز الوقن
+Iteration 780: BEST OCR TEXT : يريشاخش نكز روبج ليئاربج )ريرحتلا ةنجل ( هدايز الوقن
+File data/JSTORArabic-ground-truth/db5dc35d-0fc4-4e95-b431-a5f0762839b9.lstmf line 0 :
+Mean rms=1.844%, delta=5.165%, train=19.832%(33.646%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/bcc366e1-b11f-40e4-937b-1da96bd04ca2.lstmf
+Iteration 781: GROUND  TRUTH : ام قوف ةيلخادلا ءابنالاب ةديرجلا دوزت يتلاو نيررحم ةدع اهيف لمعي يتلا ةينطولا
+Iteration 781: BEST OCR TEXT : ام قوف ةيلخادلا ءابنالاب ةديرجلا دوزن يتلاو نيررحم ةدع اهيف لمعي يتلا ةينطولا
+File data/JSTORArabic-ground-truth/439a2765-f92c-4db9-8343-500e8b4426f2.lstmf line 0 :
+Mean rms=1.843%, delta=5.159%, train=19.81%(33.613%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/d5ff169c-67b3-46d3-abea-f68c6e66b395.lstmf
+Iteration 782: GROUND  TRUTH : ًاحيمس عوسي اولبق اوناكل يليألا ىرجملا اوعبتا عوسي اورصاع نيذلا دوهيلا نا
+Iteration 782: ALIGNED TRUTH : ًاحيممس عوسي اولبق اوناكل يليألا ىرجملا اوعبتا عوسي اورصاع نيذلا دوهيلا نا
+Iteration 782: BEST OCR TEXT : احيسم عوسي اولبق اوناكل يليألا ىرجملا اوعبتا عوسي اورصاع نيزذلا دوهيلا نا
+File data/JSTORArabic-ground-truth/8fbf5591-1940-4ec0-9aa4-008c942e9d95.lstmf line 0 :
+Mean rms=1.843%, delta=5.156%, train=19.788%(33.591%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/2ccf389f-0e54-4b45-b092-4c608a535648.lstmf
+Iteration 783: GROUND  TRUTH : ىلا يقدص نيما اهكرت
+File data/JSTORArabic-ground-truth/b03ec89f-635e-40ec-b90d-c3998e406502.lstmf line 0 (Perfect):
+Mean rms=1.841%, delta=5.15%, train=19.763%(33.549%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/5874971f-eb2a-4c8f-8208-007484b3daae.lstmf
+Iteration 784: GROUND  TRUTH : هذه زتراوس روتكدلا دوز دقو . (ةلاسرلا كلت يف هلمع نمً اءجز نيركذملاو صاصقلا باتك لثميو)
+Iteration 784: ALIGNED TRUTH : هذه زتراوس روتكدلا دوز دقو . (ةلاسرلا كلت يف هلمع نمً ًاءجز نيركذملاو صاصقلا باتك لثميو)
+Iteration 784: BEST OCR TEXT : هذه زتراوس روتكدلا دوز دقو . ) ةلاسرلا كلت يف هلمع نم ًاعزج نيركذملاو صاصقلا باتك لتميو «
+File data/JSTORArabic-ground-truth/4af70173-9e44-428b-a4e7-e82ed42ba3d3.lstmf line 0 :
+Mean rms=1.841%, delta=5.148%, train=19.749%(33.538%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/a8aa2dcb-6e64-46a7-96f0-f5a1c2c1fd04.lstmf
+Iteration 785: GROUND  TRUTH : . ص ١٠٦١ . ١٩٦٦
+Iteration 785: ALIGNED TRUTH : . ص ١٠٦٦١ . ١٩٩٦٦٦٦٦
+Iteration 785: BEST OCR TEXT : .ص ١١١١  ١ ١١ ١١ 
+File data/JSTORArabic-ground-truth/73698f8c-71b7-4e0c-b660-0b5504a844af.lstmf line 0 :
+Mean rms=1.843%, delta=5.161%, train=19.843%(33.622%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/13141b6a-2ad6-425e-8daf-17215f3e1eb2.lstmf
+Iteration 786: GROUND  TRUTH : ... ةعرقلاو لجبلاو ايسراهلبلاو ايرالملاو
+File data/JSTORArabic-ground-truth/5693c3d0-95e5-475b-8cb2-b776910f2075.lstmf line 0 (Perfect):
+Mean rms=1.841%, delta=5.155%, train=19.818%(33.579%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/d5864e38-52c4-4e62-8bb5-8380979e55e4.lstmf
+Iteration 787: GROUND  TRUTH : ىلا ديشرلا ةيصو نم اهكردن نا نكميف ايلعلا اهلثمو ةيطارقتسرالا ةيبرتلا هياغ
+Iteration 787: BEST OCR TEXT : ىلا ديشرلا ةيصو نم اهكردن نا نكميف املعلا اهلثمو ةيطارقتسرالا ةيبرتلا هياغ
+File data/JSTORArabic-ground-truth/7f2a2a1a-7ab3-4e95-baf9-6db3e06c6351.lstmf line 0 (Perfect):
+Mean rms=1.84%, delta=5.148%, train=19.796%(33.547%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/9066fde3-6c23-405b-840d-018b8f0f4ad8.lstmf
+Iteration 788: GROUND  TRUTH : . ١٢٠/١ عيكو ،٢١٧ ،٢١٣/١ هفيلخ (١٠
+Iteration 788: ALIGNED TRUTH : . ١٢٠٠/١ عيكو ،٢٢١٧٧ ،٢٢١٣٣/١ هفيلخ (١٠٠
+Iteration 788: BEST OCR TEXT : . ١١ ميكر  ١  ١١ هفيلخ )١٠
+File data/JSTORArabic-ground-truth/a4ad1a37-e820-47f4-8566-e711f7501882.lstmf line 0 :
+Mean rms=1.842%, delta=5.161%, train=19.838%(33.595%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/0a04a5f3-f67f-4cf1-9438-ba3775f48fbb.lstmf
+Iteration 789: GROUND  TRUTH : عيفرت ةيلمعبً اضاي موقت نيفظوملا ءاقتنا ةنجل نأ متفرع ،رغاش ءلم ةقيقحلا يف
+Iteration 789: ALIGNED TRUTH : عيفرت ةيلمعبً اضايا موقت نيفظوملا ءاقتنا ةنجل نأ متفرع ،رغاش ءلم ةقيقحلا ي
+Iteration 789: BEST OCR TEXT : ميفرت ةيلصب ًاضيا موقن نيفظوملا ءاقتنا ةنجل نا فرع  رغاش :لم ةقيفلل يف
+File data/JSTORArabic-ground-truth/bcc366e1-b11f-40e4-937b-1da96bd04ca2.lstmf line 0 :
+Mean rms=1.843%, delta=5.166%, train=19.84%(33.641%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/d880106e-1eb0-4b60-a8ba-38d675968599.lstmf
+Iteration 790: GROUND  TRUTH : ةرايز يف ينابسالا انوروكال ءانيم ىلا هللا دبع كلملا ةلالج لصو ٤٩ - ٩ - ٥
+Iteration 790: BEST OCR TEXT : ةرايز يف يئابسالا انوروك ال ءانيم ىلا هللا دبع كلملا ةلالج لصو  - - ٠
+File data/JSTORArabic-ground-truth/d5ff169c-67b3-46d3-abea-f68c6e66b395.lstmf line 0 :
+Mean rms=1.843%, delta=5.163%, train=19.828%(33.638%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/9a87cb0e-f544-4a94-b749-f1eefbd9f2aa.lstmf
+Iteration 791: GROUND  TRUTH : اهرودو يبدالا اهجاور بساني يذلا حاجنلا ،ًايدام ،قالت مل فحصلا نا قئاثولا يفف
+Iteration 791: BEST OCR TEXT : اهرودو يبدالا اهجاور بساني يذلا حاجنلا  ًايدام  قالت مل فحصلا نا قئانولا يفف
+File data/JSTORArabic-ground-truth/2ccf389f-0e54-4b45-b092-4c608a535648.lstmf line 0 :
+Mean rms=1.842%, delta=5.159%, train=19.813%(33.624%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/3ca94ace-1d11-4646-846b-bf538e6e3b8e.lstmf
+Iteration 792: GROUND  TRUTH : . تاظحالملا هذه ءوض ىلع عضوي
+Iteration 792: BEST OCR TEXT : . تاظحالملا هذه .وض ىلع عضوي
+File data/JSTORArabic-ground-truth/5874971f-eb2a-4c8f-8208-007484b3daae.lstmf line 0 :
+Mean rms=1.841%, delta=5.153%, train=19.797%(33.603%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/5c5a13ff-9c96-47eb-ac45-563d93059fa0.lstmf
+Iteration 793: GROUND  TRUTH : ،ةعاطلا ىلا ىسوم ةدوع نايح نبا ركذي ال ،٣٠٠ ص ،ددعلا سفن ،سلدنالا ةلجم (١١
+Iteration 793: ALIGNED TRUTH : ،ةعاطلا ىلا ىسوم ةدوع نايح نبا ركذي ال ،،٣٠٠ ص ،ددعلا سفن ،سلدنالا ةلجم (١١
+Iteration 793: BEST OCR TEXT :  ةعاطلا ىلا ىسوم ةدوع نايح نبا ركذي ال  . . ص ددعلا سفن »سلدنالا ةلجم )١١
+File data/JSTORArabic-ground-truth/a8aa2dcb-6e64-46a7-96f0-f5a1c2c1fd04.lstmf line 0 :
+Mean rms=1.841%, delta=5.154%, train=19.797%(33.602%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/ea4b73b3-12bf-4e48-b111-01c861120709.lstmf
+Iteration 794: GROUND  TRUTH : دحا نيبو اهئاضعا دحا وا ةنجللا سيئر نيب نوكي نا زوجي ال - ٣٥ ةدام
+Iteration 794: BEST OCR TEXT : دجا نيبو اهناضعا دحا وا ةنجللا سيمر نيي نوكتي نا زوجي ال -- م ةدام
+File data/JSTORArabic-ground-truth/13141b6a-2ad6-425e-8daf-17215f3e1eb2.lstmf line 0 :
+Mean rms=1.842%, delta=5.155%, train=19.797%(33.619%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/9801fb42-2675-423d-9c08-676b150451da.lstmf
+Iteration 795: GROUND  TRUTH : نم ءاوس ،ةيبرعلا ةيفيرلا قطانملا يف ةياغلل ًائيسً اراث ةصحلاب راجيالا ماظنل نا
+Iteration 795: BEST OCR TEXT : نم ءاوس  ةيبرعلا ةيفيرلا قطانملا يف ةياغلل ًاثيس ارئا ةصخلاب راجيالا ماظتل نا
+File data/JSTORArabic-ground-truth/d5864e38-52c4-4e62-8bb5-8380979e55e4.lstmf line 0 :
+Mean rms=1.842%, delta=5.156%, train=19.784%(33.625%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/a9952c49-c66d-4a7c-bb05-c0deffb64148.lstmf
+Iteration 796: GROUND  TRUTH : بیکرت سرد لحارمب رسعا نوكي مکف ٤٠٠٠٠ نع ديزي ال اهنزو نا نم مغرلاب
+Iteration 796: ALIGNED TRUTH : بییکرت سرد لحارمب رسعا نوكي مکف ٤٠٠٠٠ نع ديزي ال اهنزو نا نم مغرلا
+Iteration 796: BEST OCR TEXT : بيكرت سرد لحارب رسعا نوكي مف ٠٠٠ نع ديزيال اهنزو نا نم غرلا
+File data/JSTORArabic-ground-truth/9066fde3-6c23-405b-840d-018b8f0f4ad8.lstmf line 0 :
+Mean rms=1.843%, delta=5.159%, train=19.78%(33.646%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/e2bdd609-0402-4b54-9a34-18c4f449ff88.lstmf
+Iteration 797: GROUND  TRUTH : اذه بوکرب هدیبع نم ًاموق رما يبا نا موقلا ربخا : نامجرتلل لاقو كحض
+Iteration 797: BEST OCR TEXT : اذه بوكرب هديبع نم ًاموق رما يبا نا موقلا ربخا : نامجرتلل لاقو كحض
+File data/JSTORArabic-ground-truth/0a04a5f3-f67f-4cf1-9438-ba3775f48fbb.lstmf line 0 :
+Mean rms=1.842%, delta=5.156%, train=19.763%(33.621%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/840f0857-56ac-4518-be09-f0176f611f89.lstmf
+Iteration 798: GROUND  TRUTH : رصم خيرات هيلا فاضاو بیليف يول رصع ىتح اسنرف خيرات يفً اباكت دوعسلا وبا
+Iteration 798: ALIGNED TRUTH : رصم خيرات هيلا فاضاو بیليف يول رصع ىتح اسنرف خيرات يفً ًاباكت دوعسلا وبا
+Iteration 798: BEST OCR TEXT : رصم خيرات هيلا فاضاو بيليف يول رصع ىتح اسنرف خيرات يف ًاباتك دوعسلا وبا
+File data/JSTORArabic-ground-truth/d880106e-1eb0-4b60-a8ba-38d675968599.lstmf line 0 :
+Mean rms=1.842%, delta=5.155%, train=19.742%(33.606%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/9f99f498-0c78-40c6-bafd-a806a6c60f5a.lstmf
+Iteration 799: GROUND  TRUTH : . ت . ال ،رشنلاو ةعابطلل ةيموقلا رادلا ،ةرهاقلا . لينلا ضوح يف يرامعتسالا عارصلا
+Iteration 799: BEST OCR TEXT : .ت . ال رشنلاو ةعابطلل ةيموقلا رادلا ةرهاقلا . لينلا ضوح يف يرامعتسالا عارصلا
+File data/JSTORArabic-ground-truth/9a87cb0e-f544-4a94-b749-f1eefbd9f2aa.lstmf line 0 :
+Mean rms=1.841%, delta=5.151%, train=19.722%(33.597%), skip ratio=0%
+2 Percent improvement time=356, best error was 21.755 @ 370
+At iteration 726/800/800, Mean rms=1.841%, delta=5.151%, char train=19.722%, word train=33.597%, skip ratio=0%,  New best char error = 19.722 wrote best model:data/JSTORArabic/checkpoints/JSTORArabic_19.722_726_800.checkpoint wrote checkpoint.
+
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/a1a2fa3c-5418-4ce3-9f9e-bca50b45f2de.lstmf
+Iteration 800: GROUND  TRUTH : هجتم يلود طاشن لك يف يلعفلا كارتشالا اذهب يدالب يف نآلا ةبغرلا هذه رهظتو
+Iteration 800: BEST OCR TEXT : هجتم يلود طاشن لك يف لعفلا كارتشالا اذهب يدالب يف نالا ةبغرلا هذه رهظتو
+File data/JSTORArabic-ground-truth/3ca94ace-1d11-4646-846b-bf538e6e3b8e.lstmf line 0 :
+Mean rms=1.841%, delta=5.147%, train=19.702%(33.573%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/492c53af-40ac-475e-801c-d899dfcb1117.lstmf
+Iteration 801: GROUND  TRUTH : ريخ اهلمعب ةسردملا موقت يكل ةسردملاو ةئيبلاو تيبلا نيب قيثو رمتسم نواعتو
+Iteration 801: BEST OCR TEXT : ريخ ابلمعب ةسردملا موقت يل ةسردملاو ةئيبلاو تيبلا نيب قيثو رمتسم نواعتو
+File data/JSTORArabic-ground-truth/5c5a13ff-9c96-47eb-ac45-563d93059fa0.lstmf line 0 :
+Mean rms=1.839%, delta=5.141%, train=19.683%(33.552%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/25249f28-5529-4a9c-88b5-0a09161c981b.lstmf
+Iteration 802: GROUND  TRUTH : . [٥٢٣ - ٤٨١ ص (١٩٦١) ٤/١٤ ج . ملعلا
+Iteration 802: ALIGNED TRUTH : . [٥٢٢٣ - ٤٨١ ص (١٩٦١)) ٤/١٤ ج . ملعلا
+Iteration 802: BEST OCR TEXT : .] - ١ ص )١4١( /١ ج .ملعل
+File data/JSTORArabic-ground-truth/ea4b73b3-12bf-4e48-b111-01c861120709.lstmf line 0 :
+Mean rms=1.841%, delta=5.149%, train=19.71%(33.598%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/71e92707-cd86-4a98-9303-cf7f5aa46705.lstmf
+Iteration 803: GROUND  TRUTH : رساخلا ميلس » : » »
+Iteration 803: ALIGNED TRUTH : رساخلا ميلس » : »»» »»
+Iteration 803: BEST OCR TEXT : رساخلا ملس « : « ه
+File data/JSTORArabic-ground-truth/9801fb42-2675-423d-9c08-676b150451da.lstmf line 0 :
+Mean rms=1.843%, delta=5.166%, train=19.731%(33.639%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/c1feb67e-b408-4f34-ad80-d20cb3b22a1e.lstmf
+Iteration 804: GROUND  TRUTH : ضرعي ةكرتشم ةسلج يف ءاضعالا عابرا ةثالث ةيبلغأب روكذملا نوناقلا عورشم زيجا اذا (٢)
+Iteration 804: BEST OCR TEXT : ضرعي ةكرتشم ةسلج يف ءاضعالا عابرا ةمالث ةيبلغأب روكذملا نوناقلا عورشم زيجا اذا )(
+File data/JSTORArabic-ground-truth/a9952c49-c66d-4a7c-bb05-c0deffb64148.lstmf line 0 :
+Mean rms=1.843%, delta=5.163%, train=19.711%(33.615%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/dc3693b7-e00f-4a3a-b63f-73292bfaec84.lstmf
+Iteration 805: GROUND  TRUTH : ةداع الو نيبلا تاذ حالصا لجا نم تاعزانملاب لخدتلا تاينواعتلا تابجاو نمل هنا
+Iteration 805: ALIGNED TRUTH : ةداعالو نيبلا تاذ حالصا لجا نم تاعزانملاب لخدتلا تاينواعتلا تابجاو نمل هنا
+Iteration 805: BEST OCR TEXT : ةداعالو نيبلا تاذ حالصا لجا نم تاعزانملاب لخدتلا تاينواعتلا تايجاو نمل هنا
+File data/JSTORArabic-ground-truth/e2bdd609-0402-4b54-9a34-18c4f449ff88.lstmf line 0 :
+Mean rms=1.842%, delta=5.158%, train=19.692%(33.602%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/263f284b-5d39-40b3-9fd9-6c183cb5e2b3.lstmf
+Iteration 806: GROUND  TRUTH : ام كشت الو ،ربصلا عم هلك جرفلا ناف ،ربصلا اهل دعتساف ةدش كتباصا ناو
+Iteration 806: BEST OCR TEXT : ام كشت الو ربصلا عم هلك جرفلا ناف ربصلا اهل دعتساف ةدش كتباصا ناو
+File data/JSTORArabic-ground-truth/840f0857-56ac-4518-be09-f0176f611f89.lstmf line 0 :
+Mean rms=1.841%, delta=5.153%, train=19.671%(33.578%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/00d707e6-a02b-4b80-9ad5-5be1453afcf9.lstmf
+Iteration 807: GROUND  TRUTH : يتلا ىرخالا ةيراشتسألا تائيهلاو ايبيلل ةدحتملا ممالا بودنم نم صلاخلا حصنلا
+Iteration 807: BEST OCR TEXT : ىتلا ىرخالا ةيراشتسالا تائيملاو ايهبلل ةدحتملا ممالا بودنم نم صلاخلا حصتلا
+File data/JSTORArabic-ground-truth/9f99f498-0c78-40c6-bafd-a806a6c60f5a.lstmf line 0 :
+Mean rms=1.84%, delta=5.151%, train=19.66%(33.592%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/df0d35e7-f1cb-47df-9b20-759805d6f088.lstmf
+Iteration 808: GROUND  TRUTH : مزلأ يبلق قوف انأو تحصف معنملا هنسح ينيعل ىديأ
+Iteration 808: BEST OCR TEXT : مزلأ يلق قوف انأو تحصف مّقنملا هتسح ينيعل ىدبأ
+File data/JSTORArabic-ground-truth/a1a2fa3c-5418-4ce3-9f9e-bca50b45f2de.lstmf line 0 :
+Mean rms=1.841%, delta=5.152%, train=19.652%(33.606%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/a78f453e-9ed9-4f73-8b7e-aba39090e687.lstmf
+Iteration 809: GROUND  TRUTH : . يشبح ليما ،رقشالا
+Iteration 809: BEST OCR TEXT : . يشيح ليما رقشالا
+File data/JSTORArabic-ground-truth/492c53af-40ac-475e-801c-d899dfcb1117.lstmf line 0 :
+Mean rms=1.841%, delta=5.154%, train=19.647%(33.626%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/094da5e5-0830-4b50-9036-8cc9d1fbd49c.lstmf
+Iteration 810: GROUND  TRUTH : نع ١ هلأسي يزارلا ءايركز نب دمحم ىلا يخلبلا نيسحلا نب ديهش بتك ميحرلا نىمحرلا هللا مسب
+Iteration 810: ALIGNED TRUTH : نع ١هلأسي يزارلا ءايركز نب دمحم ىلا يخلبلا نيسحلا نب ديهش بتك ميحرلا نىمحرلا هللا مسب
+Iteration 810: BEST OCR TEXT : نع 'هلأسي يزارلا ءايركز نب دمحم ىلا يخلبلا نيسحلا نب ديهش بتك ميحرلا نلمحرلا هللا مسب
+File data/JSTORArabic-ground-truth/25249f28-5529-4a9c-88b5-0a09161c981b.lstmf line 0 :
+Mean rms=1.84%, delta=5.149%, train=19.63%(33.606%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/380bd7d7-575e-4b97-a564-fd8f8628d028.lstmf
+Iteration 811: GROUND  TRUTH : حیرذ نب سيق تیب : ٦١ »
+Iteration 811: BEST OCR TEXT : حيرذ نب سيق تيب : ١١ ا
+File data/JSTORArabic-ground-truth/71e92707-cd86-4a98-9303-cf7f5aa46705.lstmf line 0 :
+Mean rms=1.841%, delta=5.16%, train=19.651%(33.635%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/8fa6ab22-0697-4287-8f71-11f5537e8735.lstmf
+Iteration 812: GROUND  TRUTH : صوصن ندرالا قرخل دوعي ةكرتشملا ةندهلا ةنجل لامعا ءطبل يسيئرلا ببسلا ناو
+Iteration 812: BEST OCR TEXT : صوصن ندرالا قرخحل دوعي ةكرتشملا ةندهلا ةنل لامعا .طبل ييثرلا ببسلا ناو
+File data/JSTORArabic-ground-truth/c1feb67e-b408-4f34-ad80-d20cb3b22a1e.lstmf line 0 :
+Mean rms=1.841%, delta=5.157%, train=19.639%(33.635%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/47168a97-3f2f-4604-803a-62d6472ebaa4.lstmf
+Iteration 813: GROUND  TRUTH : یلا ةجاح يف ليئارسا ةلودو ةيبرعلا لودلا ناب ثالثلا تاموكحلا ررقت - ١
+Iteration 813: BEST OCR TEXT : ىلا ةجاح يف ليئارسا ةلودو ةيبرعلا لودلا ناب ثالثلا تاموكحلا ررقت - ١
+File data/JSTORArabic-ground-truth/dc3693b7-e00f-4a3a-b63f-73292bfaec84.lstmf line 0 :
+Mean rms=1.84%, delta=5.154%, train=19.618%(33.603%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/8e298f55-d52c-46aa-bd2e-753761aa5959.lstmf
+Iteration 814: GROUND  TRUTH : ٤٤٨
+Iteration 814: ALIGNED TRUTH : ٤٤٤٨٨
+Iteration 814: BEST OCR TEXT : 
+File data/JSTORArabic-ground-truth/263f284b-5d39-40b3-9fd9-6c183cb5e2b3.lstmf line 0 :
+Mean rms=1.843%, delta=5.167%, train=19.717%(33.684%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/4260dc44-461d-4fab-b67c-5064d0855562.lstmf
+Iteration 815: GROUND  TRUTH : يف ةكلملا ةلالج ةموكحو ةيرصملا ةموكحلا نيب مربملا ١٩٥٣ ةنس رياربف رهش
+Iteration 815: BEST OCR TEXT : يف ةكلملا ةلالج ةموكحو ةيرصملا ةموكمحلا نيب مربملا ١ ةنس رياربف رهش
+File data/JSTORArabic-ground-truth/00d707e6-a02b-4b80-9ad5-5be1453afcf9.lstmf line 0 :
+Mean rms=1.842%, delta=5.162%, train=19.7%(33.664%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/77a9ef1c-299d-48d5-8878-040521a6cca4.lstmf
+Iteration 816: GROUND  TRUTH : يف ةلجعتسم تاحارج مهدحا يرجي دقو ،يأرلاو ةفرعملا نولدابتيو هنوروزي دلب
+Iteration 816: BEST OCR TEXT : يفةلجعتسم تاحارج مهدحا يرجي دقو يأرلاو ةفرعملا نولدابتيو هنوروزي دلب
+File data/JSTORArabic-ground-truth/df0d35e7-f1cb-47df-9b20-759805d6f088.lstmf line 0 :
+Mean rms=1.841%, delta=5.157%, train=19.679%(33.656%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/9960ca60-db72-4070-be27-12baee95f8f7.lstmf
+Iteration 817: GROUND  TRUTH : حالصا داور نم ريثکل ةريبک ةينما ناك ندرالا يف نيفظوملا ناويد ءاشنا نا
+Iteration 817: BEST OCR TEXT : حالصا داور نم ريثكل ةريبك ةينما ناك ندرالا يف نيفظوملا ناويد ءاشنا نأ
+File data/JSTORArabic-ground-truth/a78f453e-9ed9-4f73-8b7e-aba39090e687.lstmf line 0 :
+Mean rms=1.841%, delta=5.154%, train=19.666%(33.643%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/65d0aeb6-0254-4742-b6df-aa0f8e22bce6.lstmf
+Iteration 818: GROUND  TRUTH : ىلع هئاقب ىلا حالفلا نانئمطا مدع نال كلذ . ةيعامتجالا ةهجلا نم وا ةيداصتقالا ةهجلا
+Iteration 818: BEST OCR TEXT : ىلع هئاقب ىلا جالافلا ناتثمطا مدع نال كلذ . ةيعاتجالا ةهلا نم وا ةيداصتقالا ةهجلا
+File data/JSTORArabic-ground-truth/094da5e5-0830-4b50-9036-8cc9d1fbd49c.lstmf line 0 :
+Mean rms=1.841%, delta=5.152%, train=19.652%(33.634%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/55992ca2-3288-43bb-94e5-a83c86e62459.lstmf
+Iteration 819: GROUND  TRUTH : نانبل نم ةيكريمالا تاوقلا بحسب يضقيً ايسرو رارق عورشم نمالا سلجم لذخ ٥٨ - ٧ - ١٨
+Iteration 819: ALIGNED TRUTH : نانبل نم ةيكريمالا تاوقلا بحسب يضقيً ايسرورو رارق عورشم نمالا سلجم لذخ ٥٥٨ - ٧ - ١٨
+Iteration 819: BEST OCR TEXT : نانبل نم ةيكريمالا تاوقلا بحسب يفقي ًايسور رارق عورشم نمالاسلجم لذخ هم - » -٠٠
+File data/JSTORArabic-ground-truth/380bd7d7-575e-4b97-a564-fd8f8628d028.lstmf line 0 :
+Mean rms=1.841%, delta=5.151%, train=19.65%(33.651%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/a2fedd81-89bc-4fe9-9745-0df3d2297338.lstmf
+Iteration 820: GROUND  TRUTH : اهلمش ةسسؤم ١٨٦١ لصا نم ةسسؤم ١٠٣١ وه لامع ٩و ٥ نيب اهلامع ددع حوارتي
+Iteration 820: BEST OCR TEXT : اهلعم ةسسؤم ١/١ لصا نم ةسسؤم ١٠١١ وه لامع و ه نيب اهلاع ددع حوارتي
+File data/JSTORArabic-ground-truth/8fa6ab22-0697-4287-8f71-11f5537e8735.lstmf line 0 :
+Mean rms=1.841%, delta=5.151%, train=19.645%(33.658%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/8622e576-ff17-4fd0-8d77-e4456bec14fc.lstmf
+Iteration 821: GROUND  TRUTH : . ص ١٩٢ . ت . ال ،يبرعلا بتاكلا راد ،توريب . رعش ،تاملكلاو رانلا
+Iteration 821: ALIGNED TRUTH : . ص ١٩٢٢٢ . . . ت . ال ،،يبرعلا بتاكلا راد ،،توريب . رعش ،،تاملكلاو رانلا
+Iteration 821: BEST OCR TEXT : ء ص ١١   تاال  يبرعلا بناكلا راد  توريب * رعش , تاملكلاو رانلا
+File data/JSTORArabic-ground-truth/47168a97-3f2f-4604-803a-62d6472ebaa4.lstmf line 0 :
+Mean rms=1.842%, delta=5.154%, train=19.655%(33.707%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/7d856283-1ed2-4bed-a25b-f87c447aaa68.lstmf
+Iteration 822: GROUND  TRUTH : حمالم ،مالسالا ىف يعامتجالا ماظنلا ،ضئارفلا وا تادابعلا ،ةيمالسالا ةديقعلا
+Iteration 822: BEST OCR TEXT : حمالم  مالسالا ىف يعاتجالا ماظنلا ضئارفلا وا تادابعلا ةيمالسالا ةديقعلا
+File data/JSTORArabic-ground-truth/8e298f55-d52c-46aa-bd2e-753761aa5959.lstmf line 0 :
+Mean rms=1.841%, delta=5.151%, train=19.64%(33.714%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/dece6c17-1bc7-4ca3-9f0a-393e6e938ea0.lstmf
+Iteration 823: GROUND  TRUTH : ةروصملا فئاطللا
+File data/JSTORArabic-ground-truth/4260dc44-461d-4fab-b67c-5064d0855562.lstmf line 0 (Perfect):
+Mean rms=1.84%, delta=5.144%, train=19.616%(33.673%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/6a7e0691-bf02-4f78-ad91-2d22c5df8ca6.lstmf
+Iteration 824: GROUND  TRUTH : . كأوان نم كبيهت . ٩٦
+Iteration 824: ALIGNED TRUTH : . كأوان نم كبيهت .  ٩٦
+Iteration 824: BEST OCR TEXT : . كلأوان نم كبيهت .١
+File data/JSTORArabic-ground-truth/77a9ef1c-299d-48d5-8878-040521a6cca4.lstmf line 0 :
+Mean rms=1.84%, delta=5.142%, train=19.621%(33.693%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/c3adc0b0-5af2-48c2-a241-c65eea5b96fd.lstmf
+Iteration 825: GROUND  TRUTH : تالجسلاب هيف ظفتحي ةدحاو ةرادا تحتو دحاو ناكم يف عقي زکرم يهو . ام
+Iteration 825: BEST OCR TEXT : تالجسلاب هيف ظفتحي ةدحاو ةرادا تحتو دحاو ناكم يف عقي زكرم يهو . ام
+File data/JSTORArabic-ground-truth/9960ca60-db72-4070-be27-12baee95f8f7.lstmf line 0 :
+Mean rms=1.84%, delta=5.138%, train=19.601%(33.661%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/667741db-7996-4de0-93f4-80b42da817b6.lstmf
+Iteration 826: GROUND  TRUTH : : لوالا اهعاتجا يف ررقتس يتلا
+File data/JSTORArabic-ground-truth/65d0aeb6-0254-4742-b6df-aa0f8e22bce6.lstmf line 0 :
+Mean rms=1.838%, delta=5.133%, train=19.577%(33.62%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/1756756a-7265-41b6-aa49-f920b9d22f8b.lstmf
+Iteration 827: GROUND  TRUTH : . اهنعً اديبع ناك قرشلا نال ةيبوروالا مصاوعلا
+Iteration 827: BEST OCR TEXT : . اهنع ًاديعب ناك قرشلا نال ةيبوروالا مصاوعلا
+File data/JSTORArabic-ground-truth/55992ca2-3288-43bb-94e5-a83c86e62459.lstmf line 0 :
+Mean rms=1.838%, delta=5.132%, train=19.554%(33.61%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/98c9c423-a898-4846-a761-7f3b87e1c090.lstmf
+Iteration 828: GROUND  TRUTH : . طرقلاك اهفرط يف قلعت الو نذألا ةفاح ىلع ةداع
+File data/JSTORArabic-ground-truth/a2fedd81-89bc-4fe9-9745-0df3d2297338.lstmf line 0 (Perfect):
+Mean rms=1.837%, delta=5.126%, train=19.53%(33.569%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/e6ac56ea-c564-490b-9fc8-e8a8f3c8096c.lstmf
+Iteration 829: GROUND  TRUTH : راوطالا سرد ىلا كلذ هزفحيف ةيعامتجالاو ةينطولا لامعالا نم ةثيدحلا ةيرصملا
+Iteration 829: BEST OCR TEXT : راوطالا سرد ىلا كلذ هزفحيف ةيعاتج الاو ةينطولا لامعالا نم ةثيدحلا ةيرصلا
+File data/JSTORArabic-ground-truth/8622e576-ff17-4fd0-8d77-e4456bec14fc.lstmf line 0 :
+Mean rms=1.835%, delta=5.121%, train=19.511%(33.551%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/7c698574-9bda-477b-9937-9d72930e1d7d.lstmf
+Iteration 830: GROUND  TRUTH : قوقحلا هذه يمحي نوناقلاو ،ةلودلل اهنا ىلع ةحارص صني مل يتلا قوقحلا لك مهلف
+Iteration 830: ALIGNED TRUTH : قوقحلا هذه يمحي نوناقلاو ،،ةلودلل اهنا ىلع ةحارص صني مل يتلا قوقحلا لك مهلف
+Iteration 830: BEST OCR TEXT : قوقحلا هذه يمحي نوناقلاو  ةلودلل اهنا ىلع ةحارص صني مل يتلا قوقحلا لك مهلف
+File data/JSTORArabic-ground-truth/7d856283-1ed2-4bed-a25b-f87c447aaa68.lstmf line 0 :
+Mean rms=1.834%, delta=5.115%, train=19.491%(33.519%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/c430e433-1c13-42b9-b52f-8fb1a0807689.lstmf
+Iteration 831: GROUND  TRUTH : . ةيرشبلا اهاوقل طيطختلا ىلع ةسسؤملا
+Iteration 831: BEST OCR TEXT : . ةيرشبلا اهاوقل طيطختلا لع ةسسؤملا
+File data/JSTORArabic-ground-truth/dece6c17-1bc7-4ca3-9f0a-393e6e938ea0.lstmf line 0 :
+Mean rms=1.833%, delta=5.111%, train=19.471%(33.499%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/700f001b-34a1-45a6-bd71-6b8222d172a3.lstmf
+Iteration 832: GROUND  TRUTH : (١١١) افرحم ًاملًق وأ ًةمداق افوشت اذإ هينذأ نأك -
+Iteration 832: BEST OCR TEXT : الافزحم املق وأ ةمداق افؤشت اذإ هينذأ نأك -
+File data/JSTORArabic-ground-truth/6a7e0691-bf02-4f78-ad91-2d22c5df8ca6.lstmf line 0 :
+Mean rms=1.833%, delta=5.111%, train=19.484%(33.519%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/08cd9a6c-dc62-48b1-9749-7d44f4a9743b.lstmf
+Iteration 833: GROUND  TRUTH : لئاسوو جاوزلا قئالعو اهيف ةيبرتلا بيلاساو اهميق هيف امب ةيقبطلا زرا رفك ةايح
+Iteration 833: BEST OCR TEXT : لئاسوو جاوزلا قئالعو اهيف ةيبرتلا بيلاساو اهميق هيف امبةيقبطلا زرا رفك ةايح
+File data/JSTORArabic-ground-truth/c3adc0b0-5af2-48c2-a241-c65eea5b96fd.lstmf line 0 :
+Mean rms=1.832%, delta=5.106%, train=19.462%(33.497%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/2747d4ac-30da-4c12-8ca7-d3f34d4f99d6.lstmf
+Iteration 834: GROUND  TRUTH : . يقوش ،فيض
+Iteration 834: BEST OCR TEXT : . يقفوس  فيض
+File data/JSTORArabic-ground-truth/667741db-7996-4de0-93f4-80b42da817b6.lstmf line 0 :
+Mean rms=1.834%, delta=5.126%, train=19.493%(33.537%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/6b712945-2fef-4dac-91f0-99e0a60a9262.lstmf
+Iteration 835: GROUND  TRUTH : . ١ ج . ١٩٦٣ ،دعسا ةعبطم ،دادغب . ةهاكف - نف - خيرات - بدا . تاماقملا
+Iteration 835: BEST OCR TEXT : ١ ج  . ١ دعسا ةعبيطم دادغب . ةهاكف - نف  خيرات - بدا . تاماقللا
+File data/JSTORArabic-ground-truth/1756756a-7265-41b6-aa49-f920b9d22f8b.lstmf line 0 :
+Mean rms=1.834%, delta=5.125%, train=19.487%(33.543%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/4e60d663-1d87-4393-8f55-a43ceaafa064.lstmf
+Iteration 836: GROUND  TRUTH : ام نوكي نا وجرا» : نيترابعلا نيتاهب امهنع ريبعتلا نكمي ناساسحا هناكم دجوي
+Iteration 836: BEST OCR TEXT : ام نوكي نا وجرا « : نيترابعلا نيتاه امهنع ريبعتلا نكمي ناساسحا هناكم دجوي
+File data/JSTORArabic-ground-truth/98c9c423-a898-4846-a761-7f3b87e1c090.lstmf line 0 :
+Mean rms=1.834%, delta=5.123%, train=19.47%(33.521%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/bd02fd4d-8285-4a57-9324-99bc8aab4f79.lstmf
+Iteration 837: GROUND  TRUTH : ةوقب حتفي نا يرشبلا ءاكذلا ىلع بترتي : ةحضاو ةحيرص اهلوقنلو . ةفسلفلا يف هسسأ
+Iteration 837: BEST OCR TEXT : ةوقب حتفي نا يرشبلا ءاكذلا ىلع بترتي : ةحضاو ةحبرص اهلوقنلو . ةفسلفلا يف هسأ
+File data/JSTORArabic-ground-truth/e6ac56ea-c564-490b-9fc8-e8a8f3c8096c.lstmf line 0 :
+Mean rms=1.833%, delta=5.118%, train=19.452%(33.497%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/dea47dd8-7f98-4905-a022-54454d298d0b.lstmf
+Iteration 838: GROUND  TRUTH : يأر بسح لعفلاب تارارقلا ذختتف ،اياضقلا فلتخم لوح مهتاوصاب اوثعبي نا
+Iteration 838: BEST OCR TEXT : يأر بسح لعفلاب تارارقلا ذختتف اياضقلا فلتخم لوح مهتاوصاب اوثعبي نا
+File data/JSTORArabic-ground-truth/7c698574-9bda-477b-9937-9d72930e1d7d.lstmf line 0 :
+Mean rms=1.832%, delta=5.113%, train=19.43%(33.468%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/c5107fa8-0817-44a3-913c-4ce0d022c9ea.lstmf
+Iteration 839: GROUND  TRUTH : ةيدرفلا تايرحلا نم قبي ملو . ءافشلا بعص يركفلا لوحلا نم سم هبف يعويشلا
+Iteration 839: BEST OCR TEXT : ةيدرفلا تايرحلا نم قبي ملو . ءافشلا بعص يركفلا لوحلا نم سم هريف يعويشلا
+File data/JSTORArabic-ground-truth/c430e433-1c13-42b9-b52f-8fb1a0807689.lstmf line 0 :
+Mean rms=1.831%, delta=5.108%, train=19.412%(33.437%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/66a201b4-d0f9-41c7-bd42-2dbb36a0b645.lstmf
+Iteration 840: GROUND  TRUTH : يذلا عضولا ةقيقح ةفرعمل ةلاحلا هذه سرد ىوس انيلع امو . ةنهارلا ةيعقاولا ةلاحلا
+Iteration 840: BEST OCR TEXT : يذلا عضولا ةقيقح ةفرعمل ةلالا هذه سرد ىوس انيلع امو . ةنهارلا ةيعقاولا ةلاحلا
+File data/JSTORArabic-ground-truth/700f001b-34a1-45a6-bd71-6b8222d172a3.lstmf line 0 :
+Mean rms=1.829%, delta=5.102%, train=19.391%(33.406%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/0184326e-dee6-41fd-9b05-2e5b47f503ba.lstmf
+Iteration 841: GROUND  TRUTH : . رتيب ،دراجروب
+Iteration 841: BEST OCR TEXT : . رتيب دراجروب
+File data/JSTORArabic-ground-truth/08cd9a6c-dc62-48b1-9749-7d44f4a9743b.lstmf line 0 :
+Mean rms=1.829%, delta=5.099%, train=19.376%(33.405%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/3bb88c62-2586-4a70-b7e9-b5af0472737e.lstmf
+Iteration 842: GROUND  TRUTH : (١٩٤٨ ربمفون ١٣ - ١٩٤٧ ربمفون ٢٥ ةقفاوملا)ا ١٣٦٧ ةيرجهلا ةنسلل ةينطولا ةينازيملا ،دالبلا
+Iteration 842: ALIGNED TRUTH : (١٩٤٨ ربمفون ١٣ ٣ - ١٩٤٧ ربمفون ٢٥ ةقفاوملا)ا ١١٣٧ ةيرجهلا ةنسلل ةينطولا ةينازيملا ،دالبلا
+Iteration 842: BEST OCR TEXT : )١٠١ريفون -١ ريفون  ةقفاوملال ةيرجهلا ةنبلل ةينطولاةينازيملا هدالبلا
+File data/JSTORArabic-ground-truth/2747d4ac-30da-4c12-8ca7-d3f34d4f99d6.lstmf line 0 :
+Mean rms=1.83%, delta=5.102%, train=19.393%(33.476%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/e76dfd0e-56ae-438f-ad58-c710e0f675bc.lstmf
+Iteration 843: GROUND  TRUTH : حیرجلا حرج نيدفت يتلا تنأ
+Iteration 843: ALIGNED TRUTH : حیرجلا حرج نيددفت يتلا تنأ
+Iteration 843: BEST OCR TEXT : حيرجلا حرج نيراقت يتلا تنأ
+File data/JSTORArabic-ground-truth/6b712945-2fef-4dac-91f0-99e0a60a9262.lstmf line 0 :
+Mean rms=1.831%, delta=5.103%, train=19.403%(33.484%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/9e3483c0-03f8-4fa0-a86c-e441a25d7a85.lstmf
+Iteration 844: GROUND  TRUTH : طوطخب لب ،ةايحلل لباق يداصتقا طيطخت وا يفارغج قطنم ريغب هدودح
+Iteration 844: BEST OCR TEXT : طوطخب لب »ةايحلل لباق يداصتقا طيطخت وا ىفارغج قطنم ريغب هدودح
+File data/JSTORArabic-ground-truth/4e60d663-1d87-4393-8f55-a43ceaafa064.lstmf line 0 :
+Mean rms=1.831%, delta=5.099%, train=19.388%(33.466%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/cabb5aa3-53c7-47cb-87a6-ff7d55bb0e2c.lstmf
+Iteration 845: GROUND  TRUTH : تيبلاو طيغلا يف دماحو ،هناريجو دماح ناك مث . يرصملا دماح ىلا يكريمالا
+Iteration 845: BEST OCR TEXT : تيبلاو طيغلا يف دماحو هناريجو دماح ناك مث . يرصملا دماح ىلا يكريمالا
+File data/JSTORArabic-ground-truth/bd02fd4d-8285-4a57-9324-99bc8aab4f79.lstmf line 0 :
+Mean rms=1.829%, delta=5.094%, train=19.367%(33.435%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/2098e4e7-0dad-4fa7-a491-8a8c3f144b6b.lstmf
+Iteration 846: GROUND  TRUTH : ةكرش ةرادا سلجم سيئر لوقيو . «لبقتسملا يف مدقتلا روذب نوکتل حابرالا
+Iteration 846: BEST OCR TEXT : ةكرش ةرادا سلجم سيئر لوقيو . »لبقتسملا يف مدقتلا روذب نوكتل حابرالا
+File data/JSTORArabic-ground-truth/dea47dd8-7f98-4905-a022-54454d298d0b.lstmf line 0 :
+Mean rms=1.829%, delta=5.091%, train=19.351%(33.415%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/882ed0b7-e1e3-4476-ab79-f0500e4b3569.lstmf
+Iteration 847: GROUND  TRUTH : وأ داهشالا تقول اهيف خيراتلا ناك نإ نايب امهنم ةدحاو يف سيل ذإ ،ةلمجم ةداهش يهو ،اهتنبال
+Iteration 847: BEST OCR TEXT : وأ داهشالا تقول اهيف خيراتلا ناك نإ نايب امهنم ةدحاو يف سيل ذإ  ةلمجم ةداهش يهو  اهتنبال
+File data/JSTORArabic-ground-truth/c5107fa8-0817-44a3-913c-4ce0d022c9ea.lstmf line 0 :
+Mean rms=1.828%, delta=5.087%, train=19.334%(33.39%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/33685914-2781-486d-b351-658034f58669.lstmf
+Iteration 848: GROUND  TRUTH : هللا ىلا عوسي ةرظنو . «(٢) ناتقبش انامل ليا ،ليا» : لاقف هوهيب ال لیأب
+Iteration 848: ALIGNED TRUTH : هللا ىلا عوسي ةرظنو . «(٢)  ناتقبش انامل ليا ،ليا» : لاقف هوهيب ال لیأب
+Iteration 848: BEST OCR TEXT : للا ىلا عوسي ةرظنو . »ناتقبش انامل ليا ليا « : لاقف هوهيب ال ليأب
+File data/JSTORArabic-ground-truth/66a201b4-d0f9-41c7-bd42-2dbb36a0b645.lstmf line 0 :
+Mean rms=1.828%, delta=5.088%, train=19.323%(33.39%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/9e2c209f-ce85-472e-8509-52d3696f0917.lstmf
+Iteration 849: GROUND  TRUTH : رهن یرجم طبضل نانبل يف دس ماقي : عورشملل ةيسيئرلا طوطخلا يلي اميفو
+Iteration 849: BEST OCR TEXT : رهن ىرجم طبضل تانبل يف دس ماقي : عورشملل ةيسيئرلا طوطخلا يلي اهفو
+File data/JSTORArabic-ground-truth/0184326e-dee6-41fd-9b05-2e5b47f503ba.lstmf line 0 :
+Mean rms=1.828%, delta=5.087%, train=19.312%(33.378%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/4aca3fc2-8058-4d44-bf45-55fd67e0d705.lstmf
+Iteration 850: GROUND  TRUTH : . نيرشعلا نرقلا يف لوبقملا حيصفلا وحن ةعرسب عفترت ةيبرعلا ةيبعشلا
+Iteration 850: BEST OCR TEXT : . نيرسشعلا نرقلايف لوبقملا حيصفلا وحن ةعرسب عفترت ةيبرعلا ةيبعشلا
+File data/JSTORArabic-ground-truth/3bb88c62-2586-4a70-b7e9-b5af0472737e.lstmf line 0 :
+Mean rms=1.827%, delta=5.082%, train=19.293%(33.37%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/e00b536f-de11-4f10-b30e-f9b0a29a1263.lstmf
+Iteration 851: GROUND  TRUTH : عم بنج ىلا ًابنج خيراتلا يف ريست تناك لب ١٩٤٥ ماعب أدبت مل ةيريشبتلا
+Iteration 851: BEST OCR TEXT : عم بنج ىلا ابنج خيراتلا يف ريست تناك لب ١ ماعب ادنبت مل ةيريشبتلا
+File data/JSTORArabic-ground-truth/e76dfd0e-56ae-438f-ad58-c710e0f675bc.lstmf line 0 :
+Mean rms=1.827%, delta=5.081%, train=19.283%(33.356%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/6affbbb2-22f2-487b-9ab0-35c7a9d85bdd.lstmf
+Iteration 852: GROUND  TRUTH : . ٣٧٧ ربحملا بيبح نبا (١١
+Iteration 852: ALIGNED TRUTH : . ٣٧٧٧٧ ربحملا بيبح نبا (١١
+Iteration 852: BEST OCR TEXT : . ب ربحملا بيبح نبا )١١
+File data/JSTORArabic-ground-truth/9e3483c0-03f8-4fa0-a86c-e441a25d7a85.lstmf line 0 :
+Mean rms=1.827%, delta=5.081%, train=19.288%(33.356%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/1a898eb5-8b24-4ae5-a5fb-00be12925b85.lstmf
+Iteration 853: GROUND  TRUTH : : ةريخالا تاونسلا
+File data/JSTORArabic-ground-truth/cabb5aa3-53c7-47cb-87a6-ff7d55bb0e2c.lstmf line 0 (Perfect):
+Mean rms=1.826%, delta=5.075%, train=19.266%(33.317%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/319bac3a-6aa8-4925-aef4-5d72a3e57fc3.lstmf
+Iteration 854: GROUND  TRUTH : ام هموقو ،هفلأيو غارفلا يلحتسيف هتحماسم يف نعمت الو ،هنهذ تيمتف هب قرخت
+Iteration 854: BEST OCR TEXT : ام هموقو هفلأيو غارفلا يلحتسيف هتعاسم يف نعمق الو هنهذ تيمتف هب قرخت
+File data/JSTORArabic-ground-truth/2098e4e7-0dad-4fa7-a491-8a8c3f144b6b.lstmf line 0 :
+Mean rms=1.826%, delta=5.071%, train=19.255%(33.314%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/d404c3a4-53db-4f18-bd42-df508d65c330.lstmf
+Iteration 855: GROUND  TRUTH : يريدم دحا هلاق امیف ةمكحلا ودبت انھو . لبقتسملا يف عساو قاطن ىلع ضارتقالا
+Iteration 855: BEST OCR TEXT : يريدم دحا هلاق اهف ةمكحلا ودبت انهو . لبقتسملا يف عساو قاطن ىلع ضارتقالا
+File data/JSTORArabic-ground-truth/882ed0b7-e1e3-4476-ab79-f0500e4b3569.lstmf line 0 :
+Mean rms=1.826%, delta=5.068%, train=19.24%(33.292%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/f1503d8b-ea37-4916-82da-8c29db58730c.lstmf
+Iteration 856: GROUND  TRUTH : ةبقاعمو نيمهتملا نم نينثا مادعاب يضقي وهو ،ماعلا يركسعلا مكاحلا هيلع قدص نا
+Iteration 856: BEST OCR TEXT : ةبقاعمو نيمهتملا نم نينثا مادعاب يضقي وهو »ماعلا يركسعلا مئاحلا هيلع قدص نا
+File data/JSTORArabic-ground-truth/33685914-2781-486d-b351-658034f58669.lstmf line 0 :
+Mean rms=1.825%, delta=5.064%, train=19.224%(33.271%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/4113970b-f8c1-4c27-91de-212c32a44ed7.lstmf
+Iteration 857: GROUND  TRUTH : ٥٥٦/٥ يساردلا ماعلا يف ٦٨ اهبالط ددعو - نامع يف نيملعملا راد - ١
+Iteration 857: ALIGNED TRUTH : ٥٥٦/٥٥ يساردلا ماعلا يف ٦٨ اهبالط ددعو - نامع يف نيملعملا راد - ١
+Iteration 857: BEST OCR TEXT : ه/مو يماردلا ماعلا يف +م اهبالط ددعو - نامع يف نيملعملا راد - ١
+File data/JSTORArabic-ground-truth/9e2c209f-ce85-472e-8509-52d3696f0917.lstmf line 0 :
+Mean rms=1.825%, delta=5.063%, train=19.225%(33.257%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/2042e8e9-2dd8-411a-80ec-b4a8d9feac2f.lstmf
+Iteration 858: GROUND  TRUTH : ةيلهألا يعدت ةبخن وا ،ةنيعم ةفئاط ىلع رصتقت ال ةميلسلا ةيعامتجالا ةضهنلاف
+Iteration 858: BEST OCR TEXT : الهألا يعادت ةبخن وا ةنيعم ةفئاط ىلع رصتقت ال ةميلسلا ةيعامتجالا ةضهنلاف
+File data/JSTORArabic-ground-truth/4aca3fc2-8058-4d44-bf45-55fd67e0d705.lstmf line 0 :
+Mean rms=1.824%, delta=5.059%, train=19.211%(33.248%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/416d9d98-bbbb-4ca3-a255-7836c8402557.lstmf
+Iteration 859: GROUND  TRUTH : . ةمئاقلا تايناكمالاو فورظلا
+Iteration 859: BEST OCR TEXT : . ةئاقلا تايناكم الاو فورظلا
+File data/JSTORArabic-ground-truth/e00b536f-de11-4f10-b30e-f9b0a29a1263.lstmf line 0 :
+Mean rms=1.823%, delta=5.057%, train=19.197%(33.267%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/82947495-1a64-4603-b165-3abc7dc14576.lstmf
+Iteration 860: GROUND  TRUTH : ةيمالسالا ةوعدلاو لوسرلا روهظ مکحب ،امهنع اندنع نيتللا ةنيدملاو ةكم يف ةدئاسلا
+Iteration 860: BEST OCR TEXT : ة يمالسالا ةوعدلاو لوسرلا روهظ مكحب اههنع اندنع نيتللا ةنيدملاو ةكم يف ةدئاسلا
+File data/JSTORArabic-ground-truth/6affbbb2-22f2-487b-9ab0-35c7a9d85bdd.lstmf line 0 :
+Mean rms=1.823%, delta=5.054%, train=19.183%(33.258%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/872ea1e3-1c16-4407-b33f-937469d623eb.lstmf
+Iteration 861: GROUND  TRUTH : حلاصمو اهتحلصم نا ذا . رطيسملا اهذوفنو اهتوق اهيلع اهتضرف يتلا ةيلوؤسملا ًامامت
+Iteration 861: BEST OCR TEXT : حلاصمو اهتحلصم نا ذا .رطيسملا اهذوفنو اهتوق اهيلع اهتضرف يتلا ةيلوؤسملا اماق
+File data/JSTORArabic-ground-truth/1a898eb5-8b24-4ae5-a5fb-00be12925b85.lstmf line 0 :
+Mean rms=1.822%, delta=5.05%, train=19.169%(33.246%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/ebfae000-d037-451c-98c6-858f85ab3fa4.lstmf
+Iteration 862: GROUND  TRUTH : ىلوألا ةيمالسإلا دوهعلا يف
+Iteration 862: ALIGNED TRUTH : ىلوألا ةيمالسسإلا دوهعلا يفيف
+Iteration 862: BEST OCR TEXT : لوألا بالالا رونعلا ث
+File data/JSTORArabic-ground-truth/319bac3a-6aa8-4925-aef4-5d72a3e57fc3.lstmf line 0 :
+Mean rms=1.824%, delta=5.061%, train=19.213%(33.323%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/4544bf37-4c5a-42a9-b91f-62359c9fab4b.lstmf
+Iteration 863: GROUND  TRUTH : اهيلع امو ضرالاب فرصتلا ةيرح خيشلا وا ريمالا یطعي ناکو . (١) اهب ماق ةدعاسم
+Iteration 863: BEST OCR TEXT : اهيلع امو ضرالاب فرصتلا ةيرح خيشلا وا ريمالا ىطعي ناك و."ا!اهب ماق ةدعاسم
+File data/JSTORArabic-ground-truth/d404c3a4-53db-4f18-bd42-df508d65c330.lstmf line 0 :
+Mean rms=1.824%, delta=5.059%, train=19.209%(33.323%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/f09518a3-6886-4a9d-9c45-11ebd3811f05.lstmf
+Iteration 864: GROUND  TRUTH : . ص ١٧٢ . ت . ال ،ةايحلا ةبتكم راد ،توريب . ريخلاو بحلا روذب
+Iteration 864: ALIGNED TRUTH : . ص ١٧٧٢٢ .. ت . ال ،،ةايحلا ةبتكم راد ،،توريب . ريخلاو بحلا روذب
+Iteration 864: BEST OCR TEXT : ٠ ص ١١/؟  ت ال  ةايحلا هبتكم راد  توريب ٠ ريخلاو بحلا روذب
+File data/JSTORArabic-ground-truth/f1503d8b-ea37-4916-82da-8c29db58730c.lstmf line 0 :
+Mean rms=1.825%, delta=5.062%, train=19.218%(33.346%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/99e158f2-44f6-40ac-9d29-9d32ffafd19e.lstmf
+Iteration 865: GROUND  TRUTH : ريغص ءزج تاذلا نأ مأ تاذلا يعول ةجيتن دوجو وه ثيح نم ملاعلا له
+File data/JSTORArabic-ground-truth/4113970b-f8c1-4c27-91de-212c32a44ed7.lstmf line 0 (Perfect):
+Mean rms=1.823%, delta=5.056%, train=19.196%(33.308%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/593747db-893d-4309-ac5e-20b4777b4d43.lstmf
+Iteration 866: GROUND  TRUTH : الا ،ةلثامملا ندملا لود يف ًامئاق ناك ام هبشت يهو ،ةدابعلا زكارم نوؤش ميظنتو جاجحلا
+Iteration 866: BEST OCR TEXT : الا ةلثامملا ندملا لود يف ائاق ناك ام هبشت يهو ةدابعلا زكارم نوؤش ميظنتو جاجحلا
+File data/JSTORArabic-ground-truth/2042e8e9-2dd8-411a-80ec-b4a8d9feac2f.lstmf line 0 :
+Mean rms=1.822%, delta=5.052%, train=19.179%(33.293%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/e3c89e32-47a4-413f-a1a2-86d266f3f440.lstmf
+Iteration 867: GROUND  TRUTH : يف اهنم ةيقبسالا هل امو دالبلل ةمزاللا تاعانصلا ريدقت يف یعاري ام مها نا كش ال
+Iteration 867: BEST OCR TEXT : يف اهنم ةيقبسالا هل امو دالبلل ةمزاللا تاعانصلا ريدقت يف ىعاري ام مهانا كش اال
+File data/JSTORArabic-ground-truth/416d9d98-bbbb-4ca3-a255-7836c8402557.lstmf line 0 :
+Mean rms=1.821%, delta=5.049%, train=19.163%(33.283%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/a3cd6322-8c35-46e8-8e95-bc8b88f6c246.lstmf
+Iteration 868: GROUND  TRUTH : ? ? (دحأ وا) زجا مهللا
+Iteration 868: BEST OCR TEXT : 7 9 )دحأ وا ( زجا مهللا
+File data/JSTORArabic-ground-truth/82947495-1a64-4603-b165-3abc7dc14576.lstmf line 0 :
+Mean rms=1.823%, delta=5.055%, train=19.167%(33.321%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/f0b4513b-2a00-44da-b42f-f21ac555934c.lstmf
+Iteration 869: GROUND  TRUTH : . ةعماجلا سلجم ىف ءاضعالا ةيبرعلا لودلا عيمج نع نيلثمم روضحو يدوعسلا ةلودلا
+Iteration 869: BEST OCR TEXT : . ةعماجلا سلجم قف ءاضعالا ةيبرعلا لودلا عيمج نع نيلثمم روضحو يدوعسلا ةلودلا
+File data/JSTORArabic-ground-truth/872ea1e3-1c16-4407-b33f-937469d623eb.lstmf line 0 :
+Mean rms=1.822%, delta=5.05%, train=19.148%(33.292%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/ae27dffb-69cc-4042-ad60-95dc1ed050fa.lstmf
+Iteration 870: GROUND  TRUTH : ىصقا يف لزت مل ةبوصخلا نكلو . ةيحصلا لئاسولاو ةيبطلا مولعلا يف مدقتلا لضفب
+File data/JSTORArabic-ground-truth/ebfae000-d037-451c-98c6-858f85ab3fa4.lstmf line 0 (Perfect):
+Mean rms=1.82%, delta=5.044%, train=19.126%(33.254%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/c7652d9b-f8b2-4940-b151-d375aa354e79.lstmf
+Iteration 871: GROUND  TRUTH : ١٨٤١ (يدنفا يمويب ةمجرت) ةلمكم ةلباقملا ربج باتك
+Iteration 871: ALIGNED TRUTH : ١٨٨٤١ ((يدنفا يمويب ةمجرت) ةلمكم ةلباقملا ربج باتك
+Iteration 871: BEST OCR TEXT : ١١١ ) يدنفا يمويب ةمجرت ( ةلمكم ةلباقملا ربج باتك
+File data/JSTORArabic-ground-truth/4544bf37-4c5a-42a9-b91f-62359c9fab4b.lstmf line 0 :
+Mean rms=1.821%, delta=5.048%, train=19.116%(33.259%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/04b54d2a-d32d-4d7a-b2ef-7b2e1372eef5.lstmf
+Iteration 872: GROUND  TRUTH : . ص ٢٦١ . ١٩٦٤ ةيخيراتلا
+Iteration 872: ALIGNED TRUTH : . ص ٢٢٦٦٦١١ . ١٩٦٦٤٤ ةيخيراتلا
+Iteration 872: BEST OCR TEXT : . ص ١١  . ١١ ةيخيراتلا
+File data/JSTORArabic-ground-truth/f09518a3-6886-4a9d-9c45-11ebd3811f05.lstmf line 0 :
+Mean rms=1.822%, delta=5.051%, train=19.133%(33.259%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/4b03496d-4498-48fd-8be3-6c932db50c99.lstmf
+Iteration 873: GROUND  TRUTH : ررقتس يتلا ةجيتنلا يف يهو . ًامتح اهل تقولا ناح رومالا هذه - اياضقلا حيضوتو
+Iteration 873: BEST OCR TEXT : ررقتس ينلا ةجيتنلا يف يهو .ًامتح اهل تقولا ناح رومالا هذه - اياضقلا حيضوتو
+File data/JSTORArabic-ground-truth/99e158f2-44f6-40ac-9d29-9d32ffafd19e.lstmf line 0 :
+Mean rms=1.82%, delta=5.047%, train=19.115%(33.244%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/9790aeed-b98b-4e82-af9c-12650a381429.lstmf
+Iteration 874: GROUND  TRUTH : ام دح ىلا ةهيبش ةقيرطب ةيعامتجالاو ةيداصتقالا نينطاوملا قوقح ددحو امك
+Iteration 874: BEST OCR TEXT : ام دح ىلا ةهيبش ةقيرطب ةيعاتجالاو ةيداصتقالا نينطاوملا قوقح ددحو مك
+File data/JSTORArabic-ground-truth/593747db-893d-4309-ac5e-20b4777b4d43.lstmf line 0 :
+Mean rms=1.819%, delta=5.042%, train=19.097%(33.226%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/379654e4-9293-4fa6-8245-19d9ed061bce.lstmf
+Iteration 875: GROUND  TRUTH : ناملربلا ءاضعا ،سما رهظ دعب ،هجغاب املود رصق يف ناطلسلا لبقتسا»
+Iteration 875: ALIGNED TRUTH : نناملربلا ءاضعا ،سما رهظ دعب ،هجغاب املود رصق يف ناطلسلا لبقتسا»
+Iteration 875: BEST OCR TEXT : سراملربلا ءاضعا  سما رهظ دعب هجغاب املود رصق يف ناطلسلا لبقتسا «
+File data/JSTORArabic-ground-truth/e3c89e32-47a4-413f-a1a2-86d266f3f440.lstmf line 0 :
+Mean rms=1.82%, delta=5.045%, train=19.091%(33.23%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/53fab636-c924-49a6-a3ab-15361ed3a71b.lstmf
+Iteration 876: GROUND  TRUTH : يف الوا ريثأتلا كلذ نوكيف . ةما لك يف ةيبرتلا ةعيبط يف هلهاجت نكمي الً اردو
+Iteration 876: BEST OCR TEXT : يف الوا ريثأتلا كلذ نوكيف . ةما لك يف ةيبرتلا ةعيبط يف هلهاجت نكمي ال ًارود
+File data/JSTORArabic-ground-truth/a3cd6322-8c35-46e8-8e95-bc8b88f6c246.lstmf line 0 :
+Mean rms=1.819%, delta=5.042%, train=19.069%(33.206%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/aa5ba0e2-f8d5-47a8-9bc3-c31bf4402994.lstmf
+Iteration 877: GROUND  TRUTH : تاونسلا هذھ مسقنتو . تاونس عبرا رمتسي يذلا يكريمالا ماظنلا فلاخي اذهبو
+Iteration 877: BEST OCR TEXT : تاونسلا هذه مسقنتو . تاونس عبرا رمتسي يذلا يكريمالا ماظنلا فلاخي اذهبو
+File data/JSTORArabic-ground-truth/f0b4513b-2a00-44da-b42f-f21ac555934c.lstmf line 0 :
+Mean rms=1.819%, delta=5.038%, train=19.051%(33.178%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/337ec96b-96df-4791-bd4e-6666da7fb3a7.lstmf
+Iteration 878: GROUND  TRUTH : . اهنم نودفوتسي يتلا دالبلل وا
+Iteration 878: BEST OCR TEXT : . اهنم نودفوتسي يتلا دالبلل و
+File data/JSTORArabic-ground-truth/ae27dffb-69cc-4042-ad60-95dc1ed050fa.lstmf line 0 :
+Mean rms=1.818%, delta=5.034%, train=19.033%(33.159%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/8d82f1a4-b491-4226-9fc6-c4e1aaceadf6.lstmf
+Iteration 879: GROUND  TRUTH : . ريبك قوفتو ،ةيوق ةيزم انيلع هل ناك ،شوشملا انفينصتب نحن هانهباجو ،هتاياغل
+Iteration 879: BEST OCR TEXT : . ريبك قوفتو ةيوق ةيزم انيلع هل ناك  شوشملا انفينصتب نحبن هانهباجو  هتاياغل
+File data/JSTORArabic-ground-truth/c7652d9b-f8b2-4940-b151-d375aa354e79.lstmf line 0 :
+Mean rms=1.818%, delta=5.032%, train=19.021%(33.156%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/ced07a10-49fc-4768-a3aa-879220292517.lstmf
+Iteration 880: GROUND  TRUTH : هللا ليبس يف داهجلاو جحلاو (سمخلا اهبناج ىلاو) ةوكزلاو موصلاو ةالصلا»
+Iteration 880: ALIGNED TRUTH : هللا ليبس يف داهجلاو جحلاو (سمخخلا اهبناج ىلاو) ةوكزلاو موصلاو ةالصلا»
+Iteration 880: BEST OCR TEXT : نلا ليبس يف داهجلاو جحلاو ) سخلا اهبناج ىلاو ( ةوكزلاو موصلاو ةالصلا «
+File data/JSTORArabic-ground-truth/04b54d2a-d32d-4d7a-b2ef-7b2e1372eef5.lstmf line 0 :
+Mean rms=1.818%, delta=5.033%, train=19.014%(33.16%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/5600a472-0e0d-428e-96f7-12841bee6f07.lstmf
+Iteration 881: GROUND  TRUTH : يف ةعافر رمتساو ١٨٦٣ يف دیدج نم ةمجرتلا ملق أشناف داع ليعامسا يويدخلا
+Iteration 881: BEST OCR TEXT : يف ةعافر رمتساو ١ يف ديدج نم ةجرتلا ملق اشناف داع ليعامسا يويدخلا
+File data/JSTORArabic-ground-truth/4b03496d-4498-48fd-8be3-6c932db50c99.lstmf line 0 :
+Mean rms=1.818%, delta=5.031%, train=19.005%(33.157%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/613af1f2-5042-4e61-99d0-a10d3ad0cffd.lstmf
+Iteration 882: GROUND  TRUTH : . (٢٠) ناكمو نامز لك يف دحاولا ناسنالا
+Iteration 882: BEST OCR TEXT : . ! ناكمو نامز لك يف دحاولا ناسنالا
+File data/JSTORArabic-ground-truth/9790aeed-b98b-4e82-af9c-12650a381429.lstmf line 0 :
+Mean rms=1.818%, delta=5.028%, train=18.999%(33.134%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/497674be-7b5f-45ac-b260-d9374c640a46.lstmf
+Iteration 883: GROUND  TRUTH : ةدعاسملا» اهنأب عوبطم نايب يف تفصو ىرخا ضارغا لوألا ضرغلا يليو
+Iteration 883: BEST OCR TEXT : ةدعاسملا « اهنأب عوبطم نايب يف تفصو ىرخا ضارغا لوألا ضرغلا يلبو
+File data/JSTORArabic-ground-truth/379654e4-9293-4fa6-8245-19d9ed061bce.lstmf line 0 :
+Mean rms=1.817%, delta=5.025%, train=18.986%(33.117%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/3c6ccee1-0815-436a-8c6e-51242cfd25d4.lstmf
+Iteration 884: GROUND  TRUTH : . لاوحالا نسحا يف لب ،لاح يا ىلع ةبعص ةيلمع يه ،برغلاب لاصتالا ةجيتنب
+Iteration 884: BEST OCR TEXT : .لاوحالا نسحا يف لب لاح يا ىلع ةبعص ةيلمم يه برغلاب لاصتالا ةجيتنب
+File data/JSTORArabic-ground-truth/53fab636-c924-49a6-a3ab-15361ed3a71b.lstmf line 0 :
+Mean rms=1.816%, delta=5.022%, train=18.973%(33.12%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/cdacf393-fef8-4f22-9385-36ea6421e241.lstmf
+Iteration 885: GROUND  TRUTH : يف «يبلكلا نبال باسنالا ةرهمج نم ةخسن ىع روثملا» اديفالد يفيل ويجرويج ًاضيا عجار
+Iteration 885: BEST OCR TEXT : يف »يلكلا نبال باسنالا ةرهج نم ةخدسن وع روثملا « اديفالد يفيل وجرويج اضيأ عجار
+File data/JSTORArabic-ground-truth/aa5ba0e2-f8d5-47a8-9bc3-c31bf4402994.lstmf line 0 :
+Mean rms=1.817%, delta=5.024%, train=18.966%(33.139%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/8c9f550f-1a31-472d-a717-609d8c392b57.lstmf
+Iteration 886: GROUND  TRUTH : عراشب حرف ردنكسا حرسمل ةرواجملا نفلا ةوهقب ذالف ،هلامها ببسب كنبلا يف هلمع نم ليقأ دقو
+Iteration 886: BEST OCR TEXT : عراشب حرف ردنكسا حرسمل ةرواجملا نفلا ةوهقب ذالف هلامها ببسب كنبلا يف هلمع نم ليقأ دقو
+File data/JSTORArabic-ground-truth/337ec96b-96df-4791-bd4e-6666da7fb3a7.lstmf line 0 :
+Mean rms=1.816%, delta=5.018%, train=18.946%(33.109%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/0bee655b-4c34-4f98-8fa7-b662438853e6.lstmf
+Iteration 887: GROUND  TRUTH : ملعلا ىلع لابقالاو ةيقبطلا ةناكملا
+Iteration 887: ALIGNED TRUTH : مللعلا ىلع لابقالاو ةيقبطلا ةناكملا
+Iteration 887: BEST OCR TEXT : ماِلالعلاسمنالارت تيقبطلا زناعلا
+File data/JSTORArabic-ground-truth/8d82f1a4-b491-4226-9fc6-c4e1aaceadf6.lstmf line 0 :
+Mean rms=1.818%, delta=5.028%, train=18.984%(33.184%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/24f33f2d-bbd6-4e22-af17-a2913ea1fc71.lstmf
+Iteration 888: GROUND  TRUTH : باب عجار) . تارارق ةدع ذختاو «يناودعلا ينويهصلا طاشنلا ةهجاومل
+Iteration 888: ALIGNED TRUTH : باب عجار)) . تارارق ةدع ذختاو «يناودعلا ينويهصلا طاشنلا ةهجاومل
+Iteration 888: BEST OCR TEXT : باب عجار ( . تارارق ةدع ذختاو » يناودعلا يفويهصلا طاشنلا ةهجاول
+File data/JSTORArabic-ground-truth/ced07a10-49fc-4768-a3aa-879220292517.lstmf line 0 :
+Mean rms=1.818%, delta=5.03%, train=18.979%(33.192%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/488435d5-5f3a-4ca9-bec4-6b3cce31b43c.lstmf
+Iteration 889: GROUND  TRUTH : اهدحي الو اهضرتعي الو ومنتو مدقتتل ،صاخشاک مهتيرحو مهتمالسب نييبروالا
+Iteration 889: BEST OCR TEXT : اهدجب الو اهضرتعي الو ومنتو مدقتتل  صاخشاك مهتيرحو مهتمالسب نييبروالا
+File data/JSTORArabic-ground-truth/5600a472-0e0d-428e-96f7-12841bee6f07.lstmf line 0 :
+Mean rms=1.817%, delta=5.027%, train=18.971%(33.177%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/630d884d-6555-4a70-b2d8-05f9560178ea.lstmf
+Iteration 890: GROUND  TRUTH : . لدعلاو ؤفاكتلا أدبم نع دعبلا لك دعبي اذهو ،اهسفن ةينانبللا عئاضبلا
+Iteration 890: BEST OCR TEXT : . لدعلاو ؤفاكتلا ادب. نع دعبلا لك دعبي اذهو  اهسفن ةينانبللا عئاضبلا
+File data/JSTORArabic-ground-truth/613af1f2-5042-4e61-99d0-a10d3ad0cffd.lstmf line 0 :
+Mean rms=1.817%, delta=5.025%, train=18.959%(33.158%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/52a81a3e-fbc2-4d13-b638-6fb4fe73ee6a.lstmf
+Iteration 891: GROUND  TRUTH : ناکو ةيعفاشلا ءاهقف رابك نم (٥٠٧ - ٤٢٩) ركب وبا يشاشلا رمع نب نيسح نب دمحا نب دمحم (٢
+Iteration 891: ALIGNED TRUTH : ناکو ةيعفاشلا ءاهقف رابك نم ((٥٠٧ - ٤٢٩٩) ركب وبا يشاشلا رمع نب نيسح نب دمحا نب دمم (٢
+Iteration 891: BEST OCR TEXT : ناكو ةيعفاشلا ءاهقف رابك نم ) ٠ -  ( ركب وبا يشاشلا رمع نب نيسح نب دمحا نب دمم )
+File data/JSTORArabic-ground-truth/497674be-7b5f-45ac-b260-d9374c640a46.lstmf line 0 :
+Mean rms=1.817%, delta=5.025%, train=18.955%(33.151%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/8b22e8e7-b47d-469e-ad74-19fc87de578d.lstmf
+Iteration 892: GROUND  TRUTH : . ١٩٦١ ،ةيرصملا ةضهنلا ةعبطم ،ةرهاقلا . ثيدحلا رصعلاو عاطقالا نيب ةشبحلا
+Iteration 892: BEST OCR TEXT : . ١١١ ةيرصملا ةضهنلا ةعبطم »ةرهاقلا . ثيدحلا رصعلاو عاطقالا نيب ةشبحلا
+File data/JSTORArabic-ground-truth/3c6ccee1-0815-436a-8c6e-51242cfd25d4.lstmf line 0 :
+Mean rms=1.817%, delta=5.022%, train=18.943%(33.142%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/789ae2a8-599a-4667-ba87-2c3c5798f614.lstmf
+Iteration 893: GROUND  TRUTH : : ناملربلا حاتتفال يلاتلا صنلا ،١٨٧٧ ةنس راذآ نم
+Iteration 893: ALIGNED TRUTH : : ناملربلا حاتتفال يلاتلا صنلا ،١٨٧٧٧ ةنس راذآ نم
+Iteration 893: BEST OCR TEXT : : ناملربلا حاتتفال يلاتلا صنلا ١م// ةنس راذ  نم
+File data/JSTORArabic-ground-truth/cdacf393-fef8-4f22-9385-36ea6421e241.lstmf line 0 :
+Mean rms=1.817%, delta=5.022%, train=18.943%(33.129%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/c6acd32d-8f79-4b59-8ee6-aa91deef1e1d.lstmf
+Iteration 894: GROUND  TRUTH : . ٣٤١/١ ،ردصملا سفن ،نانع (٢
+Iteration 894: ALIGNED TRUTH : . ٣٤١/١ ،ردصملا سفن ،نانع (٢٢
+Iteration 894: BEST OCR TEXT : . ١١ ردصملا سفن »نانع ) 
+File data/JSTORArabic-ground-truth/8c9f550f-1a31-472d-a717-609d8c392b57.lstmf line 0 :
+Mean rms=1.818%, delta=5.027%, train=18.962%(33.167%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/ae1e39e9-5cff-481e-a343-7779c3e8f085.lstmf
+Iteration 895: GROUND  TRUTH : ضعب ىلع نيعلطم اوناک مهف . ةدماج مأ ةيح تناك اذا امع نييعت وأ اهتعيبط لوح
+Iteration 895: BEST OCR TEXT : ضعب ىلع نيعلطم اوناك مهف . ةدماج مأ ةيح تناك اذا امع نييعت وأ اهتعيبط لوح
+File data/JSTORArabic-ground-truth/0bee655b-4c34-4f98-8fa7-b662438853e6.lstmf line 0 :
+Mean rms=1.817%, delta=5.022%, train=18.944%(33.137%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/e5dcb9cf-7265-4be9-bb81-85e59895d887.lstmf
+Iteration 896: GROUND  TRUTH : . مدقت اميف هركذ انرتخا ام انذخا هنعو ،ةيملعلا بتكلا
+Iteration 896: BEST OCR TEXT : . مدقت ايف هركذ انرتخا ام انذخا هنعو ةيملعلا بتكلا
+File data/JSTORArabic-ground-truth/24f33f2d-bbd6-4e22-af17-a2913ea1fc71.lstmf line 0 :
+Mean rms=1.816%, delta=5.018%, train=18.927%(33.122%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/4c9ee0ae-c465-4a46-888e-ca737cc4628e.lstmf
+Iteration 897: GROUND  TRUTH : ٤٩٢
+Iteration 897: ALIGNED TRUTH : ٤٤٩٩٩٢٢
+Iteration 897: BEST OCR TEXT : 
+File data/JSTORArabic-ground-truth/488435d5-5f3a-4ca9-bec4-6b3cce31b43c.lstmf line 0 :
+Mean rms=1.818%, delta=5.028%, train=19.017%(33.197%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/e6689cf9-0222-456f-bacc-7d2c293032c6.lstmf
+Iteration 898: GROUND  TRUTH : ةروفوم ةجلاعملا تايناكما نكلو ناتريطخ - ةيرادالاو ةيداصتقالا - ناتلاحلا ناتهف
+Iteration 898: BEST OCR TEXT : ةروفومةحلاعملا تايناكما نكلو ناتريطخ -- ةيرادالاو ةيداصتقالا - ناتلاحلا ناتهف
+File data/JSTORArabic-ground-truth/630d884d-6555-4a70-b2d8-05f9560178ea.lstmf line 0 :
+Mean rms=1.817%, delta=5.024%, train=19.002%(33.19%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/e1046009-ca85-4d0a-8891-cf9e4eccdd9b.lstmf
+Iteration 899: GROUND  TRUTH : امربً اروغي درولا رصبت
+Iteration 899: BEST OCR TEXT : امرب ًارويغ درولا رصمق
+File data/JSTORArabic-ground-truth/52a81a3e-fbc2-4d13-b638-6fb4fe73ee6a.lstmf line 0 :
+Mean rms=1.818%, delta=5.031%, train=19.001%(33.236%), skip ratio=0%
+2 Percent improvement time=362, best error was 21.311 @ 459
+At iteration 821/900/900, Mean rms=1.818%, delta=5.031%, char train=19.001%, word train=33.236%, skip ratio=0%,  New best char error = 19.001 wrote best model:data/JSTORArabic/checkpoints/JSTORArabic_19.001_821_900.checkpoint wrote checkpoint.
+
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/61143bb0-2fff-4043-88d9-dd0b7aa5fa2c.lstmf
+Iteration 900: GROUND  TRUTH : ١٩٠٤ ةنس رخاواب ،ةيسردملا تالفحلا قاطن جراخ ،حرسملاب يناحيرلا لاصتا ةيادب خرؤن نا اننكمي انه
+Iteration 900: ALIGNED TRUTH : ١٩٠٤٤ ةنس رخاواب ،ةيسردملا تالفحلا قاطن جراخ ،حرسملاب يناحيرلا لاصتا ةيادب خرؤن نا اننكمي انه
+Iteration 900: BEST OCR TEXT : ١١  ةنس رخاواب  ةيسردملا تالفحلا قاطن جراخ حرسملاب يناحيرلا لاصتا ةيادب خرؤن نا اننكمي انه
+File data/JSTORArabic-ground-truth/8b22e8e7-b47d-469e-ad74-19fc87de578d.lstmf line 0 :
+Mean rms=1.818%, delta=5.027%, train=18.989%(33.222%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/1a57bb2f-fc7d-48f3-b130-1f9b3180b687.lstmf
+Iteration 901: GROUND  TRUTH : ? هشتين لاق امك ،ةوقلا ةدارا ةمدخ يف لمعتسي كينكت ةفرعملا نا ما ،ينيوكالا
+Iteration 901: BEST OCR TEXT :  هشئنين لاق ص ضوقلا ةدارا ةمدخ يف لمعتسي كينكت ةفرعملا نا ما ينيوك الا
+File data/JSTORArabic-ground-truth/789ae2a8-599a-4667-ba87-2c3c5798f614.lstmf line 0 :
+Mean rms=1.818%, delta=5.026%, train=18.988%(33.225%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/27c90d5a-fad1-4ba4-aaa9-71204078d544.lstmf
+Iteration 902: GROUND  TRUTH : ٨
+Iteration 902: ALIGNED TRUTH : ٨٨
+Iteration 902: BEST OCR TEXT : /
+File data/JSTORArabic-ground-truth/c6acd32d-8f79-4b59-8ee6-aa91deef1e1d.lstmf line 0 :
+Mean rms=1.82%, delta=5.048%, train=19.189%(33.298%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/484ebeba-3016-43b9-b691-33eaf047bb3e.lstmf
+Iteration 903: GROUND  TRUTH : لامعالاب مايقلاو ةرادالا ماهم ذخال نييلحملا ناكسلا بيردت ىلا نوينفلا ءالؤه دصقي
+Iteration 903: BEST OCR TEXT : لامعالابمايقلاو ةرادالا ماهم ذخال نييلحملا ناكسلا بيردت ىلا نوينفلا ءالؤه دصقي
+File data/JSTORArabic-ground-truth/ae1e39e9-5cff-481e-a343-7779c3e8f085.lstmf line 0 (Perfect):
+Mean rms=1.819%, delta=5.043%, train=19.169%(33.28%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/ede236f3-056e-40dc-a301-430d8a20f923.lstmf
+Iteration 904: GROUND  TRUTH : رصبلا حملك رم هنا
+Iteration 904: ALIGNED TRUTH : رصبلا حملك ررم هنا
+Iteration 904: BEST OCR TEXT : رصبلا مسلك ص هننا
+File data/JSTORArabic-ground-truth/e5dcb9cf-7265-4be9-bb81-85e59895d887.lstmf line 0 :
+Mean rms=1.82%, delta=5.047%, train=19.187%(33.326%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/b9845c79-499f-4b3b-a944-54a394583128.lstmf
+Iteration 905: GROUND  TRUTH : . دمحم ىفطصم ،دعسم
+Iteration 905: BEST OCR TEXT : . دم ىفطصم دعسم
+File data/JSTORArabic-ground-truth/4c9ee0ae-c465-4a46-888e-ca737cc4628e.lstmf line 0 :
+Mean rms=1.82%, delta=5.046%, train=19.184%(33.345%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/bbfa8413-02b7-45a4-8de4-c8698678d170.lstmf
+Iteration 906: GROUND  TRUTH : آ . يبرعلا قرشلا يف ركفلا هجتني ام ريخ
+Iteration 906: ALIGNED TRUTH : آآآآآآآآآآ        ... يبرعلا قرشلا يف ركفلا هجتني ام ريخ
+Iteration 906: BEST OCR TEXT :                   . يفبرعلا قرشلا يف ركفلا هجتني ام ريخ
+File data/JSTORArabic-ground-truth/e6689cf9-0222-456f-bacc-7d2c293032c6.lstmf line 0 :
+Mean rms=1.82%, delta=5.043%, train=19.218%(33.332%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/ab81071a-ec3f-4084-ba5f-62e61d49e0f0.lstmf
+Iteration 907: GROUND  TRUTH : عونب هسفن مهنم لک فنصیو عقاولا اوهجاوي نا اوضفر ةدلبلا لها نا كلذو
+Iteration 907: BEST OCR TEXT : عونب هسفن مهنم لك فنصيو عقاولا اوهجاوي نا اوضفر ةدلبلا لها نا كلذو
+File data/JSTORArabic-ground-truth/e1046009-ca85-4d0a-8891-cf9e4eccdd9b.lstmf line 0 :
+Mean rms=1.82%, delta=5.041%, train=19.203%(33.313%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/8ae74e0f-f8ad-4dfd-9d27-30430a603e21.lstmf
+Iteration 908: GROUND  TRUTH : . ةيمسرلا ميلعتلا تاسسؤمب هقلعت نم رسيأو ربكأ ًاقعلت اهب قلعتي ام اًبلاغ يذلا
+Iteration 908: ALIGNED TRUTH : . ةيمسرلا ميلعتلا تاسسؤمب هقلعت نم رسيأو ربكأ ًاقعلعت اهب قلعتي ام اًبلاغ يذلا
+Iteration 908: BEST OCR TEXT : . ةيمسرلا ميلعتلا تاسسؤمب هقلعت نم رسيأو ربكأ اًقلعت اهب قلعتي ام ابلاغ يذلا
+File data/JSTORArabic-ground-truth/61143bb0-2fff-4043-88d9-dd0b7aa5fa2c.lstmf line 0 :
+Mean rms=1.82%, delta=5.04%, train=19.184%(33.292%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/bfbb2eda-396c-4db7-8835-083c2542e207.lstmf
+Iteration 909: GROUND  TRUTH : يف ىرج ام ىلع تاظحالملا ضعب انل نا ريغ . ةيدج ةيانع عوضوملاب نيينعملا عيمجو صاصتخإلاو
+File data/JSTORArabic-ground-truth/1a57bb2f-fc7d-48f3-b130-1f9b3180b687.lstmf line 0 (Perfect):
+Mean rms=1.818%, delta=5.034%, train=19.163%(33.255%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/51943692-95a4-4b01-83d5-a1cb854e32dc.lstmf
+Iteration 910: GROUND  TRUTH : . نيحشرملا يلثممو نمالا لاجر لبق نم سرحتو نيحشرملا يلثممو تيوصتلا ةئيه متاخب
+Iteration 910: BEST OCR TEXT : . نيحشرملا يلثممو نمالا يلاجر لبق نم سرحنو نيحشرملا يلتمو تيوصنلا ةئيه متاخب
+File data/JSTORArabic-ground-truth/27c90d5a-fad1-4ba4-aaa9-71204078d544.lstmf line 0 :
+Mean rms=1.818%, delta=5.033%, train=19.15%(33.252%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/a05f3310-cd0f-42ac-8443-0de17b66b4c2.lstmf
+Iteration 911: GROUND  TRUTH : ةنايسبجالا شوح قلح
+Iteration 911: BEST OCR TEXT : ةنايسجالا  شوح قلح
+File data/JSTORArabic-ground-truth/484ebeba-3016-43b9-b691-33eaf047bb3e.lstmf line 0 (Perfect):
+Mean rms=1.818%, delta=5.028%, train=19.141%(33.252%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/07564756-22fe-410e-9bfc-8af5bd061f65.lstmf
+Iteration 912: GROUND  TRUTH : لعفت دق ملعلا يف ةيرذلا ةروثلاف . برحلا ةسسؤم ةلازا لب يرشبلا سنجلا وحم
+Iteration 912: BEST OCR TEXT : لعفت دق ملعلا يف ةيرذلا ةروثلاف . برحلا ةسسؤم ةلازا لب يرشبلا سنجلا وح
+File data/JSTORArabic-ground-truth/ede236f3-056e-40dc-a301-430d8a20f923.lstmf line 0 :
+Mean rms=1.817%, delta=5.023%, train=19.122%(33.224%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/8ea8cfa6-5c68-490c-b3e4-6007f35ea4d7.lstmf
+Iteration 913: GROUND  TRUTH : . رطخلل اهضعب وا ،اهلك ةعامجلا ةمالس ضرعت يتلا ةماعلا ثراوكلا ةحفاكم (ب)
+Iteration 913: BEST OCR TEXT : . رطخلل اهضعب وا »اهلك ةعامجلا ةمالس ضرعت يتلا ةماعلا ثراوكلا ةحفاكم )ب(
+File data/JSTORArabic-ground-truth/b9845c79-499f-4b3b-a944-54a394583128.lstmf line 0 :
+Mean rms=1.816%, delta=5.019%, train=19.104%(33.204%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/dcd3d7aa-46af-42fd-b66a-9ab20281c9a2.lstmf
+Iteration 914: GROUND  TRUTH : ًاعيمج برغلاو قرشلاب رثأتف ملعلً ابلطا ،اكريما يف ديدجلا برغلا وا ابوروا
+Iteration 914: ALIGNED TRUTH : ًاعيمج برغلاو قرشلاب رثأتف ملعل ابلطا ،اكريما يف ديدجلا برغلا وا ابوروا
+Iteration 914: BEST OCR TEXT : ًاميمج برغلاو قرشلاب رثأف ملعل ًابلاط اكريما يف ديدجلا برغلا وا ابوروا
+File data/JSTORArabic-ground-truth/bbfa8413-02b7-45a4-8de4-c8698678d170.lstmf line 0 :
+Mean rms=1.816%, delta=5.02%, train=19.089%(33.214%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/c5817140-4039-418d-a3b1-0a1df3c22453.lstmf
+Iteration 915: GROUND  TRUTH : هلقعب اهنع لأسی ةلئسم لک يف قحلا فرعي موصعملا مهماما ،يرعش
+Iteration 915: BEST OCR TEXT : لقةعب اهنع لأسي ةلئسم لك يف قحلا فرعي موصعملا مهماما يرعش
+File data/JSTORArabic-ground-truth/ab81071a-ec3f-4084-ba5f-62e61d49e0f0.lstmf line 0 :
+Mean rms=1.816%, delta=5.021%, train=19.082%(33.217%), skip ratio=0%
+Loaded 1/1 lines (1-1) of document data/JSTORArabic-ground-truth/06ce90c5-af44-4149-a859-abca1be9c8ee.lstmf
+Iteration 916: GROUND  TRUTH : غلابم ةموكحلل رفو دق تيزلا زايتما نم لخدلا ةدايز نا دجن ةيدوعسلا دالبلا يفف
+Iteration 916: BEST OCR TEXT : غلابم ةموكحلل رفو دق تيزلا زايتما نم لخدلا ةدايز نا دجت ةيدوعسلا دالبلا يفف
+File data/JSTORArabic-ground-truth/8ae74e0f-f8ad-4dfd-9d27-30430a603e21.lstmf line 0 :

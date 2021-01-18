@@ -20,4 +20,5 @@ wackenroder_herzensergiessungen_*.tif
 master.zip
 plot/*.LOG
 plot/ocrd*
-data/*/checkpoints/
+data/*/checkpoints
+data/*/checkpoints/*
