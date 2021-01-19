@@ -25,3 +25,4 @@ data/*/checkpoints/*
 data/*/tessdata_fast
 data/*/tessdata_best
 data/JSTORArabic/checkpoints/JSTORArabic_checkpoint
+plot/tmp*
