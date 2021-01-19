@@ -15,9 +15,11 @@ setup.sh
 train.sh
 
 ## Plotting
+```
 cd plot
 make MODEL_NAME=JSTORArabic
 make MODEL_NAME=JSTORArabic VALIDATE_LIST=eval
+```
 
 The plots are saved in [data/JSTORArabic/plot](data/JSTORArabic/plot)
 

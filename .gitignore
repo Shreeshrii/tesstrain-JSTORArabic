@@ -1,3 +1,4 @@
+data/JSTORArabic/checkpoints/JSTORArabic_checkpoint
 data/ground-truth/*
 !data/ground-truth/.gitkeep
 data/all-*
