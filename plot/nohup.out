@@ -1,0 +1,53 @@
+make -C ../ traineddata MODEL_NAME=JSTORArabic
+make[1]: Entering directory '/home/ubuntu/tesstrain-JSTORArabic'
+make[1]: Nothing to be done for 'traineddata'.
+make[1]: Leaving directory '/home/ubuntu/tesstrain-JSTORArabic'
+OMP_THREAD_LIMIT=1 lstmeval  \
+	--verbosity=0 \
+	--model ../data/JSTORArabic/tessdata_fast/JSTORArabic_1.225_23481_52000.traineddata \
+	--eval_listfile tmp-JSTORArabic-validate-list.validate    > ../data/JSTORArabic/tessdata_fast/JSTORArabic_1.225_23481_52000.validate.log 2>&1
+OMP_THREAD_LIMIT=1 lstmeval  \
+	--verbosity=0 \
+	--model ../data/JSTORArabic/tessdata_fast/JSTORArabic_1.161_24890_57000.traineddata \
+	--eval_listfile tmp-JSTORArabic-validate-list.validate    > ../data/JSTORArabic/tessdata_fast/JSTORArabic_1.161_24890_57000.validate.log 2>&1
+OMP_THREAD_LIMIT=1 lstmeval  \
+	--verbosity=0 \
+	--model ../data/JSTORArabic/tessdata_fast/JSTORArabic_1.106_25664_59900.traineddata \
+	--eval_listfile tmp-JSTORArabic-validate-list.validate    > ../data/JSTORArabic/tessdata_fast/JSTORArabic_1.106_25664_59900.validate.log 2>&1
+OMP_THREAD_LIMIT=1 lstmeval  \
+	--verbosity=0 \
+	--model ../data/JSTORArabic/tessdata_fast/JSTORArabic_1.057_26227_62100.traineddata \
+	--eval_listfile tmp-JSTORArabic-validate-list.validate    > ../data/JSTORArabic/tessdata_fast/JSTORArabic_1.057_26227_62100.validate.log 2>&1
+OMP_THREAD_LIMIT=1 lstmeval  \
+	--verbosity=0 \
+	--model ../data/JSTORArabic/tessdata_fast/JSTORArabic_0.943_28762_72400.traineddata \
+	--eval_listfile tmp-JSTORArabic-validate-list.validate    > ../data/JSTORArabic/tessdata_fast/JSTORArabic_0.943_28762_72400.validate.log 2>&1
+OMP_THREAD_LIMIT=1 lstmeval  \
+	--verbosity=0 \
+	--model ../data/JSTORArabic/tessdata_fast/JSTORArabic_0.879_28816_72600.traineddata \
+	--eval_listfile tmp-JSTORArabic-validate-list.validate    > ../data/JSTORArabic/tessdata_fast/JSTORArabic_0.879_28816_72600.validate.log 2>&1
+OMP_THREAD_LIMIT=1 lstmeval  \
+	--verbosity=0 \
+	--model ../data/JSTORArabic/tessdata_fast/JSTORArabic_0.824_29978_77700.traineddata \
+	--eval_listfile tmp-JSTORArabic-validate-list.validate    > ../data/JSTORArabic/tessdata_fast/JSTORArabic_0.824_29978_77700.validate.log 2>&1
+OMP_THREAD_LIMIT=1 lstmeval  \
+	--verbosity=0 \
+	--model ../data/JSTORArabic/tessdata_fast/JSTORArabic_0.798_31041_82800.traineddata \
+	--eval_listfile tmp-JSTORArabic-validate-list.validate    > ../data/JSTORArabic/tessdata_fast/JSTORArabic_0.798_31041_82800.validate.log 2>&1
+OMP_THREAD_LIMIT=1 lstmeval  \
+	--verbosity=0 \
+	--model ../data/JSTORArabic/tessdata_fast/JSTORArabic_0.77_32839_92100.traineddata \
+	--eval_listfile tmp-JSTORArabic-validate-list.validate    > ../data/JSTORArabic/tessdata_fast/JSTORArabic_0.77_32839_92100.validate.log 2>&1
+OMP_THREAD_LIMIT=1 lstmeval  \
+	--verbosity=0 \
+	--model ../data/JSTORArabic/tessdata_fast/JSTORArabic_0.744_32964_92900.traineddata \
+	--eval_listfile tmp-JSTORArabic-validate-list.validate    > ../data/JSTORArabic/tessdata_fast/JSTORArabic_0.744_32964_92900.validate.log 2>&1
+OMP_THREAD_LIMIT=1 lstmeval  \
+	--verbosity=0 \
+	--model ../data/JSTORArabic/tessdata_fast/JSTORArabic_0.686_33021_93200.traineddata \
+	--eval_listfile tmp-JSTORArabic-validate-list.validate    > ../data/JSTORArabic/tessdata_fast/JSTORArabic_0.686_33021_93200.validate.log 2>&1
+OMP_THREAD_LIMIT=1 lstmeval  \
+	--verbosity=0 \
+	--model ../data/JSTORArabic/tessdata_fast/JSTORArabic_0.581_33879_98100.traineddata \
+	--eval_listfile tmp-JSTORArabic-validate-list.validate    > ../data/JSTORArabic/tessdata_fast/JSTORArabic_0.581_33879_98100.validate.log 2>&1
+python plot-eval-validate-cer.py -m JSTORArabic  -v validate

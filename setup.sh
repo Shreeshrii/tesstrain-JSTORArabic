@@ -1,15 +1,16 @@
 # Based on https://github.com/tesseract-ocr/tesstrain/wiki/Arabic-Handwriting
-
+rm -rf data
 mkdir -p data
 cd data
 wget https://github.com/tesseract-ocr/langdata_lstm/raw/master/radical-stroke.txt
 wget https://github.com/tesseract-ocr/langdata_lstm/raw/master/Latin.unicharset
 wget https://github.com/tesseract-ocr/langdata_lstm/raw/master/Arabic.unicharset
 # Copy Inherited.unicharset 
-cp ~/tesstrain-San/data/Inherited.unicharset ./
+cp ~/langdata_lstm/Inherited.unicharset ./
 
+mkdir JSTORArabic-ground-truth
 git clone https://github.com/OpenITI/TrainingData
-mv TrainingData/JSTORArabic JSTORArabic-ground-truth
+mv TrainingData/JSTORArabic/*.* JSTORArabic-ground-truth
 rm -rf TrainingData
 
 cd JSTORArabic-ground-truth
@@ -27,6 +28,12 @@ rm -v $(find . -size 0|sed s/.gt.txt/.*/)
 # Remove images and their gt.txt which were written from top to bottom or from bottom to top.
 # The heuristics here assumes that such images have a 3 digit width and a 4 digit height.
 rm -v $( file *.png|grep ", ... x ....,"|sed s/png/*/)
+
+# from @M3ssman
+rm -v $(grep -e '[\(|\)|\<|\||\>|«|»]' *.txt | sed s/gt.txt.*$/*/)
+rm -v $(find . -size -4c | sed s/.gt.txt/.*/)
+#rm -v $(file *.png | grep ", . x " | sed s/png/*/)
+#rm -v $(file *.png | grep ", .. x .," | sed s/png/*/)
 
 # Replace Farsi numbers by EAN - This is needed because of wrong transcription.
 sed -i -f ../../fixpersiannumbers.sed *.gt.txt
@@ -68,3 +75,11 @@ python count_chars.py data/JSTORArabic/all-gt  | sort -n -r > data/JSTORArabic/a
 
 nohup make LANG_TYPE=RTL MODEL_NAME=JSTORArabic PSM=13 START_MODEL=ara TESSDATA=$HOME/tessdata_best EPOCHS=100 RATIO_TRAIN=0.80 DEBUG_INTERVAL=-1 lists >> data/JSTORArabic.log &
 tail -f  data/JSTORArabic.log
+
+
+rm -v $(find . -size 0|sed s/.box/.*/)
+
+nohup make LANG_TYPE=RTL MODEL_NAME=JSTORArabic PSM=13 START_MODEL=ara TESSDATA=$HOME/tessdata_best EPOCHS=100 RATIO_TRAIN=0.80 DEBUG_INTERVAL=-1 lists >> data/JSTORArabic.log &
+tail -f  data/JSTORArabic.log
+
+
