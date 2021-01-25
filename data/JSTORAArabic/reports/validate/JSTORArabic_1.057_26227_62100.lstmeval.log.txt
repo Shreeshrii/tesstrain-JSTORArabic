@@ -1,1 +1,0 @@
-Must supply --traineddata to eval a training checkpoint!

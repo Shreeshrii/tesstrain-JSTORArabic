@@ -1,4 +1,0 @@
-
-======================================================================
-data/JSTORAArabic/reports/validate/ara.lstmeval.Truth.txt: 0 words
-data/JSTORAArabic/reports/validate/ara.lstmeval.OCR.txt: 0 words
